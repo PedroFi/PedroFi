@@ -1,0 +1,210 @@
+[
+  {
+    "quote": "Any fool can write code that a computer can understand. Good programmers write code that humans can understand.",
+    "author": "Martin Fowler"
+  },
+  {
+    "quote": "First, solve the problem. Then, write the code.",
+    "author": "John Johnson"
+  },
+  {
+    "quote": "Experience is the name everyone gives to their mistakes.",
+    "author": "Oscar Wilde"
+  },
+  {
+    "quote": "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.",
+    "author": "Dan Salomon"
+  },
+  {
+    "quote": "Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.",
+    "author": "Antoine de Saint-Exupery"
+  },
+  {
+    "quote": "Code is like humor. When you have to explain it, it’s bad.",
+    "author": "Cory House"
+  },
+  {
+    "quote": "Optimism is an occupational hazard of programming: feedback is the treatment.",
+    "author": "Kent Beck"
+  },
+  {
+    "quote": "Make it work, make it right, make it fast.",
+    "author": "Kent Beck"
+  },
+  {
+    "quote": "Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.",
+    "author": "John Woods"
+  },
+  {
+    "quote": "I’m not a great programmer; I’m just a good programmer with great habits.",
+    "author": "Kent Beck"
+  },
+  {
+    "quote": "Truth can only be found in one place: the code.",
+    "author": "Robert C. Martin, Clean Code: A Handbook of Agile Software Craftsmanship"
+  },
+  {
+    "quote": "Give a man a program, frustrate him for a day. Teach a man to program, frustrate him for a lifetime.",
+    "author": "Muhammad Waseem"
+  },
+  {
+    "quote": "That’s the thing about people who think they hate computers. What they really hate is lousy programmers.",
+    "author": "Larry Niven"
+    },
+  {
+    "quote": "A language that doesn’t affect the way you think about programming is not worth knowing.",
+    "author": "Alan J. Perlis"
+  },
+  {
+    "quote": "Walking on water and developing software from a specification are easy if both are frozen.",
+    "author": "Edward V. Berard"
+  },
+  {
+    "quote": "Perl – The only language that looks the same before and after RSA encryption.",
+    "author": "Keith Bostic"
+  },
+  {
+    "quote": "Programming isn’t about what you know; it’s about what you can figure out.",
+    "author": "Chris Pine"
+  },
+  {
+    "quote": "Talk is cheap. Show me the code.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "quote": "Low-level programming is good for the programmer’s soul.",
+    "author": "John Carmack"
+  },
+  {
+    "quote": "Programmers are not to be measured by their ingenuity and their logic but by the completeness of their case analysis.",
+    "author": "Alan J. Perlis"
+  },
+  {
+    "quote": "What kind of programmer is so divorced from reality that he thinks he'll get complex software right the first time?",
+    "author": "James Alan Gardner, Ascending"
+  },
+  {
+    "quote": "There are 10 types of people in this world, those who understand binary and those who don't.",
+    "author": "Anonymous"
+  },
+  {
+    "quote": "Code never lies, comments sometimes do.",
+    "author": "Ron Jeffries"
+  },
+  {
+    "quote": "Any code of your own that you haven’t looked at for six or more months might as well have been written by someone else.",
+    "author": "(Eagleson’s Law)"
+  },
+  {
+    "quote": "There are only two kinds of languages: the ones people complain about and the ones nobody uses.",
+    "author": "Bjarne Stroustrup"
+  },
+  {
+    "quote": "Premature optimization is the root of all evil.",
+    "author": "Donald Knuth"
+  },
+  {
+    "quote": "Simplicity is prerequisite for reliability.",
+    "author": "Edsger W. Dijkstra"
+  },
+  {
+    "quote": "Software being 'Done' is like lawn being 'Mowed'.",
+    "author": "Jim Benson"
+  },
+  {
+    "quote": "There’s no test like production.",
+    "author": "Anonymous"
+  },
+  {
+    "quote": "One man’s constant is another man’s variable.",
+    "author": "Alan J. Perlis"
+  },
+  {
+    "quote": "One of the best programming skills you can have is knowing when to walk away for awhile.",
+    "author": "Oscar Godson"
+  },
+  {
+    "quote": "The best thing about a boolean is even if you are wrong, you are only off by a bit.",
+    "author": "Bryan"
+  },
+  {
+    "quote": "Java: write once, run away!",
+    "author": "Brucee"
+  },
+  {
+    "quote": "If Java had true garbage collection, most programs would delete themselves upon execution.",
+    "author": "Robert Sewell"
+  },
+  {
+    "quote": "The definition of Hell is working with dates in Java, JDBC, and Oracle. Every single one of them screw it up.",
+    "author": "Dick Wall CommunityOne 2007: Lunch with the Java Posse"
+  },
+  {
+    "quote": "There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.",
+    "author": "C.A.R. Hoare"
+  },
+  {
+    "quote": "If debugging is the process of removing software bugs, then programming must be the process of putting them in.",
+    "author": "Edsger Dijkstra"
+  },
+  {
+    "quote": "Measuring programming progress by lines of code is like measuring aircraft building progress by weight.",
+    "author": "Bill Gates"
+  },
+  {
+    "quote": "When debugging, novices insert corrective code; experts remove defective code.",
+    "author": "Richard Pattis"
+  },
+  {
+    "quote": "Good code is its own best documentation. As you’re about to add a comment, ask yourself, ‘How can I improve the code so that this comment isn’t needed?’",
+    "author": "Steve McConnell"
+  },
+  {
+    "quote": "Cherish your exceptions.",
+    "author": "Anonymous"
+  },
+  {
+    "quote": "Copy and paste is a design error.",
+    "author": "David Parnas"
+  },
+  {
+    "quote": "I have no special talents. I am only passionately curious.",
+    "author": "Albert Einstein"
+  },
+  {
+    "quote": "Code is not like other how-computers-work books. It doesn’t have big color illustrations of disk drives with arrows showing how the data sweeps into the computer. Code has no drawings of trains carrying a cargo of zeros and ones. Metaphors and similes are wonderful literary devices but they do nothing but obscure the beauty of technology.",
+    "author": "Charles Petzold, Code: The Hidden Language of Computer Hardware and Software"
+  },
+  {
+    "quote": "When he really, really likes a girl, he creates a font and names it after her.",
+    "author": "David Levithan, Every Day"
+  },
+  {
+    "quote": "If, at first, you do not succeed, call it version 1.0.",
+    "author": "Khayri R.R. Woulfe"
+  },
+  {
+    "quote": "Code is there to explain the comments to the computer.",
+    "author": "Andy Harris"
+  },
+  {
+    "quote": "A long descriptive name is better than a short enigmatic name. A long descriptive name is better than a long descriptive comment.",
+    "author": "Robert C. Martin, Clean Code: A Handbook of Agile Software Craftsmanship"
+  },
+  {
+    "quote": "Syntactic sugar causes cancer of the semicolon.",
+    "author": "Alan J. Perlis, Structure and Interpretation of Computer Programs"
+  },
+  {
+    "quote": "Pascal for real programmers; Delphi for Nerds; C/C++ for people who always wished to do things like reinventing the wheel.",
+    "author": "Rejie Roque (edited.)"
+  },
+  {
+    "quote": "In the happy land of elegant code and pretty rainbows, there lives a spoil-sport monster called inefficiency.",
+    "author": "Marijn Haverbeke, Eloquent JavaScript: A Modern Introduction to Programming"
+  },
+  {
+    "quote": "If a machine ever gains awareness, it will be not due to our careful programming, but due to an unforeseeable anomaly.",
+    "author": "Abhijit Naskar, The Gospel of Technology"
+  }
+]
