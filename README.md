@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*One man’s constant is another man’s variable.*″
- — Alan J. Perlis
+> ″*Truth can only be found in one place: the code.*″
+ — Robert C. Martin, Clean Code: A Handbook of Agile Software Craftsmanship
