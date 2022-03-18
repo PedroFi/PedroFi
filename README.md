@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Java: write once, run away!*″
- — Brucee
+> ″*Programming isn’t about what you know; it’s about what you can figure out.*″
+ — Chris Pine
