@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Talk is cheap. Show me the code.*″
- — Linus Torvalds
+> ″*If, at first, you do not succeed, call it version 1.0.*″
+ — Khayri R.R. Woulfe
