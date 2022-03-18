@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Programming isn’t about what you know; it’s about what you can figure out.*″
- — Chris Pine
+> ″*Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.*″
+ — John Woods
