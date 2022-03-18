@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*A language that doesn’t affect the way you think about programming is not worth knowing.*″
- — Alan J. Perlis
+> ″*Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.*″
+ — Antoine de Saint-Exupery
