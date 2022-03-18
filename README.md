@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Java: write once, run away!*″
- — Brucee
+> ″*One man’s constant is another man’s variable.*″
+ — Alan J. Perlis
