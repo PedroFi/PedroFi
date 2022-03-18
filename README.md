@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There are only two kinds of languages: the ones people complain about and the ones nobody uses.*″
- — Bjarne Stroustrup
+> ″*When he really, really likes a girl, he creates a font and names it after her.*″
+ — David Levithan, Every Day
