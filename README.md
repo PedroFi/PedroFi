@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*A language that doesn’t affect the way you think about programming is not worth knowing.*″
- — Alan J. Perlis
+> ″*Measuring programming progress by lines of code is like measuring aircraft building progress by weight.*″
+ — Bill Gates
