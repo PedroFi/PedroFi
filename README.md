@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Programming isn’t about what you know; it’s about what you can figure out.*″
- — Chris Pine
+> ″*There are 10 types of people in this world, those who understand binary and those who don't.*″
+ — Anonymous
