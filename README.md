@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There’s no test like production.*″
- — Anonymous
+> ″*Low-level programming is good for the programmer’s soul.*″
+ — John Carmack
