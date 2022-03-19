@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Pascal for real programmers; Delphi for Nerds; C/C++ for people who always wished to do things like reinventing the wheel.*″
- — Rejie Roque (edited.)
+> ″*Code is there to explain the comments to the computer.*″
+ — Andy Harris
