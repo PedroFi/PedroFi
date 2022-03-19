@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Truth can only be found in one place: the code.*″
- — Robert C. Martin, Clean Code: A Handbook of Agile Software Craftsmanship
+> ″*There are only two kinds of languages: the ones people complain about and the ones nobody uses.*″
+ — Bjarne Stroustrup
