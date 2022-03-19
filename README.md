@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When he really, really likes a girl, he creates a font and names it after her.*″
- — David Levithan, Every Day
+> ″*There are 10 types of people in this world, those who understand binary and those who don't.*″
+ — Anonymous
