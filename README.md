@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There are only two kinds of languages: the ones people complain about and the ones nobody uses.*″
- — Bjarne Stroustrup
+> ″*Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.*″
+ — Dan Salomon
