@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*That’s the thing about people who think they hate computers. What they really hate is lousy programmers.*″
- — Larry Niven
+> ″*I have no special talents. I am only passionately curious.*″
+ — Albert Einstein
