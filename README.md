@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Any code of your own that you haven’t looked at for six or more months might as well have been written by someone else.*″
- — (Eagleson’s Law)
+> ″*A language that doesn’t affect the way you think about programming is not worth knowing.*″
+ — Alan J. Perlis
