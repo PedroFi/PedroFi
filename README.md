@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Premature optimization is the root of all evil.*″
- — Donald Knuth
+> ″*Code never lies, comments sometimes do.*″
+ — Ron Jeffries
