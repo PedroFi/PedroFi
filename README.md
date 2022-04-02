@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Measuring programming progress by lines of code is like measuring aircraft building progress by weight.*″
- — Bill Gates
+> ″*If, at first, you do not succeed, call it version 1.0.*″
+ — Khayri R.R. Woulfe
