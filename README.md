@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*If, at first, you do not succeed, call it version 1.0.*″
- — Khayri R.R. Woulfe
+> ″*Any code of your own that you haven’t looked at for six or more months might as well have been written by someone else.*″
+ — (Eagleson’s Law)
