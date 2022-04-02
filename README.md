@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Give a man a program, frustrate him for a day. Teach a man to program, frustrate him for a lifetime.*″
- — Muhammad Waseem
+> ″*Syntactic sugar causes cancer of the semicolon.*″
+ — Alan J. Perlis, Structure and Interpretation of Computer Programs
