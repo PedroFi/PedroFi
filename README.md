@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Truth can only be found in one place: the code.*″
- — Robert C. Martin, Clean Code: A Handbook of Agile Software Craftsmanship
+> ″*Give a man a program, frustrate him for a day. Teach a man to program, frustrate him for a lifetime.*″
+ — Muhammad Waseem
