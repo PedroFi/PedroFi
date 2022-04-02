@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Any fool can write code that a computer can understand. Good programmers write code that humans can understand.*″
- — Martin Fowler
+> ″*If Java had true garbage collection, most programs would delete themselves upon execution.*″
+ — Robert Sewell
