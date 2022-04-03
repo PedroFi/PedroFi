@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Code never lies, comments sometimes do.*″
- — Ron Jeffries
+> ″*Perl – The only language that looks the same before and after RSA encryption.*″
+ — Keith Bostic
