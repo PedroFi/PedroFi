@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Copy and paste is a design error.*″
- — David Parnas
+> ″*Perl – The only language that looks the same before and after RSA encryption.*″
+ — Keith Bostic
