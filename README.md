@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Perl – The only language that looks the same before and after RSA encryption.*″
- — Keith Bostic
+> ″*The definition of Hell is working with dates in Java, JDBC, and Oracle. Every single one of them screw it up.*″
+ — Dick Wall CommunityOne 2007: Lunch with the Java Posse
