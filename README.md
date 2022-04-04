@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There’s no test like production.*″
+> ″*There are 10 types of people in this world, those who understand binary and those who don't.*″
  — Anonymous
