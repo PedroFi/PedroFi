@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Simplicity is prerequisite for reliability.*″
- — Edsger W. Dijkstra
+> ″*If Java had true garbage collection, most programs would delete themselves upon execution.*″
+ — Robert Sewell
