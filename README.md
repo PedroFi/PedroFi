@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There are 10 types of people in this world, those who understand binary and those who don't.*″
- — Anonymous
+> ″*Experience is the name everyone gives to their mistakes.*″
+ — Oscar Wilde
