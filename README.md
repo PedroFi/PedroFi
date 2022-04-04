@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*If a machine ever gains awareness, it will be not due to our careful programming, but due to an unforeseeable anomaly.*″
- — Abhijit Naskar, The Gospel of Technology
+> ″*Perl – The only language that looks the same before and after RSA encryption.*″
+ — Keith Bostic
