@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Syntactic sugar causes cancer of the semicolon.*″
- — Alan J. Perlis, Structure and Interpretation of Computer Programs
+> ″*If a machine ever gains awareness, it will be not due to our careful programming, but due to an unforeseeable anomaly.*″
+ — Abhijit Naskar, The Gospel of Technology
