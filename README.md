@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Give a man a program, frustrate him for a day. Teach a man to program, frustrate him for a lifetime.*″
- — Muhammad Waseem
+> ″*One of the best programming skills you can have is knowing when to walk away for awhile.*″
+ — Oscar Godson
