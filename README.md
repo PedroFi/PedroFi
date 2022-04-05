@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Syntactic sugar causes cancer of the semicolon.*″
- — Alan J. Perlis, Structure and Interpretation of Computer Programs
+> ″*Programming isn’t about what you know; it’s about what you can figure out.*″
+ — Chris Pine
