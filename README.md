@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When he really, really likes a girl, he creates a font and names it after her.*″
- — David Levithan, Every Day
+> ″*If, at first, you do not succeed, call it version 1.0.*″
+ — Khayri R.R. Woulfe
