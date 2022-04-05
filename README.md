@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Truth can only be found in one place: the code.*″
- — Robert C. Martin, Clean Code: A Handbook of Agile Software Craftsmanship
+> ″*Syntactic sugar causes cancer of the semicolon.*″
+ — Alan J. Perlis, Structure and Interpretation of Computer Programs
