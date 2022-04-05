@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Simplicity is prerequisite for reliability.*″
- — Edsger W. Dijkstra
+> ″*First, solve the problem. Then, write the code.*″
+ — John Johnson
