@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*If, at first, you do not succeed, call it version 1.0.*″
- — Khayri R.R. Woulfe
+> ″*If debugging is the process of removing software bugs, then programming must be the process of putting them in.*″
+ — Edsger Dijkstra
