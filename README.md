@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Programming isn’t about what you know; it’s about what you can figure out.*″
- — Chris Pine
+> ″*Walking on water and developing software from a specification are easy if both are frozen.*″
+ — Edward V. Berard
