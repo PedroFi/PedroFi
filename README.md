@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Simplicity is prerequisite for reliability.*″
- — Edsger W. Dijkstra
+> ″*When he really, really likes a girl, he creates a font and names it after her.*″
+ — David Levithan, Every Day
