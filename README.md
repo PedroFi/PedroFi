@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*One man’s constant is another man’s variable.*″
- — Alan J. Perlis
+> ″*Perl – The only language that looks the same before and after RSA encryption.*″
+ — Keith Bostic
