@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When debugging, novices insert corrective code; experts remove defective code.*″
- — Richard Pattis
+> ″*The best thing about a boolean is even if you are wrong, you are only off by a bit.*″
+ — Bryan
