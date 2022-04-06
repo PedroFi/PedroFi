@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Code is there to explain the comments to the computer.*″
- — Andy Harris
+> ″*Optimism is an occupational hazard of programming: feedback is the treatment.*″
+ — Kent Beck
