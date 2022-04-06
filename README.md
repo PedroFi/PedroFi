@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*The best thing about a boolean is even if you are wrong, you are only off by a bit.*″
- — Bryan
+> ″*Programmers are not to be measured by their ingenuity and their logic but by the completeness of their case analysis.*″
+ — Alan J. Perlis
