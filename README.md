@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Code is there to explain the comments to the computer.*″
- — Andy Harris
+> ″*If a machine ever gains awareness, it will be not due to our careful programming, but due to an unforeseeable anomaly.*″
+ — Abhijit Naskar, The Gospel of Technology
