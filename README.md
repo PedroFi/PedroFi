@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Premature optimization is the root of all evil.*″
- — Donald Knuth
+> ″*What kind of programmer is so divorced from reality that he thinks he'll get complex software right the first time?*″
+ — James Alan Gardner, Ascending
