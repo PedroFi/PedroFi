@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Good code is its own best documentation. As you’re about to add a comment, ask yourself, ‘How can I improve the code so that this comment isn’t needed?’*″
- — Steve McConnell
+> ″*Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.*″
+ — Antoine de Saint-Exupery
