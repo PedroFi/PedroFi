@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Cherish your exceptions.*″
- — Anonymous
+> ″*I’m not a great programmer; I’m just a good programmer with great habits.*″
+ — Kent Beck
