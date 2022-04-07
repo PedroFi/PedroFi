@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There’s no test like production.*″
- — Anonymous
+> ″*There are only two kinds of languages: the ones people complain about and the ones nobody uses.*″
+ — Bjarne Stroustrup
