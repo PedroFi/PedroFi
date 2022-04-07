@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Syntactic sugar causes cancer of the semicolon.*″
- — Alan J. Perlis, Structure and Interpretation of Computer Programs
+> ″*If debugging is the process of removing software bugs, then programming must be the process of putting them in.*″
+ — Edsger Dijkstra
