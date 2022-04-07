@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There are only two kinds of languages: the ones people complain about and the ones nobody uses.*″
- — Bjarne Stroustrup
+> ″*In the happy land of elegant code and pretty rainbows, there lives a spoil-sport monster called inefficiency.*″
+ — Marijn Haverbeke, Eloquent JavaScript: A Modern Introduction to Programming
