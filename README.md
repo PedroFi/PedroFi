@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When debugging, novices insert corrective code; experts remove defective code.*″
- — Richard Pattis
+> ″*Premature optimization is the root of all evil.*″
+ — Donald Knuth
