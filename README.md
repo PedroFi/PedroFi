@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*One man’s constant is another man’s variable.*″
- — Alan J. Perlis
+> ″*Premature optimization is the root of all evil.*″
+ — Donald Knuth
