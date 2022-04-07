@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Low-level programming is good for the programmer’s soul.*″
- — John Carmack
+> ″*One man’s constant is another man’s variable.*″
+ — Alan J. Perlis
