@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.*″
- — Antoine de Saint-Exupery
+> ″*The definition of Hell is working with dates in Java, JDBC, and Oracle. Every single one of them screw it up.*″
+ — Dick Wall CommunityOne 2007: Lunch with the Java Posse
