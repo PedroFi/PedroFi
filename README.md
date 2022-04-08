@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Measuring programming progress by lines of code is like measuring aircraft building progress by weight.*″
- — Bill Gates
+> ″*Truth can only be found in one place: the code.*″
+ — Robert C. Martin, Clean Code: A Handbook of Agile Software Craftsmanship
