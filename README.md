@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Premature optimization is the root of all evil.*″
- — Donald Knuth
+> ″*Software being 'Done' is like lawn being 'Mowed'.*″
+ — Jim Benson
