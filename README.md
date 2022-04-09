@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Make it work, make it right, make it fast.*″
- — Kent Beck
+> ″*Simplicity is prerequisite for reliability.*″
+ — Edsger W. Dijkstra
