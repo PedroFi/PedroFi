@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Good code is its own best documentation. As you’re about to add a comment, ask yourself, ‘How can I improve the code so that this comment isn’t needed?’*″
- — Steve McConnell
+> ″*Perl – The only language that looks the same before and after RSA encryption.*″
+ — Keith Bostic
