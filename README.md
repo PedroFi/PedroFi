@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Software being 'Done' is like lawn being 'Mowed'.*″
- — Jim Benson
+> ″*If Java had true garbage collection, most programs would delete themselves upon execution.*″
+ — Robert Sewell
