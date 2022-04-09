@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*If Java had true garbage collection, most programs would delete themselves upon execution.*″
- — Robert Sewell
+> ″*First, solve the problem. Then, write the code.*″
+ — John Johnson
