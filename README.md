@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*One man’s constant is another man’s variable.*″
- — Alan J. Perlis
+> ″*Optimism is an occupational hazard of programming: feedback is the treatment.*″
+ — Kent Beck
