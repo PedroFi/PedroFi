@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*First, solve the problem. Then, write the code.*″
- — John Johnson
+> ″*One of the best programming skills you can have is knowing when to walk away for awhile.*″
+ — Oscar Godson
