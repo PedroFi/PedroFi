@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*I’m not a great programmer; I’m just a good programmer with great habits.*″
- — Kent Beck
+> ″*There are 10 types of people in this world, those who understand binary and those who don't.*″
+ — Anonymous
