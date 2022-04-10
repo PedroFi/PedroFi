@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*I’m not a great programmer; I’m just a good programmer with great habits.*″
- — Kent Beck
+> ″*Code is like humor. When you have to explain it, it’s bad.*″
+ — Cory House
