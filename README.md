@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*If Java had true garbage collection, most programs would delete themselves upon execution.*″
- — Robert Sewell
+> ″*If debugging is the process of removing software bugs, then programming must be the process of putting them in.*″
+ — Edsger Dijkstra
