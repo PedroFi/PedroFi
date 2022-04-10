@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Cherish your exceptions.*″
- — Anonymous
+> ″*If Java had true garbage collection, most programs would delete themselves upon execution.*″
+ — Robert Sewell
