@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*One of the best programming skills you can have is knowing when to walk away for awhile.*″
- — Oscar Godson
+> ″*Any fool can write code that a computer can understand. Good programmers write code that humans can understand.*″
+ — Martin Fowler
