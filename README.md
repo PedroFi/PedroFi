@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*I have no special talents. I am only passionately curious.*″
- — Albert Einstein
+> ″*Experience is the name everyone gives to their mistakes.*″
+ — Oscar Wilde
