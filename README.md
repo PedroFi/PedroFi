@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Optimism is an occupational hazard of programming: feedback is the treatment.*″
- — Kent Beck
+> ″*When debugging, novices insert corrective code; experts remove defective code.*″
+ — Richard Pattis
