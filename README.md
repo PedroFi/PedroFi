@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Experience is the name everyone gives to their mistakes.*″
- — Oscar Wilde
+> ″*Code is there to explain the comments to the computer.*″
+ — Andy Harris
