@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Code never lies, comments sometimes do.*″
- — Ron Jeffries
+> ″*A long descriptive name is better than a short enigmatic name. A long descriptive name is better than a long descriptive comment.*″
+ — Robert C. Martin, Clean Code: A Handbook of Agile Software Craftsmanship
