@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Programming isn’t about what you know; it’s about what you can figure out.*″
- — Chris Pine
+> ″*I’m not a great programmer; I’m just a good programmer with great habits.*″
+ — Kent Beck
