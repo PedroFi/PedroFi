@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Make it work, make it right, make it fast.*″
- — Kent Beck
+> ″*Programming isn’t about what you know; it’s about what you can figure out.*″
+ — Chris Pine
