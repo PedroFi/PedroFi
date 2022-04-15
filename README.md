@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*The definition of Hell is working with dates in Java, JDBC, and Oracle. Every single one of them screw it up.*″
- — Dick Wall CommunityOne 2007: Lunch with the Java Posse
+> ″*Pascal for real programmers; Delphi for Nerds; C/C++ for people who always wished to do things like reinventing the wheel.*″
+ — Rejie Roque (edited.)
