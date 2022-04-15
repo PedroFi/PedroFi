@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*What kind of programmer is so divorced from reality that he thinks he'll get complex software right the first time?*″
- — James Alan Gardner, Ascending
+> ″*The definition of Hell is working with dates in Java, JDBC, and Oracle. Every single one of them screw it up.*″
+ — Dick Wall CommunityOne 2007: Lunch with the Java Posse
