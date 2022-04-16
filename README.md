@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Copy and paste is a design error.*″
- — David Parnas
+> ″*When debugging, novices insert corrective code; experts remove defective code.*″
+ — Richard Pattis
