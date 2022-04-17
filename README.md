@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Measuring programming progress by lines of code is like measuring aircraft building progress by weight.*″
- — Bill Gates
+> ″*Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.*″
+ — John Woods
