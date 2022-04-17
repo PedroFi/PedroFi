@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*If, at first, you do not succeed, call it version 1.0.*″
- — Khayri R.R. Woulfe
+> ″*Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.*″
+ — John Woods
