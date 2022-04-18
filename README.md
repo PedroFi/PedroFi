@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Russian roulette: [ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo **Click***″
+> ″*In C we had to code our own bugs. In C++ we can inherit them.*″
  — Unknown
