@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.*″
- — John Woods
+> ″*If a machine ever gains awareness, it will be not due to our careful programming, but due to an unforeseeable anomaly.*″
+ — Abhijit Naskar, The Gospel of Technology
