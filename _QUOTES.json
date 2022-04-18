@@ -348,7 +348,7 @@
     "author": "Unknown"
   },
   {
-    "quote": "Russian roulette: [ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo *Click*",
+    "quote": "Russian roulette: [ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo **Click**",
     "author": "Unknown"
   },
   {
