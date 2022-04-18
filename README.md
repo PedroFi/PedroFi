@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There are 10 types of people in this world, those who understand binary and those who don't.*″
- — Anonymous
+> ″*If debugging is the process of removing software bugs, then programming must be the process of putting them in.*″
+ — Edsger Dijkstra
