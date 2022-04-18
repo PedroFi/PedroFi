@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Give a man a program, frustrate him for a day. Teach a man to program, frustrate him for a lifetime.*″
- — Muhammad Waseem
+> ″*There are 10 types of people in this world, those who understand binary and those who don't.*″
+ — Anonymous
