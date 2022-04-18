@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Q: What did the Java code say to the C code? A: You’ve got no class.*″
+> ″*Russian roulette: [ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo *Click**″
  — Unknown
