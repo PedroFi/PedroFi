@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Why do Java programmers have to wear glasses? Because they don’t C#.*″
- — Unknown
+> ″*I’m not a great programmer; I’m just a good programmer with great habits.*″
+ — Kent Beck
