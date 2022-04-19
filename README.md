@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Q: Why did the programmer quit his job? A: Because he didn't get arrays.*″
+> ″*Two bytes meet. The first byte asks, ‘Are you ill?’. The second byte replies, ‘No, just feeling a bit off.’.*″
  — Unknown
