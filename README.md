@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Perl – The only language that looks the same before and after RSA encryption.*″
- — Keith Bostic
+> ″*When he really, really likes a girl, he creates a font and names it after her.*″
+ — David Levithan, Every Day
