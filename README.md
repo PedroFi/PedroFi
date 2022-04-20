@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Java: write once, run away!*″
- — Brucee
+> ″*Perl – The only language that looks the same before and after RSA encryption.*″
+ — Keith Bostic
