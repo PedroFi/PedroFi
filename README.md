@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Software being 'Done' is like lawn being 'Mowed'.*″
- — Jim Benson
+> ″*Q: If 1 is true and 0 is false? A: 1.*″
+ — Unknown
