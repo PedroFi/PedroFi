@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Why do Java programmers have to wear glasses? Because they don’t C#.*″
- — Unknown
+> ″*In the happy land of elegant code and pretty rainbows, there lives a spoil-sport monster called inefficiency.*″
+ — Marijn Haverbeke, Eloquent JavaScript: A Modern Introduction to Programming
