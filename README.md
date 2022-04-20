@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*C++: An octopus made by nailing extra legs onto a dog.*″
- — Unknown
+> ″*Premature optimization is the root of all evil.*″
+ — Donald Knuth
