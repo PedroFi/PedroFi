@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*If Java had true garbage collection, most programs would delete themselves upon execution.*″
- — Robert Sewell
+> ″*In the happy land of elegant code and pretty rainbows, there lives a spoil-sport monster called inefficiency.*″
+ — Marijn Haverbeke, Eloquent JavaScript: A Modern Introduction to Programming
