@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*If you put a million monkeys at a million keyboards, one of them will eventually write a Java program. The rest of them will write Perl programs.*″
+> ″*Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.*″
  — Unknown
