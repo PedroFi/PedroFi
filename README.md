@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Walking on water and developing software from a specification are easy if both are frozen.*″
- — Edward V. Berard
+> ″*C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off.*″
+ — Unknown
