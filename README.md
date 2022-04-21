@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*No code has zero defects.*″
+> ″*C programmers never die. They are just cast into void.*″
  — Unknown
