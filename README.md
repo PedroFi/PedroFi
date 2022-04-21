@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off.*″
+> ″*JavaScript logic: 0 == "0" and 0 == []; therefore, "0" != [].*″
  — Unknown
