@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Don’t worry if it doesn’t work right. If everything did, you’d be out of a job.*″
+> ″*Programming made the impossible possible. You can have a null object and a constant variable.*″
  — Unknown
