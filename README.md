@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*JavaScript logic: 0 == "0" and 0 == []; therefore, "0" != [].*″
+> ″*If you put a million monkeys at a million keyboards, one of them will eventually write a Java program. The rest of them will write Perl programs.*″
  — Unknown
