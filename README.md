@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Software and cathedrals are much the same — first we build them, then we pray.*″
+> ″*Why do Java programmers have to wear glasses? Because they don’t C#.*″
  — Unknown
