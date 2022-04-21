@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*In the happy land of elegant code and pretty rainbows, there lives a spoil-sport monster called inefficiency.*″
- — Marijn Haverbeke, Eloquent JavaScript: A Modern Introduction to Programming
+> ″*The definition of Hell is working with dates in Java, JDBC, and Oracle. Every single one of them screw it up.*″
+ — Dick Wall CommunityOne 2007: Lunch with the Java Posse
