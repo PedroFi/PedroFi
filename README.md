@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*A SQL query goes into a bar, walks up to two tables, and asks, ‘Can I join you?’.*″
- — Unknown
+> ″*The best thing about a boolean is even if you are wrong, you are only off by a bit.*″
+ — Bryan
