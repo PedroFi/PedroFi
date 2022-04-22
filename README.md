@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*A language that doesn’t affect the way you think about programming is not worth knowing.*″
- — Alan J. Perlis
+> ″*JavaScript logic: 0 == "0" and 0 == []; therefore, "0" != [].*″
+ — Unknown
