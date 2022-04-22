@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Perl – The only language that looks the same before and after RSA encryption.*″
- — Keith Bostic
+> ″*A language that doesn’t affect the way you think about programming is not worth knowing.*″
+ — Alan J. Perlis
