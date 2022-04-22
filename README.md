@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Copy and paste is a design error.*″
- — David Parnas
+> ″*What’s the object-oriented way to get wealthy? Inheritance.*″
+ — Unknown
