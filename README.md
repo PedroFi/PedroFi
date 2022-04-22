@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*JavaScript logic: 0 == "0" and 0 == []; therefore, "0" != [].*″
- — Unknown
+> ″*Copy and paste is a design error.*″
+ — David Parnas
