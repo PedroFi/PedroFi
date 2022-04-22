@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When your hammer is C++, everything begins to look like a thumb.*″
+> ″*A SQL query goes into a bar, walks up to two tables, and asks, ‘Can I join you?’.*″
  — Unknown
