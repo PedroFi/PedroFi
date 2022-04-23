@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*In C we had to code our own bugs. In C++ we can inherit them.*″
- — Unknown
+> ″*Measuring programming progress by lines of code is like measuring aircraft building progress by weight.*″
+ — Bill Gates
