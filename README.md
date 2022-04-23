@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*First, solve the problem. Then, write the code.*″
- — John Johnson
+> ″*Russian roulette: [ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo **Click***″
+ — Unknown
