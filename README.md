@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Walking on water and developing software from a specification are easy if both are frozen.*″
- — Edward V. Berard
+> ″*I’m not a great programmer; I’m just a good programmer with great habits.*″
+ — Kent Beck
