@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Premature optimization is the root of all evil.*″
- — Donald Knuth
+> ″*Walking on water and developing software from a specification are easy if both are frozen.*″
+ — Edward V. Berard
