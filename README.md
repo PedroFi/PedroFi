@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When he really, really likes a girl, he creates a font and names it after her.*″
- — David Levithan, Every Day
+> ″*Q: How different are C and C++?A: 1. Because C — C++ = 1.*″
+ — Unknown
