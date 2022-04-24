@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*That’s the thing about people who think they hate computers. What they really hate is lousy programmers.*″
- — Larry Niven
+> ″*When I wrote this code, only God and I understood what I did. Now only God knows.*″
+ — Unknown
