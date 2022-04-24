@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Q: How different are C and C++?A: 1. Because C — C++ = 1.*″
- — Unknown
+> ″*Optimism is an occupational hazard of programming: feedback is the treatment.*″
+ — Kent Beck
