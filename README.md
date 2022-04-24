@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Code is there to explain the comments to the computer.*″
- — Andy Harris
+> ″*The best thing about a boolean is even if you are wrong, you are only off by a bit.*″
+ — Bryan
