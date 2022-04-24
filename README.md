@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Algorithm: Word used by programmers when they don’t want to explain what they did.*″
+> ″*If debugging is the process of removing bugs, then programming must be the process of putting them in.*″
  — Unknown
