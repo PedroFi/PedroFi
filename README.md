@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Computers are fast; programmers keep it slow.*″
- — Unknown
+> ″*Talk is cheap. Show me the code.*″
+ — Linus Torvalds
