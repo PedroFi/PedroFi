@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*If debugging is the process of removing bugs, then programming must be the process of putting them in.*″
+> ″*Programming can be fun, and so can cryptography; however, they should not be combined.*″
  — Unknown
