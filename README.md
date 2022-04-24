@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There are two ways to write error-free programs; only the third works.*″
- — Unknown
+> ″*Code is there to explain the comments to the computer.*″
+ — Andy Harris
