@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Optimism is an occupational hazard of programming: feedback is the treatment.*″
- — Kent Beck
+> ″*Why do Java programmers have to wear glasses? Because they don’t C#.*″
+ — Unknown
