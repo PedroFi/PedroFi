@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Low-level programming is good for the programmer’s soul.*″
- — John Carmack
+> ″*Russian roulette: [ $[ $RANDOM % 6 ] == 0 ] && rm -rf / || echo **Click***″
+ — Unknown
