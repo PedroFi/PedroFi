@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Algorithm: Word used by programmers when they don’t want to explain what they did.*″
+> ″*If you put a million monkeys at a million keyboards, one of them will eventually write a Java program. The rest of them will write Perl programs.*″
  — Unknown
