@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.*″
- — Dan Salomon
+> ″*If the box says, ‘This software requires Windows XP or better,’ does that mean it’ll run on Linux?*″
+ — Unknown
