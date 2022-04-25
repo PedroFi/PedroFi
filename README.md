@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Why do Java programmers have to wear glasses? Because they don’t C#.*″
- — Unknown
+> ″*Pascal for real programmers; Delphi for Nerds; C/C++ for people who always wished to do things like reinventing the wheel.*″
+ — Rejie Roque (edited.)
