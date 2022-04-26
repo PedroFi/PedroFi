@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*How many programmers does it take to change a light bulb? None, that’s a hardware problem.*″
+> ″*UNIX was not designed to stop people from doing stupid things, because that would also stop them from doing clever things.*″
  — Unknown
