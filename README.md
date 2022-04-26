@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Cherish your exceptions.*″
- — Anonymous
+> ″*How many programmers does it take to change a light bulb? None, that’s a hardware problem.*″
+ — Unknown
