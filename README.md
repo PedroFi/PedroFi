@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There are two ways to write error-free programs; only the third works.*″
+> ″*Algorithm: Word used by programmers when they don’t want to explain what they did.*″
  — Unknown
