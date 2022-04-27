@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There’s no test like production.*″
- — Anonymous
+> ″*First, solve the problem. Then, write the code.*″
+ — John Johnson
