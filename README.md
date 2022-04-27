@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Algorithm: Word used by programmers when they don’t want to explain what they did.*″
- — Unknown
+> ″*Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.*″
+ — Dan Salomon
