@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*If debugging is the process of removing bugs, then programming must be the process of putting them in.*″
+> ″*Most of you are familiar with the virtues of a programmer. There are three, of course: laziness, impatience, and hubris.*″
  — Unknown
