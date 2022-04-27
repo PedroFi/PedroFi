@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When I wrote this code, only God and I understood what I did. Now only God knows.*″
- — Unknown
+> ″*When he really, really likes a girl, he creates a font and names it after her.*″
+ — David Levithan, Every Day
