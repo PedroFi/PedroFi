@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Code is there to explain the comments to the computer.*″
- — Andy Harris
+> ″*A son asked his father (a programmer) why the sun rises in the east, and sets in the west. His response? It works, don’t touch!*″
+ — Unknown
