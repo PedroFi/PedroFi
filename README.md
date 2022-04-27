@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Programmer: A machine that turns coffee into code.*″
+> ″*Programming can be fun, and so can cryptography; however, they should not be combined.*″
  — Unknown
