@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*How many programmers does it take to change a light bulb? None, that’s a hardware problem.*″
+> ″*UNIX is simple. It just takes a genius to understand its simplicity.*″
  — Unknown
