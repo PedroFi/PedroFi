@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There’s no place like 127.0.0.1.*″
- — Unknown
+> ″*Cherish your exceptions.*″
+ — Anonymous
