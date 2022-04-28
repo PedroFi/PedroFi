@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*C++: An octopus made by nailing extra legs onto a dog.*″
- — Unknown
+> ″*I’m not a great programmer; I’m just a good programmer with great habits.*″
+ — Kent Beck
