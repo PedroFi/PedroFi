@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*I’m not a great programmer; I’m just a good programmer with great habits.*″
- — Kent Beck
+> ″*There’s no place like 127.0.0.1.*″
+ — Unknown
