@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*That’s the thing about people who think they hate computers. What they really hate is lousy programmers.*″
- — Larry Niven
+> ″*Syntactic sugar causes cancer of the semicolon.*″
+ — Alan J. Perlis, Structure and Interpretation of Computer Programs
