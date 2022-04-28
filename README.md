@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Software and cathedrals are much the same — first we build them, then we pray.*″
+> ″*One man’s crappy software is another man’s full-time job.*″
  — Unknown
