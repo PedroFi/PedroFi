@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When we had no computers, we had no programming problems either.*″
- — Unknown
+> ″*Code is like humor. When you have to explain it, it’s bad.*″
+ — Cory House
