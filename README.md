@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*What’s the object-oriented way to get wealthy? Inheritance.*″
- — Unknown
+> ″*Code is there to explain the comments to the computer.*″
+ — Andy Harris
