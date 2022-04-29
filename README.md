@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.*″
- — John Woods
+> ″*In the happy land of elegant code and pretty rainbows, there lives a spoil-sport monster called inefficiency.*″
+ — Marijn Haverbeke, Eloquent JavaScript: A Modern Introduction to Programming
