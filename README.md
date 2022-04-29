@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Code never lies, comments sometimes do.*″
- — Ron Jeffries
+> ″*Algorithm: Word used by programmers when they don’t want to explain what they did.*″
+ — Unknown
