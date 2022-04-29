@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*In the happy land of elegant code and pretty rainbows, there lives a spoil-sport monster called inefficiency.*″
- — Marijn Haverbeke, Eloquent JavaScript: A Modern Introduction to Programming
+> ″*Good code is its own best documentation. As you’re about to add a comment, ask yourself, ‘How can I improve the code so that this comment isn’t needed?’*″
+ — Steve McConnell
