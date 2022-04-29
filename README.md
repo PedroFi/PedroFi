@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When he really, really likes a girl, he creates a font and names it after her.*″
- — David Levithan, Every Day
+> ″*I’ve finally learned what upward compatible means. It means we get to keep all our old mistakes.*″
+ — Unknown
