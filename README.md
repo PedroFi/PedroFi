@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Experience is the name everyone gives to their mistakes.*″
- — Oscar Wilde
+> ″*How many programmers does it take to change a light bulb? None, that’s a hardware problem.*″
+ — Unknown
