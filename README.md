@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Software and cathedrals are much the same — first we build them, then we pray.*″
- — Unknown
+> ″*Syntactic sugar causes cancer of the semicolon.*″
+ — Alan J. Perlis, Structure and Interpretation of Computer Programs
