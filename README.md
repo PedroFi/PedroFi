@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There are two ways to write error-free programs; only the third works.*″
+> ″*If debugging is the process of removing bugs, then programming must be the process of putting them in.*″
  — Unknown
