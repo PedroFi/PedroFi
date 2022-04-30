@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Any code of your own that you haven’t looked at for six or more months might as well have been written by someone else.*″
- — (Eagleson’s Law)
+> ″*Measuring programming progress by lines of code is like measuring aircraft building progress by weight.*″
+ — Bill Gates
