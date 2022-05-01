@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*It’s not a bug — it’s an undocumented feature.*″
- — Unknown
+> ″*Programmers are not to be measured by their ingenuity and their logic but by the completeness of their case analysis.*″
+ — Alan J. Perlis
