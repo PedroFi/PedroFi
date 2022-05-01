@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Q: What did the Java code say to the C code? A: You’ve got no class.*″
+> ″*Programming can be fun, and so can cryptography; however, they should not be combined.*″
  — Unknown
