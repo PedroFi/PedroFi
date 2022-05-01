@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Code is like humor. When you have to explain it, it’s bad.*″
- — Cory House
+> ″*Documentation is like sex: When it is bad, it is better than nothing. When it is good, it is really, really good.*″
+ — Unknown
