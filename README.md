@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*The best thing about a boolean is even if you are wrong, you are only off by a bit.*″
- — Bryan
+> ″*If, at first, you do not succeed, call it version 1.0.*″
+ — Khayri R.R. Woulfe
