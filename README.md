@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Software and cathedrals are much the same — first we build them, then we pray.*″
- — Unknown
+> ″*When debugging, novices insert corrective code; experts remove defective code.*″
+ — Richard Pattis
