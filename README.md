@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*If the box says, ‘This software requires Windows XP or better,’ does that mean it’ll run on Linux?*″
- — Unknown
+> ″*Give a man a program, frustrate him for a day. Teach a man to program, frustrate him for a lifetime.*″
+ — Muhammad Waseem
