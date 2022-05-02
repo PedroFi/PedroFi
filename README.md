@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When your hammer is C++, everything begins to look like a thumb.*″
- — Unknown
+> ″*That’s the thing about people who think they hate computers. What they really hate is lousy programmers.*″
+ — Larry Niven
