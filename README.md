@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Hardware is made to last. Software is made to change. Change is the only thing that lasts. Software wins.*″
- — Unknown
+> ″*There are only two kinds of languages: the ones people complain about and the ones nobody uses.*″
+ — Bjarne Stroustrup
