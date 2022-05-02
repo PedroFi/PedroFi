@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*One man’s crappy software is another man’s full-time job.*″
+> ″*When I wrote this code, only God and I understood what I did. Now only God knows.*″
  — Unknown
