@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Q: What did the Java code say to the C code? A: You’ve got no class.*″
+> ″*A SQL query goes into a bar, walks up to two tables, and asks, ‘Can I join you?’.*″
  — Unknown
