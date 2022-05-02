@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Programmer: A machine that turns coffee into code.*″
+> ″*Hardware is made to last. Software is made to change. Change is the only thing that lasts. Software wins.*″
  — Unknown
