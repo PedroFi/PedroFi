@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When your hammer is C++, everything begins to look like a thumb.*″
+> ″*UNIX is simple. It just takes a genius to understand its simplicity.*″
  — Unknown
