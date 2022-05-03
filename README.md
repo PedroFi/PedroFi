@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Potential partners are like internet domain names — the ones I like are already taken.*″
+> ″*Programming can be fun, and so can cryptography; however, they should not be combined.*″
  — Unknown
