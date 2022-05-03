@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There are only two hard things in computer science: cache invalidation and naming things.*″
+> ″*One of the main causes of the fall of the Roman Empire was that lacking zero, they had no way to indicate successful termination of their C programs.*″
  — Unknown
