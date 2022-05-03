@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Java: write once, run away!*″
- — Brucee
+> ″*When debugging, novices insert corrective code; experts remove defective code.*″
+ — Richard Pattis
