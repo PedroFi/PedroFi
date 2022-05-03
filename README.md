@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*A program is never less than 90% complete and never more than 95% complete.*″
+> ″*Potential partners are like internet domain names — the ones I like are already taken.*″
  — Unknown
