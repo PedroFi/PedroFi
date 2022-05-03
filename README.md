@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When debugging, novices insert corrective code; experts remove defective code.*″
- — Richard Pattis
+> ″*Programming isn’t about what you know; it’s about what you can figure out.*″
+ — Chris Pine
