@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Some people when confronted with a problem think: ‘I know, I’ll use regular expressions.’. Now they have two problems.*″
+> ″*There are only two hard things in computer science: cache invalidation and naming things.*″
  — Unknown
