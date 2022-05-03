@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Code is like humor. When you have to explain it, it’s bad.*″
- — Cory House
+> ″*There are only two hard things in computer science: cache invalidation and naming things.*″
+ — Unknown
