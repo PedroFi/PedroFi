@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Give a man a program, frustrate him for a day. Teach a man to program, frustrate him for a lifetime.*″
- — Muhammad Waseem
+> ″*Some people when confronted with a problem think: ‘I know, I’ll use regular expressions.’. Now they have two problems.*″
+ — Unknown
