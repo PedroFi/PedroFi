@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Q: How different are C and C++?A: 1. Because C — C++ = 1.*″
- — Unknown
+> ″*Code is like humor. When you have to explain it, it’s bad.*″
+ — Cory House
