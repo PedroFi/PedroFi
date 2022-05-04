@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Don’t worry if it doesn’t work right. If everything did, you’d be out of a job.*″
- — Unknown
+> ″*Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.*″
+ — Antoine de Saint-Exupery
