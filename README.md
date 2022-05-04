@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*If debugging is the process of removing bugs, then programming must be the process of putting them in.*″
+> ″*A son asked his father (a programmer) why the sun rises in the east, and sets in the west. His response? It works, don’t touch!*″
  — Unknown
