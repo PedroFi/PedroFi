@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Code is like humor. When you have to explain it, it’s bad.*″
- — Cory House
+> ″*There is an easy way and a hard way. The hard part is finding the easy way.*″
+ — Unknown
