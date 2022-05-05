@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When your hammer is C++, everything begins to look like a thumb.*″
+> ″*There are two ways to write error-free programs; only the third works.*″
  — Unknown
