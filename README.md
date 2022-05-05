@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Deleted code is debugged code.*″
+> ″*Remember that there is no code faster than no code.*″
  — Unknown
