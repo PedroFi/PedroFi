@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*C programmers never die. They are just cast into void.*″
+> ″*It’s not a bug — it’s an undocumented feature.*″
  — Unknown
