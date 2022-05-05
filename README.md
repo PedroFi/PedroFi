@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Q: Why did the programmer quit his job? A: Because he didn't get arrays.*″
+> ″*I’ve finally learned what upward compatible means. It means we get to keep all our old mistakes.*″
  — Unknown
