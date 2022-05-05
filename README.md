@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off.*″
+> ″*Software undergoes beta testing shortly before it’s released. Beta is Latin for still doesn’t work.*″
  — Unknown
