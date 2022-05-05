@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Remember that there is no code faster than no code.*″
+> ″*When your hammer is C++, everything begins to look like a thumb.*″
  — Unknown
