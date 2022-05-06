@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Measuring programming progress by lines of code is like measuring aircraft building progress by weight.*″
- — Bill Gates
+> ″*If the box says, ‘This software requires Windows XP or better,’ does that mean it’ll run on Linux?*″
+ — Unknown
