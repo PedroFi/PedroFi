@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When your hammer is C++, everything begins to look like a thumb.*″
+> ″*What’s the object-oriented way to get wealthy? Inheritance.*″
  — Unknown
