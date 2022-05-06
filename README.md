@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Programming made the impossible possible. You can have a null object and a constant variable.*″
+> ″*A system administrator has two problems: 1. Dumb users. 2. Smart users.*″
  — Unknown
