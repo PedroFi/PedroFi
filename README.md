@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*First, solve the problem. Then, write the code.*″
- — John Johnson
+> ″*One man’s constant is another man’s variable.*″
+ — Alan J. Perlis
