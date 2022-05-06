@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*A SQL query goes into a bar, walks up to two tables, and asks, ‘Can I join you?’.*″
- — Unknown
+> ″*Measuring programming progress by lines of code is like measuring aircraft building progress by weight.*″
+ — Bill Gates
