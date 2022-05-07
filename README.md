@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*A good programmer is someone who always looks both ways before crossing a one-way street.*″
+> ″*One man’s crappy software is another man’s full-time job.*″
  — Unknown
