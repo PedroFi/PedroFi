@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.*″
- — John Woods
+> ″*When your hammer is C++, everything begins to look like a thumb.*″
+ — Unknown
