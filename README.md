@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Good code is its own best documentation. As you’re about to add a comment, ask yourself, ‘How can I improve the code so that this comment isn’t needed?’*″
- — Steve McConnell
+> ″*A program is never less than 90% complete and never more than 95% complete.*″
+ — Unknown
