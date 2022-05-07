@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*One man’s crappy software is another man’s full-time job.*″
+> ″*Hardware is made to last. Software is made to change. Change is the only thing that lasts. Software wins.*″
  — Unknown
