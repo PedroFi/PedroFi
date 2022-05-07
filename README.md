@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*I’ve finally learned what upward compatible means. It means we get to keep all our old mistakes.*″
+> ″*A good programmer is someone who always looks both ways before crossing a one-way street.*″
  — Unknown
