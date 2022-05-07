@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Software undergoes beta testing shortly before it’s released. Beta is Latin for still doesn’t work.*″
- — Unknown
+> ″*Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.*″
+ — John Woods
