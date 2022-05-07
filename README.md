@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When your hammer is C++, everything begins to look like a thumb.*″
+> ″*I’ve finally learned what upward compatible means. It means we get to keep all our old mistakes.*″
  — Unknown
