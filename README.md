@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Programmer: A machine that turns coffee into code.*″
+> ″*C programmers never die. They are just cast into void.*″
  — Unknown
