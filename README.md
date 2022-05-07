@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*In a room full of top software designers, if two agree on the same thing, that’s a majority.*″
+> ″*UNIX was not designed to stop people from doing stupid things, because that would also stop them from doing clever things.*″
  — Unknown
