@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*C programmers never die. They are just cast into void.*″
+> ″*In a room full of top software designers, if two agree on the same thing, that’s a majority.*″
  — Unknown
