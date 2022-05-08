@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*One man’s crappy software is another man’s full-time job.*″
- — Unknown
+> ″*Programming isn’t about what you know; it’s about what you can figure out.*″
+ — Chris Pine
