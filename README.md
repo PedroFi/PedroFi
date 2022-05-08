@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Any fool can write code that a computer can understand. Good programmers write code that humans can understand.*″
- — Martin Fowler
+> ″*Q: How different are C and C++?A: 1. Because C — C++ = 1.*″
+ — Unknown
