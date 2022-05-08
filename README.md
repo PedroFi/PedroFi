@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Software and cathedrals are much the same — first we build them, then we pray.*″
+> ″*There are only two hard things in computer science: cache invalidation and naming things.*″
  — Unknown
