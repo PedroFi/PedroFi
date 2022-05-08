@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When debugging, novices insert corrective code; experts remove defective code.*″
- — Richard Pattis
+> ″*One man’s crappy software is another man’s full-time job.*″
+ — Unknown
