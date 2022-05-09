@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Most of you are familiar with the virtues of a programmer. There are three, of course: laziness, impatience, and hubris.*″
+> ″*It’s not a bug — it’s an undocumented feature.*″
  — Unknown
