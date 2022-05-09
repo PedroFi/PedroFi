@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Remember that there is no code faster than no code.*″
+> ″*It’s not a bug — it’s an undocumented feature.*″
  — Unknown
