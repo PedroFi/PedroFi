@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*If a machine ever gains awareness, it will be not due to our careful programming, but due to an unforeseeable anomaly.*″
- — Abhijit Naskar, The Gospel of Technology
+> ″*When I wrote this code, only God and I understood what I did. Now only God knows.*″
+ — Unknown
