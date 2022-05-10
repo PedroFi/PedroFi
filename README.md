@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*If you put a million monkeys at a million keyboards, one of them will eventually write a Java program. The rest of them will write Perl programs.*″
- — Unknown
+> ″*Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.*″
+ — Antoine de Saint-Exupery
