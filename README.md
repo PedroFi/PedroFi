@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Deleted code is debugged code.*″
- — Unknown
+> ″*Code is there to explain the comments to the computer.*″
+ — Andy Harris
