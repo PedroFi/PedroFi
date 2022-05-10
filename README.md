@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Copy and paste is a design error.*″
- — David Parnas
+> ″*Make it work, make it right, make it fast.*″
+ — Kent Beck
