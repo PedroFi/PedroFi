@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Make it work, make it right, make it fast.*″
- — Kent Beck
+> ″*When debugging, novices insert corrective code; experts remove defective code.*″
+ — Richard Pattis
