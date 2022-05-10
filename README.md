@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Q: What did the Java code say to the C code? A: You’ve got no class.*″
+> ″*If you put a million monkeys at a million keyboards, one of them will eventually write a Java program. The rest of them will write Perl programs.*″
  — Unknown
