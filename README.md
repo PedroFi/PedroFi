@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Give a man a program, frustrate him for a day. Teach a man to program, frustrate him for a lifetime.*″
- — Muhammad Waseem
+> ″*Q: What did the Java code say to the C code? A: You’ve got no class.*″
+ — Unknown
