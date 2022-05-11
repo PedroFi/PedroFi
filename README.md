@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When debugging, novices insert corrective code; experts remove defective code.*″
- — Richard Pattis
+> ″*When I wrote this code, only God and I understood what I did. Now only God knows.*″
+ — Unknown
