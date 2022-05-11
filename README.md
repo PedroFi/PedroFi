@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When I wrote this code, only God and I understood what I did. Now only God knows.*″
+> ″*A SQL query goes into a bar, walks up to two tables, and asks, ‘Can I join you?’.*″
  — Unknown
