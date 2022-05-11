@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Make it work, make it right, make it fast.*″
- — Kent Beck
+> ″*Software and cathedrals are much the same — first we build them, then we pray.*″
+ — Unknown
