@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*If, at first, you do not succeed, call it version 1.0.*″
- — Khayri R.R. Woulfe
+> ″*One: Demonstrations always crash. And two: The probability of them crashing goes up exponentially with the number of people watching.*″
+ — Unknown
