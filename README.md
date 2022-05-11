@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Programmer: A machine that turns coffee into code.*″
- — Unknown
+> ″*That’s the thing about people who think they hate computers. What they really hate is lousy programmers.*″
+ — Larry Niven
