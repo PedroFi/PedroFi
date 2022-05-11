@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*That’s the thing about people who think they hate computers. What they really hate is lousy programmers.*″
- — Larry Niven
+> ″*Most of you are familiar with the virtues of a programmer. There are three, of course: laziness, impatience, and hubris.*″
+ — Unknown
