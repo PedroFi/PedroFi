@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Code is like humor. When you have to explain it, it’s bad.*″
- — Cory House
+> ″*Software undergoes beta testing shortly before it’s released. Beta is Latin for still doesn’t work.*″
+ — Unknown
