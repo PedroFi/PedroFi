@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*A son asked his father (a programmer) why the sun rises in the east, and sets in the west. His response? It works, don’t touch!*″
+> ″*C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off.*″
  — Unknown
