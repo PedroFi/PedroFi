@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Code never lies, comments sometimes do.*″
- — Ron Jeffries
+> ″*Give a man a program, frustrate him for a day. Teach a man to program, frustrate him for a lifetime.*″
+ — Muhammad Waseem
