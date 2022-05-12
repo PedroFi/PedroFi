@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*If debugging is the process of removing bugs, then programming must be the process of putting them in.*″
+> ″*Q: Why did the programmer quit his job? A: Because he didn't get arrays.*″
  — Unknown
