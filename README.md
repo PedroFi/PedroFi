@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Good code is its own best documentation. As you’re about to add a comment, ask yourself, ‘How can I improve the code so that this comment isn’t needed?’*″
- — Steve McConnell
+> ″*Some people when confronted with a problem think: ‘I know, I’ll use regular expressions.’. Now they have two problems.*″
+ — Unknown
