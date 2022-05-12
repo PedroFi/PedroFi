@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Good code is its own best documentation. As you’re about to add a comment, ask yourself, ‘How can I improve the code so that this comment isn’t needed?’*″
- — Steve McConnell
+> ″*There are two ways of constructing a software design: One way is to make it so simple that there are obviously no deficiencies, and the other way is to make it so complicated that there are no obvious deficiencies. The first method is far more difficult.*″
+ — C.A.R. Hoare
