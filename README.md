@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Q: What did the Java code say to the C code? A: You’ve got no class.*″
+> ″*One man’s crappy software is another man’s full-time job.*″
  — Unknown
