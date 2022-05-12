@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*C++: An octopus made by nailing extra legs onto a dog.*″
+> ″*Q: What did the Java code say to the C code? A: You’ve got no class.*″
  — Unknown
