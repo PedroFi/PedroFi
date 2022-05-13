@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*A system administrator has two problems: 1. Dumb users. 2. Smart users.*″
- — Unknown
+> ″*Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.*″
+ — Dan Salomon
