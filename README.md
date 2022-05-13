@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Some people when confronted with a problem think: ‘I know, I’ll use regular expressions.’. Now they have two problems.*″
- — Unknown
+> ″*Any code of your own that you haven’t looked at for six or more months might as well have been written by someone else.*″
+ — (Eagleson’s Law)
