@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Talk is cheap. Show me the code.*″
- — Linus Torvalds
+> ″*Software and cathedrals are much the same — first we build them, then we pray.*″
+ — Unknown
