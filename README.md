@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Programmers are not to be measured by their ingenuity and their logic but by the completeness of their case analysis.*″
- — Alan J. Perlis
+> ″*Q: How different are C and C++?A: 1. Because C — C++ = 1.*″
+ — Unknown
