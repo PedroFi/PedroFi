@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Cherish your exceptions.*″
- — Anonymous
+> ″*C++: An octopus made by nailing extra legs onto a dog.*″
+ — Unknown
