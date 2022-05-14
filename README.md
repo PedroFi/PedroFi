@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Q: How different are C and C++?A: 1. Because C — C++ = 1.*″
- — Unknown
+> ″*One man’s constant is another man’s variable.*″
+ — Alan J. Perlis
