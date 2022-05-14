@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*A language that doesn’t affect the way you think about programming is not worth knowing.*″
- — Alan J. Perlis
+> ″*In a room full of top software designers, if two agree on the same thing, that’s a majority.*″
+ — Unknown
