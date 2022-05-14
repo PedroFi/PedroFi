@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*C programmers never die. They are just cast into void.*″
+> ″*Programming made the impossible possible. You can have a null object and a constant variable.*″
  — Unknown
