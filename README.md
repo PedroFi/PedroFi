@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Q: Why did the programmer quit his job? A: Because he didn't get arrays.*″
+> ″*One of the main causes of the fall of the Roman Empire was that lacking zero, they had no way to indicate successful termination of their C programs.*″
  — Unknown
