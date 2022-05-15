@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*C programmers never die. They are just cast into void.*″
+> ″*Computers are fast; programmers keep it slow.*″
  — Unknown
