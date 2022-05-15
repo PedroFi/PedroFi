@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There are 10 types of people in this world, those who understand binary and those who don't.*″
- — Anonymous
+> ″*A long descriptive name is better than a short enigmatic name. A long descriptive name is better than a long descriptive comment.*″
+ — Robert C. Martin, Clean Code: A Handbook of Agile Software Craftsmanship
