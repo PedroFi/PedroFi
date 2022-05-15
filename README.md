@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*A good programmer is someone who always looks both ways before crossing a one-way street.*″
+> ″*C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off.*″
  — Unknown
