@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Talk is cheap. Show me the code.*″
- — Linus Torvalds
+> ″*In a room full of top software designers, if two agree on the same thing, that’s a majority.*″
+ — Unknown
