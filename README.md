@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off.*″
+> ″*Programmer’s partner: ‘Are you going to sit and type in front of that thing all day, or are you going out with me?’. Programmer: ‘Yes.’.*″
  — Unknown
