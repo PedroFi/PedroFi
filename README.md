@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*A son asked his father (a programmer) why the sun rises in the east, and sets in the west. His response? It works, don’t touch!*″
+> ″*A good programmer is someone who always looks both ways before crossing a one-way street.*″
  — Unknown
