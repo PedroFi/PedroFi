@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*One of the main causes of the fall of the Roman Empire was that lacking zero, they had no way to indicate successful termination of their C programs.*″
- — Unknown
+> ″*Measuring programming progress by lines of code is like measuring aircraft building progress by weight.*″
+ — Bill Gates
