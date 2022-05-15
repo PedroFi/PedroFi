@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*One: Demonstrations always crash. And two: The probability of them crashing goes up exponentially with the number of people watching.*″
+> ″*Q: Why did the programmer quit his job? A: Because he didn't get arrays.*″
  — Unknown
