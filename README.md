@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*In a room full of top software designers, if two agree on the same thing, that’s a majority.*″
+> ″*Software and cathedrals are much the same — first we build them, then we pray.*″
  — Unknown
