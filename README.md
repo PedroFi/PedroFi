@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Experience is the name everyone gives to their mistakes.*″
- — Oscar Wilde
+> ″*What’s the object-oriented way to get wealthy? Inheritance.*″
+ — Unknown
