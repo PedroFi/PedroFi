@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Software being 'Done' is like lawn being 'Mowed'.*″
- — Jim Benson
+> ″*Why do Java programmers have to wear glasses? Because they don’t C#.*″
+ — Unknown
