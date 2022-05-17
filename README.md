@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Programmer: A machine that turns coffee into code.*″
+> ″*When we had no computers, we had no programming problems either.*″
  — Unknown
