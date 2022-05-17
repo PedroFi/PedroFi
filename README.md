@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*The best thing about a boolean is even if you are wrong, you are only off by a bit.*″
- — Bryan
+> ″*A good programmer is someone who always looks both ways before crossing a one-way street.*″
+ — Unknown
