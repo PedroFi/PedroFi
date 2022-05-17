@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*One man’s constant is another man’s variable.*″
- — Alan J. Perlis
+> ″*There are 10 types of people in this world, those who understand binary and those who don't.*″
+ — Anonymous
