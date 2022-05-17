@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Why do Java programmers have to wear glasses? Because they don’t C#.*″
- — Unknown
+> ″*One man’s constant is another man’s variable.*″
+ — Alan J. Perlis
