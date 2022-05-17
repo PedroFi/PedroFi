@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*A good programmer is someone who always looks both ways before crossing a one-way street.*″
+> ″*If debugging is the process of removing bugs, then programming must be the process of putting them in.*″
  — Unknown
