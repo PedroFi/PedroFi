@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*One man’s crappy software is another man’s full-time job.*″
+> ″*Don’t worry if it doesn’t work right. If everything did, you’d be out of a job.*″
  — Unknown
