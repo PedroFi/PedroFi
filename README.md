@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There are 10 types of people in this world, those who understand binary and those who don't.*″
- — Anonymous
+> ″*The best thing about a boolean is even if you are wrong, you are only off by a bit.*″
+ — Bryan
