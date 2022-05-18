@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There is an easy way and a hard way. The hard part is finding the easy way.*″
- — Unknown
+> ″*Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.*″
+ — Antoine de Saint-Exupery
