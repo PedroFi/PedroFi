@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*C++: An octopus made by nailing extra legs onto a dog.*″
+> ″*Programmer: A machine that turns coffee into code.*″
  — Unknown
