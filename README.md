@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Some people when confronted with a problem think: ‘I know, I’ll use regular expressions.’. Now they have two problems.*″
+> ″*A son asked his father (a programmer) why the sun rises in the east, and sets in the west. His response? It works, don’t touch!*″
  — Unknown
