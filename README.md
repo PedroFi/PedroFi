@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Programmer: A machine that turns coffee into code.*″
- — Unknown
+> ″*Truth can only be found in one place: the code.*″
+ — Robert C. Martin, Clean Code: A Handbook of Agile Software Craftsmanship
