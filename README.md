@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Java: write once, run away!*″
- — Brucee
+> ″*Why do Java programmers have to wear glasses? Because they don’t C#.*″
+ — Unknown
