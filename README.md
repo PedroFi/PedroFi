@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*A SQL query goes into a bar, walks up to two tables, and asks, ‘Can I join you?’.*″
- — Unknown
+> ″*The definition of Hell is working with dates in Java, JDBC, and Oracle. Every single one of them screw it up.*″
+ — Dick Wall CommunityOne 2007: Lunch with the Java Posse
