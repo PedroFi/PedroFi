@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Pascal for real programmers; Delphi for Nerds; C/C++ for people who always wished to do things like reinventing the wheel.*″
- — Rejie Roque (edited.)
+> ″*Programming can be fun, and so can cryptography; however, they should not be combined.*″
+ — Unknown
