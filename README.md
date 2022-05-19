@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When we had no computers, we had no programming problems either.*″
- — Unknown
+> ″*Make it work, make it right, make it fast.*″
+ — Kent Beck
