@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When I wrote this code, only God and I understood what I did. Now only God knows.*″
+> ″*I’ve finally learned what upward compatible means. It means we get to keep all our old mistakes.*″
  — Unknown
