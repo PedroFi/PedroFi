@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Programming isn’t about what you know; it’s about what you can figure out.*″
- — Chris Pine
+> ″*Measuring programming progress by lines of code is like measuring aircraft building progress by weight.*″
+ — Bill Gates
