@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Experience is the name everyone gives to their mistakes.*″
- — Oscar Wilde
+> ″*When he really, really likes a girl, he creates a font and names it after her.*″
+ — David Levithan, Every Day
