@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Code is there to explain the comments to the computer.*″
- — Andy Harris
+> ″*A system administrator has two problems: 1. Dumb users. 2. Smart users.*″
+ — Unknown
