@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Code is like humor. When you have to explain it, it’s bad.*″
- — Cory House
+> ″*What’s the object-oriented way to get wealthy? Inheritance.*″
+ — Unknown
