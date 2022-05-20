@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Simplicity is prerequisite for reliability.*″
- — Edsger W. Dijkstra
+> ″*Software and cathedrals are much the same — first we build them, then we pray.*″
+ — Unknown
