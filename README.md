@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*C programmers never die. They are just cast into void.*″
+> ″*UNIX is user friendly. It’s just very particular about who its friends are.*″
  — Unknown
