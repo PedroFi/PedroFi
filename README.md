@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Syntactic sugar causes cancer of the semicolon.*″
- — Alan J. Perlis, Structure and Interpretation of Computer Programs
+> ″*Two bytes meet. The first byte asks, ‘Are you ill?’. The second byte replies, ‘No, just feeling a bit off.’.*″
+ — Unknown
