@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*One man’s crappy software is another man’s full-time job.*″
+> ″*Software undergoes beta testing shortly before it’s released. Beta is Latin for still doesn’t work.*″
  — Unknown
