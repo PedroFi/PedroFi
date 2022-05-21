@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Two bytes meet. The first byte asks, ‘Are you ill?’. The second byte replies, ‘No, just feeling a bit off.’.*″
- — Unknown
+> ″*Programming isn’t about what you know; it’s about what you can figure out.*″
+ — Chris Pine
