@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*One: Demonstrations always crash. And two: The probability of them crashing goes up exponentially with the number of people watching.*″
- — Unknown
+> ″*What kind of programmer is so divorced from reality that he thinks he'll get complex software right the first time?*″
+ — James Alan Gardner, Ascending
