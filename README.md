@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Q: How different are C and C++?A: 1. Because C — C++ = 1.*″
+> ″*A good programmer is someone who always looks both ways before crossing a one-way street.*″
  — Unknown
