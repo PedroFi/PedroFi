@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*UNIX is simple. It just takes a genius to understand its simplicity.*″
+> ″*If you put a million monkeys at a million keyboards, one of them will eventually write a Java program. The rest of them will write Perl programs.*″
  — Unknown
