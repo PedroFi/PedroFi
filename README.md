@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Keyboard Failure. Press F1 to continue.*″
+> ″*How many programmers does it take to change a light bulb? None, that’s a hardware problem.*″
  — Unknown
