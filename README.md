@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Deleted code is debugged code.*″
+> ″*One man’s crappy software is another man’s full-time job.*″
  — Unknown
