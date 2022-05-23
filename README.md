@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Simplicity is prerequisite for reliability.*″
- — Edsger W. Dijkstra
+> ″*There are 10 types of people in this world, those who understand binary and those who don't.*″
+ — Anonymous
