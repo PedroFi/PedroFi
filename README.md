@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*One: Demonstrations always crash. And two: The probability of them crashing goes up exponentially with the number of people watching.*″
- — Unknown
+> ″*The best thing about a boolean is even if you are wrong, you are only off by a bit.*″
+ — Bryan
