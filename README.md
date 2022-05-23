@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Premature optimization is the root of all evil.*″
- — Donald Knuth
+> ″*Syntactic sugar causes cancer of the semicolon.*″
+ — Alan J. Perlis, Structure and Interpretation of Computer Programs
