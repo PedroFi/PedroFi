@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*The best thing about a boolean is even if you are wrong, you are only off by a bit.*″
- — Bryan
+> ″*Q: How different are C and C++?A: 1. Because C — C++ = 1.*″
+ — Unknown
