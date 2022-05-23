@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Programmer’s partner: ‘Are you going to sit and type in front of that thing all day, or are you going out with me?’. Programmer: ‘Yes.’.*″
- — Unknown
+> ″*I’m not a great programmer; I’m just a good programmer with great habits.*″
+ — Kent Beck
