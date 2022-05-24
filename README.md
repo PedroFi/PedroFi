@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Code is like humor. When you have to explain it, it’s bad.*″
- — Cory House
+> ″*UNIX was not designed to stop people from doing stupid things, because that would also stop them from doing clever things.*″
+ — Unknown
