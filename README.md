@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Algorithm: Word used by programmers when they don’t want to explain what they did.*″
- — Unknown
+> ″*Code is like humor. When you have to explain it, it’s bad.*″
+ — Cory House
