@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Give a man a program, frustrate him for a day. Teach a man to program, frustrate him for a lifetime.*″
- — Muhammad Waseem
+> ″*One of the main causes of the fall of the Roman Empire was that lacking zero, they had no way to indicate successful termination of their C programs.*″
+ — Unknown
