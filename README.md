@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Make it work, make it right, make it fast.*″
- — Kent Beck
+> ″*Programming made the impossible possible. You can have a null object and a constant variable.*″
+ — Unknown
