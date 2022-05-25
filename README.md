@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There are only two hard things in computer science: cache invalidation and naming things.*″
+> ″*A good programmer is someone who always looks both ways before crossing a one-way street.*″
  — Unknown
