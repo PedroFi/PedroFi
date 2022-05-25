@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Software undergoes beta testing shortly before it’s released. Beta is Latin for still doesn’t work.*″
+> ″*Q: What did the Java code say to the C code? A: You’ve got no class.*″
  — Unknown
