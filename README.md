@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When all else fails... reboot.*″
+> ″*What’s the object-oriented way to get wealthy? Inheritance.*″
  — Unknown
