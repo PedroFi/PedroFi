@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When debugging, novices insert corrective code; experts remove defective code.*″
- — Richard Pattis
+> ″*A system administrator has two problems: 1. Dumb users. 2. Smart users.*″
+ — Unknown
