@@ -478,5 +478,33 @@
   {
     "quote": "There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors.",
     "author": "Leon Bambrick"
+  },
+  {
+    "quote": "Ethereum has taken what was a four-function calculator of a programming language in Bitcoin and turned it into a full-fledged computer.",
+    "author": "Fred Ehrsam"
+  },
+  {
+    "quote": "Bad programmers worry about the code. Good programmers worry about data structures and their relationships.",
+    "author": "Linus Torvalds"
+  },
+  {
+    "quote": "Good software, like wine, takes time.",
+    "author": "Joel Spolsky"
+  },
+  {
+    "quote": "Software is a great combination between artistry and engineering.",
+    "author": "Bill Gates"
+  },
+  {
+    "quote": "The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.",
+    "author": "Tom Cargill"
+  },
+  {
+    "quote": "Indeed one of the best ways to deflect attacks is to make it look like they’re succeeding. It’s the software equivalent of playing dead.",
+    "author": "Joel Spolsky"
+  },
+  {
+    "quote": "Machines take me by surprise with great frequency.",
+    "author": "Alan Turing"
   }
 ]
