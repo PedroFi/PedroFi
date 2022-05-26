@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*In the happy land of elegant code and pretty rainbows, there lives a spoil-sport monster called inefficiency.*″
- — Marijn Haverbeke, Eloquent JavaScript: A Modern Introduction to Programming
+> ″*If a machine ever gains awareness, it will be not due to our careful programming, but due to an unforeseeable anomaly.*″
+ — Abhijit Naskar, The Gospel of Technology
