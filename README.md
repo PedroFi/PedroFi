@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*One man’s constant is another man’s variable.*″
- — Alan J. Perlis
+> ″*Documentation is like sex: When it is bad, it is better than nothing. When it is good, it is really, really good.*″
+ — Unknown
