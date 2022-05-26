@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*If a machine ever gains awareness, it will be not due to our careful programming, but due to an unforeseeable anomaly.*″
- — Abhijit Naskar, The Gospel of Technology
+> ″*Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.*″
+ — Unknown
