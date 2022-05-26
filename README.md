@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Copy and paste is a design error.*″
- — David Parnas
+> ″*A code is like love, it has created with clear intentions at the beginning, but it can get complicated.*″
+ — Gerry Geek
