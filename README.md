@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Code never lies, comments sometimes do.*″
- — Ron Jeffries
+> ″*Potential partners are like internet domain names — the ones I like are already taken.*″
+ — Unknown
