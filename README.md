@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Documentation is like sex: When it is bad, it is better than nothing. When it is good, it is really, really good.*″
- — Unknown
+> ″*Perl – The only language that looks the same before and after RSA encryption.*″
+ — Keith Bostic
