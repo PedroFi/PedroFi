@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Perl – The only language that looks the same before and after RSA encryption.*″
- — Keith Bostic
+> ″*Q: Why did the programmer quit his job? A: Because he didn't get arrays.*″
+ — Unknown
