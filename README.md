@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Progress is possible only if we train ourselves to think about programs without thinking of them as pieces of executable code.*″
- — Edsger W. Dijkstra
+> ″*That’s the thing about people who think they hate computers. What they really hate is lousy programmers.*″
+ — Larry Niven
