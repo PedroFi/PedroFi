@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Truth can only be found in one place: the code.*″
- — Robert C. Martin, Clean Code: A Handbook of Agile Software Craftsmanship
+> ″*If a machine ever gains awareness, it will be not due to our careful programming, but due to an unforeseeable anomaly.*″
+ — Abhijit Naskar, The Gospel of Technology
