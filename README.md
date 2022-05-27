@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Q: Why did the programmer quit his job? A: Because he didn't get arrays.*″
+> ″*Algorithm: Word used by programmers when they don’t want to explain what they did.*″
  — Unknown
