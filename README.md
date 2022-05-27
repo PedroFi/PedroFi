@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Hardware is made to last. Software is made to change. Change is the only thing that lasts. Software wins.*″
+> ″*A good programmer is someone who always looks both ways before crossing a one-way street.*″
  — Unknown
