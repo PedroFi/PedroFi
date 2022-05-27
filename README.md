@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Experience is the name everyone gives to their mistakes.*″
- — Oscar Wilde
+> ″*Progress is possible only if we train ourselves to think about programs without thinking of them as pieces of executable code.*″
+ — Edsger W. Dijkstra
