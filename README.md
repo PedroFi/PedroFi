@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*A language that doesn’t affect the way you think about programming is not worth knowing.*″
- — Alan J. Perlis
+> ″*C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off.*″
+ — Unknown
