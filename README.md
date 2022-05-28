@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Talk is cheap. Show me the code.*″
- — Linus Torvalds
+> ″*A SQL query goes into a bar, walks up to two tables, and asks, ‘Can I join you?’.*″
+ — Unknown
