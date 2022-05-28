@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Simplicity is prerequisite for reliability.*″
- — Edsger W. Dijkstra
+> ″*A SQL query goes into a bar, walks up to two tables, and asks, ‘Can I join you?’.*″
+ — Unknown
