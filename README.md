@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*.NET is called .NET so that it wouldn’t show up in a UNIX directory listing.*″
+> ″*If the box says, ‘This software requires Windows XP or better,’ does that mean it’ll run on Linux?*″
  — Unknown
