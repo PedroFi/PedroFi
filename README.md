@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Programmer: A machine that turns coffee into code.*″
+> ″*.NET is called .NET so that it wouldn’t show up in a UNIX directory listing.*″
  — Unknown
