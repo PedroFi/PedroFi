@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Don’t worry if it doesn’t work right. If everything did, you’d be out of a job.*″
- — Unknown
+> ″*If, at first, you do not succeed, call it version 1.0.*″
+ — Khayri R.R. Woulfe
