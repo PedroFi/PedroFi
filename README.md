@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*If debugging is the process of removing software bugs, then programming must be the process of putting them in.*″
- — Edsger Dijkstra
+> ″*One man’s constant is another man’s variable.*″
+ — Alan J. Perlis
