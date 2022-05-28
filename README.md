@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There’s no place like 127.0.0.1.*″
- — Unknown
+> ″*A user interface should be so simple that a beginner in an emergency can understand it within ten seconds.*″
+ — Ted Nelson
