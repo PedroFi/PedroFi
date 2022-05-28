@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Low-level programming is good for the programmer’s soul.*″
- — John Carmack
+> ″*There are only two kinds of languages: the ones people complain about and the ones nobody uses.*″
+ — Bjarne Stroustrup
