@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Software and cathedrals are much the same — first we build them, then we pray.*″
- — Unknown
+> ″*Perl – The only language that looks the same before and after RSA encryption.*″
+ — Keith Bostic
