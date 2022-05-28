@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Experience is the name everyone gives to their mistakes.*″
- — Oscar Wilde
+> ″*Bad programmers worry about the code. Good programmers worry about data structures and their relationships.*″
+ — Linus Torvalds
