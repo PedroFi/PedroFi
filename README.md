@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*The definition of Hell is working with dates in Java, JDBC, and Oracle. Every single one of them screw it up.*″
- — Dick Wall CommunityOne 2007: Lunch with the Java Posse
+> ″*Don’t repeat yourself. Every piece of knowledge must have a single, unambiguous, authoritative representation within a system.*″
+ — Andy Hunt & Dave Thomas
