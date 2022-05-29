@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Deleted code is debugged code.*″
- — Unknown
+> ″*When debugging, novices insert corrective code; experts remove defective code.*″
+ — Richard Pattis
