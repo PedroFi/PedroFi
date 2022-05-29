@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Cherish your exceptions.*″
- — Anonymous
+> ″*Remember that there is no code faster than no code.*″
+ — Unknown
