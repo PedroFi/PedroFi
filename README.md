@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*A user interface should be so simple that a beginner in an emergency can understand it within ten seconds.*″
- — Ted Nelson
+> ″*C programmers never die. They are just cast into void.*″
+ — Unknown
