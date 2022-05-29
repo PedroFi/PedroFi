@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*In software, the most beautiful code, the most beautiful functions, and the most beautiful programs are sometimes not there at all.*″
- — Jon Bentley
+> ″*Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.*″
+ — John Woods
