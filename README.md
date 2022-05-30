@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Software undergoes beta testing shortly before it’s released. Beta is Latin for still doesn’t work.*″
+> ″*A SQL query goes into a bar, walks up to two tables, and asks, ‘Can I join you?’.*″
  — Unknown
