@@ -9,18 +9,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - name: Updating README.md
-        shell: pwsh
+      - shell: pwsh
         run: |
           $j = Get-Content .\.github\workflows\PROGRAMMING_QUOTES.json -Raw | ConvertFrom-Json
           $index = $j | Get-Random
           $full_quote = "> ″*$($index.quote)*″`n — $($index.author)"
           echo $full_quote
           Set-Content .\README.md "$(Get-Content -Path .\README.md -TotalCount 1)`n$full_quote"
-      - name: Saving README.md
-        run: |
           git config --global user.email "73402295+PedroFi@users.noreply.github.com"
           git config --global user.name "PedroFi"
           git add .
           git commit -m "[README_QUOTE_UPDATE]"
-          git push
+          git push --force origin HEAD
