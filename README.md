@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Remember that there is no code faster than no code.*″
+> ″*The 50-50-90 rule: Anytime you have a 50-50 chance of getting something right, there’s a 90% probability you’ll get it wrong.*″
  — Unknown
