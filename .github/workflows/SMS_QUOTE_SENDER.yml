@@ -15,16 +15,15 @@ jobs:
           API_URI: ${{ secrets.API_URI }}
           PHONE_NUMBER: ${{ secrets.PHONE_NUMBER }}
         run: |
-          $object = ConvertFrom-Json $(Invoke-WebRequest -Uri https://zenquotes.io/api/random -Method Post -DisableKeepAlive).content
-          $full_quote = "$($object.q) ($($object.a))"
-          Write-Output $full_quoteUP
-          if ($($full_quote.Length) -gt 160)
+          $full_quote = $null
+          while(($($full_quote.Length) -gt 160) -or ([string]::IsNullOrEmpty($full_quote)))
           {
-            Write-Error "ERROR: ″THE QUOTE IS BIGGER THAN THE MAXIMUM TEXT SIZE (70 CHARACTERS).″"
-          } else {
-            Invoke-WebRequest -Uri "$env:API_URI" -Body @{
-              "phone"="$env:PHONE_NUMBER"
-              "message"="$full_quote"
-              "key"="$env:API_KEY"
-              } -Method Post -DisableKeepAlive
+              $object = ConvertFrom-Json $(Invoke-WebRequest -Uri https://zenquotes.io/api/random -Method Post -DisableKeepAlive).content
+              $full_quote = "$($object.q) ($($object.a))"
           }
+          Write-Output $full_quote
+          Invoke-WebRequest -Uri "$env:API_URI" -Body @{
+            "phone"="$env:PHONE_NUMBER"
+            "message"="$full_quote"
+            "key"="$env:API_KEY"
+          } -Method Post -DisableKeepAlive
