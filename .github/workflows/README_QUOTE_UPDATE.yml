@@ -20,4 +20,4 @@ jobs:
           git config --global user.name "PedroFi"
           git add .
           git commit -m "[README_QUOTE_UPDATE]"
-          git push --force origin HEAD
+          git push
