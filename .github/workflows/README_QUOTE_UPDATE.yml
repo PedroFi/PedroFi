@@ -12,7 +12,7 @@ jobs:
       - name: Updating README.md
         shell: pwsh
         run: |
-          $j = Get-Content .\_QUOTES.json -Raw | ConvertFrom-Json
+          $j = Get-Content .\.github\workflows\PROGRAMMING_QUOTES.json -Raw | ConvertFrom-Json
           $index = $j | Get-Random
           $full_quote = "> ″*$($index.quote)*″`n — $($index.author)"
           echo $full_quote

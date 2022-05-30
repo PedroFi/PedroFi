@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*How many programmers does it take to change a light bulb? None, that’s a hardware problem.*″
- — Unknown
+> ″*Perl – The only language that looks the same before and after RSA encryption.*″
+ — Keith Bostic
