@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*In software, the most beautiful code, the most beautiful functions, and the most beautiful programs are sometimes not there at all.*″
- — Jon Bentley
+> ″*The value of a prototype is in the education it gives you, not in the code itself.*″
+ — Alan Cooper
