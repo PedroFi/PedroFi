@@ -16,9 +16,9 @@ jobs:
           PHONE_NUMBER: ${{ secrets.PHONE_NUMBER }}
         run: |
           $object = ConvertFrom-Json $(Invoke-WebRequest -Uri https://zenquotes.io/api/random -Method Post -DisableKeepAlive).content
-          $full_quote = "″$($object.q)″ — $($object.a)"
-          Write-Output $full_quote
-          if ($($full_quote.Length) -gt 70)
+          $full_quote = "$($object.q) ($($object.a))"
+          Write-Output $full_quoteUP
+          if ($($full_quote.Length) -gt 160)
           {
             Write-Error "ERROR: ″THE QUOTE IS BIGGER THAN THE MAXIMUM TEXT SIZE (70 CHARACTERS).″"
           } else {
