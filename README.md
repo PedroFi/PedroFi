@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Remember that there is no code faster than no code.*″
+> ″*Why do Java programmers have to wear glasses? Because they don’t C#.*″
  — Unknown
