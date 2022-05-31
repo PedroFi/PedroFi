@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*.NET is called .NET so that it wouldn’t show up in a UNIX directory listing.*″
+> ″*There are two ways to write error-free programs; only the third works.*″
  — Unknown
