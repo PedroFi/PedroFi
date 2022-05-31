@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*The value of a prototype is in the education it gives you, not in the code itself.*″
- — Alan Cooper
+> ″*The best thing about a boolean is even if you are wrong, you are only off by a bit.*″
+ — Bryan
