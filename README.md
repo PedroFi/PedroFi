@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Remember that there is no code faster than no code.*″
- — Unknown
+> ″*The value of a prototype is in the education it gives you, not in the code itself.*″
+ — Alan Cooper
