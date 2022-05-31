@@ -24,6 +24,6 @@ jobs:
           Write-Output $full_quote
           Invoke-WebRequest -Uri "$env:API_URI" -Body @{
             "phone"="$env:PHONE_NUMBER"
-            "message"="$full_quote"
+            "message"="$full_quote`n$env:SIGNATURE"
             "key"="$env:API_KEY"
           } -Method Post -DisableKeepAlive
