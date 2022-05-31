@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There’s no test like production.*″
- — Anonymous
+> ″*.NET is called .NET so that it wouldn’t show up in a UNIX directory listing.*″
+ — Unknown
