@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Software undergoes beta testing shortly before it’s released. Beta is Latin for still doesn’t work.*″
- — Unknown
+> ″*The value of a prototype is in the education it gives you, not in the code itself.*″
+ — Alan Cooper
