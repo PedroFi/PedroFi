@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Two bytes meet. The first byte asks, ‘Are you ill?’. The second byte replies, ‘No, just feeling a bit off.’.*″
+> ″*Software undergoes beta testing shortly before it’s released. Beta is Latin for still doesn’t work.*″
  — Unknown
