@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*No code has zero defects.*″
- — Unknown
+> ″*All problems in computer science can be solved by another level of indirection.*″
+ — David Wheeler
