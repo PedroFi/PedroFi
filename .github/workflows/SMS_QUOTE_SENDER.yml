@@ -28,8 +28,6 @@ jobs:
             "message"="$full_quote"
             "key"="$env:API_KEY"
           } -Method Post -DisableKeepAlive).content
-          if($($request_response.success)) {
-            Write-Output "SUCCESS."
-          } else {
-            Write-Error "ERROR: $($request_response.error)"
+          if(!$($request_response.success)) {
+            Write-Error "ERROR: $($request_response.error.toUpper())"
           }
