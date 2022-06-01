@@ -17,15 +17,15 @@ jobs:
           SIGNATURE: ${{ secrets.SIGNATURE }}
         run: |
           $full_quote = $null
-          while((($($full_quote.Length) + 2 + $env:SIGNATURE.Length) -gt 160) -or ([string]::IsNullOrEmpty($full_quote)))
+          while(($($full_quote.Length) -gt 160) -or ([string]::IsNullOrEmpty($full_quote)))
           {
               $object = ConvertFrom-Json $(Invoke-WebRequest -Uri https://zenquotes.io/api/random -Method Post -DisableKeepAlive).content
-              $full_quote = "$($object.q) ($($object.a))"
+              $full_quote = "$($object.q) ($($object.a))`n$env:SIGNATURE"
           }
           Write-Output $full_quote
           $request_response = ConvertFrom-Json $(Invoke-WebRequest -Uri "$env:API_URI" -Body @{
             "phone"="$env:PHONE_NUMBER"
-            "message"="$full_quote`n$env:SIGNATURE"
+            "message"="$full_quote"
             "key"="$env:API_KEY"
           } -Method Post -DisableKeepAlive).content
           if($($request_response.success)) {
