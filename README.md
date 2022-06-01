@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Premature optimization is the root of all evil.*″
- — Donald Knuth
+> ″*Software undergoes beta testing shortly before it’s released. Beta is Latin for still doesn’t work.*″
+ — Unknown
