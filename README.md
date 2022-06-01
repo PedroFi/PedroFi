@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Computers are fast; programmers keep it slow.*″
- — Unknown
+> ″*If, at first, you do not succeed, call it version 1.0.*″
+ — Khayri R.R. Woulfe
