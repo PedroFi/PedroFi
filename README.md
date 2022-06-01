@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Remember that there is no code faster than no code.*″
- — Unknown
+> ″*All problems in computer science can be solved by another level of indirection.*″
+ — David Wheeler
