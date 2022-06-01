@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*All problems in computer science can be solved by another level of indirection.*″
- — David Wheeler
+> ″*When we had no computers, we had no programming problems either.*″
+ — Unknown
