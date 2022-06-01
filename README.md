@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When we had no computers, we had no programming problems either.*″
- — Unknown
+> ″*Programming isn’t about what you know; it’s about what you can figure out.*″
+ — Chris Pine
