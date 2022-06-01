@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Software is a great combination between artistry and engineering.*″
- — Bill Gates
+> ″*Keyboard Failure. Press F1 to continue.*″
+ — Unknown
