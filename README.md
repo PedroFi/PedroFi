@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*If, at first, you do not succeed, call it version 1.0.*″
- — Khayri R.R. Woulfe
+> ″*If the box says, ‘This software requires Windows XP or better,’ does that mean it’ll run on Linux?*″
+ — Unknown
