@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Why do Java programmers have to wear glasses? Because they don’t C#.*″
+> ″*There’s no place like 127.0.0.1.*″
  — Unknown
