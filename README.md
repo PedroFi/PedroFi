@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Computers are fast; programmers keep it slow.*″
- — Unknown
+> ″*If Java had true garbage collection, most programs would delete themselves upon execution.*″
+ — Robert Sewell
