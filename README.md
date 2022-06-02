@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Deleted code is debugged code.*″
- — Unknown
+> ″*A language that doesn’t affect the way you think about programming is not worth knowing.*″
+ — Alan J. Perlis
