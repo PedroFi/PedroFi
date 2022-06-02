@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*You might not think that programmers are artists, but programming is an extremely creative profession. It’s logic-based creativity.*″
- — John Romero
+> ″*One: Demonstrations always crash. And two: The probability of them crashing goes up exponentially with the number of people watching.*″
+ — Unknown
