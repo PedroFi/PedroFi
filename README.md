@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There’s no place like 127.0.0.1.*″
- — Unknown
+> ″*That’s the thing about people who think they hate computers. What they really hate is lousy programmers.*″
+ — Larry Niven
