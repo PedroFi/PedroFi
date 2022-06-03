@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Keyboard Failure. Press F1 to continue.*″
- — Unknown
+> ″*Progress is possible only if we train ourselves to think about programs without thinking of them as pieces of executable code.*″
+ — Edsger W. Dijkstra
