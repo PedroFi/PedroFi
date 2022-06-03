@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors.*″
- — Leon Bambrick
+> ″*The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.*″
+ — Tom Cargill
