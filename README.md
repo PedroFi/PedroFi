@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Some people when confronted with a problem think: ‘I know, I’ll use regular expressions.’. Now they have two problems.*″
+> ″*If the box says, ‘This software requires Windows XP or better,’ does that mean it’ll run on Linux?*″
  — Unknown
