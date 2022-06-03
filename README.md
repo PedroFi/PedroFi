@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Progress is possible only if we train ourselves to think about programs without thinking of them as pieces of executable code.*″
- — Edsger W. Dijkstra
+> ″*Hardware is made to last. Software is made to change. Change is the only thing that lasts. Software wins.*″
+ — Unknown
