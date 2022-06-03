@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*If the box says, ‘This software requires Windows XP or better,’ does that mean it’ll run on Linux?*″
- — Unknown
+> ″*One of the best programming skills you can have is knowing when to walk away for awhile.*″
+ — Oscar Godson
