@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Hardware is made to last. Software is made to change. Change is the only thing that lasts. Software wins.*″
+> ″*Two bytes meet. The first byte asks, ‘Are you ill?’. The second byte replies, ‘No, just feeling a bit off.’.*″
  — Unknown
