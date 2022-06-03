@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*One of the best programming skills you can have is knowing when to walk away for awhile.*″
- — Oscar Godson
+> ″*There are only two kinds of languages: the ones people complain about and the ones nobody uses.*″
+ — Bjarne Stroustrup
