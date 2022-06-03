@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*It’s not a bug — it’s an undocumented feature.*″
- — Unknown
+> ″*Walking on water and developing software from a specification are easy if both are frozen.*″
+ — Edward V. Berard
