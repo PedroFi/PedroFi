@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Remember that there is no code faster than no code.*″
- — Unknown
+> ″*There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors.*″
+ — Leon Bambrick
