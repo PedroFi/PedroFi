@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*A user interface should be so simple that a beginner in an emergency can understand it within ten seconds.*″
- — Ted Nelson
+> ″*Walking on water and developing software from a specification are easy if both are frozen.*″
+ — Edward V. Berard
