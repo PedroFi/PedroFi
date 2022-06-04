@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*A user interface should be so simple that a beginner in an emergency can understand it within ten seconds.*″
- — Ted Nelson
+> ″*Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.*″
+ — Antoine de Saint-Exupery
