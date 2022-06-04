@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Machines take me by surprise with great frequency.*″
- — Alan Turing
+> ″*There is an easy way and a hard way. The hard part is finding the easy way.*″
+ — Unknown
