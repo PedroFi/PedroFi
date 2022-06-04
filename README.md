@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Walking on water and developing software from a specification are easy if both are frozen.*″
- — Edward V. Berard
+> ″*Hardware is made to last. Software is made to change. Change is the only thing that lasts. Software wins.*″
+ — Unknown
