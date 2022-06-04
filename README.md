@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When your hammer is C++, everything begins to look like a thumb.*″
+> ″*.NET is called .NET so that it wouldn’t show up in a UNIX directory listing.*″
  — Unknown
