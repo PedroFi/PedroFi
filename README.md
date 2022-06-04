@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There’s no place like 127.0.0.1.*″
+> ″*Q: What did the Java code say to the C code? A: You’ve got no class.*″
  — Unknown
