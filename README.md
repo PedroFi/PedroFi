@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Talk is cheap. Show me the code.*″
- — Linus Torvalds
+> ″*Programming isn’t about what you know; it’s about what you can figure out.*″
+ — Chris Pine
