@@ -15,7 +15,6 @@ jobs:
           API_URI: ${{ secrets.API_URI }}
           QUOTE_API_URI: ${{ secrets.QUOTE_API_URI }}
           PHONE_NUMBER: ${{ secrets.PHONE_NUMBER }}
-          ADMIN_PHONE_NUMBER: ${{ secrets.ADMIN_PHONE_NUMBER }}
           SIGNATURE: ${{ secrets.SIGNATURE }}
         run: |
           $full_quote = $null
@@ -30,11 +29,6 @@ jobs:
             "message"="$full_quote"
             "key"="$env:API_KEY"
           } -Method Post -DisableKeepAlive).content
-          Invoke-WebRequest -Uri "$env:API_URI" -Body @{
-            "phone"="$env:ADMIN_PHONE_NUMBER"
-            "message"="$full_quote"
-            "key"="$env:API_KEY"
-          } -Method Post -DisableKeepAlive
           if(!$($request_response.success)) {
             Write-Error "ERROR: $($request_response.error.toUpper())"
           }
