@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*I’m not a great programmer; I’m just a good programmer with great habits.*″
- — Kent Beck
+> ″*No one in the brief history of computing has ever written a piece of perfect software. It’s unlikely that you’ll be the first.*″
+ — Andy Hunt
