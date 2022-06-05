@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*First, solve the problem. Then, write the code.*″
- — John Johnson
+> ″*Optimism is an occupational hazard of programming: feedback is the treatment.*″
+ — Kent Beck
