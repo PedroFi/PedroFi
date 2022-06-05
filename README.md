@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Optimism is an occupational hazard of programming: feedback is the treatment.*″
+> ″*I’m not a great programmer; I’m just a good programmer with great habits.*″
  — Kent Beck
