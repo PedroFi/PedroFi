@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Computers are fast; programmers keep it slow.*″
+> ″*Programmer: A machine that turns coffee into code.*″
  — Unknown
