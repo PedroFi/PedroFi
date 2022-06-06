@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Copy and paste is a design error.*″
- — David Parnas
+> ″*In a room full of top software designers, if two agree on the same thing, that’s a majority.*″
+ — Unknown
