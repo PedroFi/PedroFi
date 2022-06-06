@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Premature optimization is the root of all evil.*″
- — Donald Knuth
+> ″*Computers are fast; programmers keep it slow.*″
+ — Unknown
