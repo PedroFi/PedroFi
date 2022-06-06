@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Perl – The only language that looks the same before and after RSA encryption.*″
- — Keith Bostic
+> ″*Programming isn’t about what you know; it’s about what you can figure out.*″
+ — Chris Pine
