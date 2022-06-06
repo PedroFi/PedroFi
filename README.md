@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Programmer: A machine that turns coffee into code.*″
+> ″*Some people when confronted with a problem think: ‘I know, I’ll use regular expressions.’. Now they have two problems.*″
  — Unknown
