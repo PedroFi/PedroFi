@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*UNIX is user friendly. It’s just very particular about who its friends are.*″
- — Unknown
+> ″*One of the best programming skills you can have is knowing when to walk away for awhile.*″
+ — Oscar Godson
