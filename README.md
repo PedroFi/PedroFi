@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Software is a great combination between artistry and engineering.*″
- — Bill Gates
+> ″*It’s harder to read code than to write it.*″
+ — Joel Spolsky
