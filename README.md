@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Good software, like wine, takes time.*″
- — Joel Spolsky
+> ″*Software is a great combination between artistry and engineering.*″
+ — Bill Gates
