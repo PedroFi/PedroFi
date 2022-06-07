@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Deleted code is debugged code.*″
+> ″*Keyboard Failure. Press F1 to continue.*″
  — Unknown
