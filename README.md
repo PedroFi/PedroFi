@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*All problems in computer science can be solved by another level of indirection.*″
- — David Wheeler
+> ″*UNIX was not designed to stop people from doing stupid things, because that would also stop them from doing clever things.*″
+ — Unknown
