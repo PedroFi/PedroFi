@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*That’s the thing about people who think they hate computers. What they really hate is lousy programmers.*″
- — Larry Niven
+> ″*A SQL query goes into a bar, walks up to two tables, and asks, ‘Can I join you?’.*″
+ — Unknown
