@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Keyboard Failure. Press F1 to continue.*″
+> ″*Software undergoes beta testing shortly before it’s released. Beta is Latin for still doesn’t work.*″
  — Unknown
