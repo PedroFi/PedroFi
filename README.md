@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*First, solve the problem. Then, write the code.*″
- — John Johnson
+> ″*UNIX was not designed to stop people from doing stupid things, because that would also stop them from doing clever things.*″
+ — Unknown
