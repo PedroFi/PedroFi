@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Two bytes meet. The first byte asks, ‘Are you ill?’. The second byte replies, ‘No, just feeling a bit off.’.*″
+> ″*There’s no place like 127.0.0.1.*″
  — Unknown
