@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*The value of a prototype is in the education it gives you, not in the code itself.*″
- — Alan Cooper
+> ″*Most of you are familiar with the virtues of a programmer. There are three, of course: laziness, impatience, and hubris.*″
+ — Unknown
