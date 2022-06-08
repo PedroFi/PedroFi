@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Software undergoes beta testing shortly before it’s released. Beta is Latin for still doesn’t work.*″
+> ″*Hardware is made to last. Software is made to change. Change is the only thing that lasts. Software wins.*″
  — Unknown
