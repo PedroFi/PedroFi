@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*One of the best programming skills you can have is knowing when to walk away for awhile.*″
- — Oscar Godson
+> ″*UNIX is simple. It just takes a genius to understand its simplicity.*″
+ — Unknown
