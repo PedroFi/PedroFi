@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When debugging, novices insert corrective code; experts remove defective code.*″
- — Richard Pattis
+> ″*There are two ways to write error-free programs; only the third works.*″
+ — Unknown
