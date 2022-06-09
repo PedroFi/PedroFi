@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When your hammer is C++, everything begins to look like a thumb.*″
- — Unknown
+> ″*Measuring programming progress by lines of code is like measuring aircraft building progress by weight.*″
+ — Bill Gates
