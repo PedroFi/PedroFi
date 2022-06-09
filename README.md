@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When I wrote this code, only God and I understood what I did. Now only God knows.*″
- — Unknown
+> ″*You might not think that programmers are artists, but programming is an extremely creative profession. It’s logic-based creativity.*″
+ — John Romero
