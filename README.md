@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Documentation is like sex: When it is bad, it is better than nothing. When it is good, it is really, really good.*″
+> ″*When I wrote this code, only God and I understood what I did. Now only God knows.*″
  — Unknown
