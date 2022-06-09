@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*UNIX is simple. It just takes a genius to understand its simplicity.*″
- — Unknown
+> ″*Low-level programming is good for the programmer’s soul.*″
+ — John Carmack
