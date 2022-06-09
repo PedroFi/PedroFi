@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There are two ways to write error-free programs; only the third works.*″
- — Unknown
+> ″*Perl – The only language that looks the same before and after RSA encryption.*″
+ — Keith Bostic
