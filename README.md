@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Code never lies, comments sometimes do.*″
- — Ron Jeffries
+> ″*When I wrote this code, only God and I understood what I did. Now only God knows.*″
+ — Unknown
