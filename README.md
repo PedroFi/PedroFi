@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Q: How different are C and C++?A: 1. Because C — C++ = 1.*″
+> ″*There are two ways to write error-free programs; only the third works.*″
  — Unknown
