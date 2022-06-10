@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Most of you are familiar with the virtues of a programmer. There are three, of course: laziness, impatience, and hubris.*″
+> ″*Documentation is like sex: When it is bad, it is better than nothing. When it is good, it is really, really good.*″
  — Unknown
