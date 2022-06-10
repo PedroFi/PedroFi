@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Documentation is like sex: When it is bad, it is better than nothing. When it is good, it is really, really good.*″
- — Unknown
+> ″*You might not think that programmers are artists, but programming is an extremely creative profession. It’s logic-based creativity.*″
+ — John Romero
