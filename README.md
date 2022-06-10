@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*A son asked his father (a programmer) why the sun rises in the east, and sets in the west. His response? It works, don’t touch!*″
+> ″*Most of you are familiar with the virtues of a programmer. There are three, of course: laziness, impatience, and hubris.*″
  — Unknown
