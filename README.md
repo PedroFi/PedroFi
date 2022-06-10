@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*You might not think that programmers are artists, but programming is an extremely creative profession. It’s logic-based creativity.*″
- — John Romero
+> ″*Any fool can write code that a computer can understand. Good programmers write code that humans can understand.*″
+ — Martin Fowler
