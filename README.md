@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When your hammer is C++, everything begins to look like a thumb.*″
+> ″*A good programmer is someone who always looks both ways before crossing a one-way street.*″
  — Unknown
