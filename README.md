@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Any fool can write code that a computer can understand. Good programmers write code that humans can understand.*″
- — Martin Fowler
+> ″*Don’t worry if it doesn’t work right. If everything did, you’d be out of a job.*″
+ — Unknown
