@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Don’t repeat yourself. Every piece of knowledge must have a single, unambiguous, authoritative representation within a system.*″
- — Andy Hunt & Dave Thomas
+> ″*Ethereum has taken what was a four-function calculator of a programming language in Bitcoin and turned it into a full-fledged computer.*″
+ — Fred Ehrsam
