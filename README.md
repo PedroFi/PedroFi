@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*UNIX is simple. It just takes a genius to understand its simplicity.*″
+> ″*When all else fails... reboot.*″
  — Unknown
