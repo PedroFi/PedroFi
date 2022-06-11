@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors.*″
- — Leon Bambrick
+> ″*Most of you are familiar with the virtues of a programmer. There are three, of course: laziness, impatience, and hubris.*″
+ — Unknown
