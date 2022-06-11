@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors.*″
- — Leon Bambrick
+> ″*Hardware is made to last. Software is made to change. Change is the only thing that lasts. Software wins.*″
+ — Unknown
