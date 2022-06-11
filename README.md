@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When your hammer is C++, everything begins to look like a thumb.*″
+> ″*Why do Java programmers have to wear glasses? Because they don’t C#.*″
  — Unknown
