@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Code is there to explain the comments to the computer.*″
- — Andy Harris
+> ″*Keyboard Failure. Press F1 to continue.*″
+ — Unknown
