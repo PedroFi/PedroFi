@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Potential partners are like internet domain names — the ones I like are already taken.*″
- — Unknown
+> ″*There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors.*″
+ — Leon Bambrick
