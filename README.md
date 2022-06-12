@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When I wrote this code, only God and I understood what I did. Now only God knows.*″
- — Unknown
+> ″*One man’s constant is another man’s variable.*″
+ — Alan J. Perlis
