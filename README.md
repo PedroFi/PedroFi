@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Good software, like wine, takes time.*″
- — Joel Spolsky
+> ″*One man’s crappy software is another man’s full-time job.*″
+ — Unknown
