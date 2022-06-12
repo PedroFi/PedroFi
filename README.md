@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*It’s harder to read code than to write it.*″
- — Joel Spolsky
+> ″*Perl – The only language that looks the same before and after RSA encryption.*″
+ — Keith Bostic
