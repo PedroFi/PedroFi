@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Programmer: A machine that turns coffee into code.*″
- — Unknown
+> ″*It’s harder to read code than to write it.*″
+ — Joel Spolsky
