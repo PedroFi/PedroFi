@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Programming made the impossible possible. You can have a null object and a constant variable.*″
- — Unknown
+> ″*All problems in computer science can be solved by another level of indirection.*″
+ — David Wheeler
