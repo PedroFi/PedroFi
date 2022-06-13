@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Walking on water and developing software from a specification are easy if both are frozen.*″
- — Edward V. Berard
+> ″*UNIX is user friendly. It’s just very particular about who its friends are.*″
+ — Unknown
