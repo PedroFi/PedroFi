@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Code is there to explain the comments to the computer.*″
- — Andy Harris
+> ″*Walking on water and developing software from a specification are easy if both are frozen.*″
+ — Edward V. Berard
