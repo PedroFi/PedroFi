@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*First, solve the problem. Then, write the code.*″
- — John Johnson
+> ″*All problems in computer science can be solved by another level of indirection.*″
+ — David Wheeler
