@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*All problems in computer science can be solved by another level of indirection.*″
- — David Wheeler
+> ″*Pascal for real programmers; Delphi for Nerds; C/C++ for people who always wished to do things like reinventing the wheel.*″
+ — Rejie Roque (edited.)
