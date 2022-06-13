@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Pascal for real programmers; Delphi for Nerds; C/C++ for people who always wished to do things like reinventing the wheel.*″
- — Rejie Roque (edited.)
+> ″*Ethereum has taken what was a four-function calculator of a programming language in Bitcoin and turned it into a full-fledged computer.*″
+ — Fred Ehrsam
