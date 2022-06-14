@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Programmer: A machine that turns coffee into code.*″
+> ″*In C we had to code our own bugs. In C++ we can inherit them.*″
  — Unknown
