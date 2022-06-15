@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Why do Java programmers have to wear glasses? Because they don’t C#.*″
+> ″*C++: An octopus made by nailing extra legs onto a dog.*″
  — Unknown
