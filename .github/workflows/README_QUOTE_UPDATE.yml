@@ -2,7 +2,7 @@ name: README QUOTE UPDATE
 on:
   workflow_dispatch:
   schedule:
-  - cron:  '0 0,6,12,18 * * *'
+  - cron:  '0 * * * *'
 jobs:
   main:
     name: README QUOTE UPDATE
