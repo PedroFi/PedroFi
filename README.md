@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.*″
- — John Woods
+> ″*You might not think that programmers are artists, but programming is an extremely creative profession. It’s logic-based creativity.*″
+ — John Romero
