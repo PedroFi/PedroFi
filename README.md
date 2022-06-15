@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Ethereum has taken what was a four-function calculator of a programming language in Bitcoin and turned it into a full-fledged computer.*″
- — Fred Ehrsam
+> ″*Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.*″
+ — John Woods
