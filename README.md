@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Keyboard Failure. Press F1 to continue.*″
+> ″*No code has zero defects.*″
  — Unknown
