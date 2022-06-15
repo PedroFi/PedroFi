@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*No code has zero defects.*″
- — Unknown
+> ″*Ethereum has taken what was a four-function calculator of a programming language in Bitcoin and turned it into a full-fledged computer.*″
+ — Fred Ehrsam
