@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*In a room full of top software designers, if two agree on the same thing, that’s a majority.*″
+> ″*Hardware is made to last. Software is made to change. Change is the only thing that lasts. Software wins.*″
  — Unknown
