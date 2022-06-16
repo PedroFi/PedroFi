@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When we had no computers, we had no programming problems either.*″
- — Unknown
+> ″*Simplicity is prerequisite for reliability.*″
+ — Edsger W. Dijkstra
