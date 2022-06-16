@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*If the box says, ‘This software requires Windows XP or better,’ does that mean it’ll run on Linux?*″
- — Unknown
+> ″*Ethereum has taken what was a four-function calculator of a programming language in Bitcoin and turned it into a full-fledged computer.*″
+ — Fred Ehrsam
