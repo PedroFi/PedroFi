@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off.*″
- — Unknown
+> ″*A user interface should be so simple that a beginner in an emergency can understand it within ten seconds.*″
+ — Ted Nelson
