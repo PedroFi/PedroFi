@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Make it work, make it right, make it fast.*″
- — Kent Beck
+> ″*Code is like humor. When you have to explain it, it’s bad.*″
+ — Cory House
