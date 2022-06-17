@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Any fool can write code that a computer can understand. Good programmers write code that humans can understand.*″
- — Martin Fowler
+> ″*.NET is called .NET so that it wouldn’t show up in a UNIX directory listing.*″
+ — Unknown
