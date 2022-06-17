@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Programming isn’t about what you know; it’s about what you can figure out.*″
- — Chris Pine
+> ″*There are only two hard things in computer science: cache invalidation and naming things.*″
+ — Phil Karlton
