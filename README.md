@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Software and cathedrals are much the same — first we build them, then we pray.*″
- — Unknown
+> ″*Measuring programming progress by lines of code is like measuring aircraft building progress by weight.*″
+ — Bill Gates
