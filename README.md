@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There are only two hard things in computer science: cache invalidation and naming things.*″
- — Phil Karlton
+> ″*A language that doesn’t affect the way you think about programming is not worth knowing.*″
+ — Alan J. Perlis
