@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*That’s the thing about people who think they hate computers. What they really hate is lousy programmers.*″
- — Larry Niven
+> ″*Bad programmers worry about the code. Good programmers worry about data structures and their relationships.*″
+ — Linus Torvalds
