@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Two bytes meet. The first byte asks, ‘Are you ill?’. The second byte replies, ‘No, just feeling a bit off.’.*″
+> ″*If debugging is the process of removing bugs, then programming must be the process of putting them in.*″
  — Unknown
