@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Copy and paste is a design error.*″
- — David Parnas
+> ″*Don’t repeat yourself. Every piece of knowledge must have a single, unambiguous, authoritative representation within a system.*″
+ — Andy Hunt & Dave Thomas
