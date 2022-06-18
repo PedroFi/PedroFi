@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*You might not think that programmers are artists, but programming is an extremely creative profession. It’s logic-based creativity.*″
- — John Romero
+> ″*No one in the brief history of computing has ever written a piece of perfect software. It’s unlikely that you’ll be the first.*″
+ — Andy Hunt
