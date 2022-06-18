@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Cherish your exceptions.*″
- — Anonymous
+> ″*Bad programmers worry about the code. Good programmers worry about data structures and their relationships.*″
+ — Linus Torvalds
