@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*One man’s crappy software is another man’s full-time job.*″
- — Unknown
+> ″*Premature optimization is the root of all evil.*″
+ — Donald Knuth
