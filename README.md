@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Don’t repeat yourself. Every piece of knowledge must have a single, unambiguous, authoritative representation within a system.*″
- — Andy Hunt & Dave Thomas
+> ″*How many programmers does it take to change a light bulb? None, that’s a hardware problem.*″
+ — Unknown
