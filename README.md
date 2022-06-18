@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*How many programmers does it take to change a light bulb? None, that’s a hardware problem.*″
- — Unknown
+> ″*A code is like love, it has created with clear intentions at the beginning, but it can get complicated.*″
+ — Gerry Geek
