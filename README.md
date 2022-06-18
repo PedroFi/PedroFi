@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Good software, like wine, takes time.*″
- — Joel Spolsky
+> ″*Talk is cheap. Show me the code.*″
+ — Linus Torvalds
