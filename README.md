@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*A language that doesn’t affect the way you think about programming is not worth knowing.*″
- — Alan J. Perlis
+> ″*Q: Why did the programmer quit his job? A: Because he didn't get arrays.*″
+ — Unknown
