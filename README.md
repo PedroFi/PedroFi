@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*A good programmer is someone who always looks both ways before crossing a one-way street.*″
- — Unknown
+> ″*When debugging, novices insert corrective code; experts remove defective code.*″
+ — Richard Pattis
