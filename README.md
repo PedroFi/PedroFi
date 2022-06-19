@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*If the box says, ‘This software requires Windows XP or better,’ does that mean it’ll run on Linux?*″
- — Unknown
+> ″*When he really, really likes a girl, he creates a font and names it after her.*″
+ — David Levithan, Every Day
