@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.*″
- — Antoine de Saint-Exupery
+> ″*Don’t repeat yourself. Every piece of knowledge must have a single, unambiguous, authoritative representation within a system.*″
+ — Andy Hunt & Dave Thomas
