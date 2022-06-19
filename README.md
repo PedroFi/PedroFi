@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When he really, really likes a girl, he creates a font and names it after her.*″
- — David Levithan, Every Day
+> ″*Any fool can write code that a computer can understand. Good programmers write code that humans can understand.*″
+ — Martin Fowler
