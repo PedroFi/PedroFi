@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Any fool can write code that a computer can understand. Good programmers write code that humans can understand.*″
- — Martin Fowler
+> ″*Programmers are not to be measured by their ingenuity and their logic but by the completeness of their case analysis.*″
+ — Alan J. Perlis
