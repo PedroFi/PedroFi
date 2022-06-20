@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.*″
- — Dan Salomon
+> ″*That’s the thing about people who think they hate computers. What they really hate is lousy programmers.*″
+ — Larry Niven
