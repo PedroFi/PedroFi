@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*In a room full of top software designers, if two agree on the same thing, that’s a majority.*″
+> ″*One: Demonstrations always crash. And two: The probability of them crashing goes up exponentially with the number of people watching.*″
  — Unknown
