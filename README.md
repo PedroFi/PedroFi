@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*What’s the object-oriented way to get wealthy? Inheritance.*″
+> ″*Programming made the impossible possible. You can have a null object and a constant variable.*″
  — Unknown
