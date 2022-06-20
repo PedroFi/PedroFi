@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*One: Demonstrations always crash. And two: The probability of them crashing goes up exponentially with the number of people watching.*″
- — Unknown
+> ″*Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.*″
+ — Dan Salomon
