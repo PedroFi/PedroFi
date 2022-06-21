@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*If the box says, ‘This software requires Windows XP or better,’ does that mean it’ll run on Linux?*″
+> ″*A system administrator has two problems: 1. Dumb users. 2. Smart users.*″
  — Unknown
