@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There are 10 types of people in this world, those who understand binary and those who don't.*″
- — Anonymous
+> ″*A system administrator has two problems: 1. Dumb users. 2. Smart users.*″
+ — Unknown
