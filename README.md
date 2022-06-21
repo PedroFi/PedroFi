@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*It’s not a bug — it’s an undocumented feature.*″
+> ″*UNIX is user friendly. It’s just very particular about who its friends are.*″
  — Unknown
