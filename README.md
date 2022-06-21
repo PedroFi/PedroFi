@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Software and cathedrals are much the same — first we build them, then we pray.*″
+> ″*There is an easy way and a hard way. The hard part is finding the easy way.*″
  — Unknown
