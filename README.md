@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*It’s harder to read code than to write it.*″
- — Joel Spolsky
+> ″*How many programmers does it take to change a light bulb? None, that’s a hardware problem.*″
+ — Unknown
