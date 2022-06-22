@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Programmer: A machine that turns coffee into code.*″
- — Unknown
+> ″*If, at first, you do not succeed, call it version 1.0.*″
+ — Khayri R.R. Woulfe
