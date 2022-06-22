@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*A code is like love, it has created with clear intentions at the beginning, but it can get complicated.*″
- — Gerry Geek
+> ″*A user interface should be so simple that a beginner in an emergency can understand it within ten seconds.*″
+ — Ted Nelson
