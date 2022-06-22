@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Programming isn’t about what you know; it’s about what you can figure out.*″
- — Chris Pine
+> ″*Give a man a program, frustrate him for a day. Teach a man to program, frustrate him for a lifetime.*″
+ — Muhammad Waseem
