@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*I’ve finally learned what upward compatible means. It means we get to keep all our old mistakes.*″
+> ″*Programming made the impossible possible. You can have a null object and a constant variable.*″
  — Unknown
