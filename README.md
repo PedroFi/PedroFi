@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*It’s harder to read code than to write it.*″
- — Joel Spolsky
+> ″*There are 10 types of people in this world, those who understand binary and those who don't.*″
+ — Anonymous
