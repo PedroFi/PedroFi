@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There’s no test like production.*″
- — Anonymous
+> ″*Q: How different are C and C++?A: 1. Because C — C++ = 1.*″
+ — Unknown
