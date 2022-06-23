@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Software is a great combination between artistry and engineering.*″
- — Bill Gates
+> ″*UNIX is user friendly. It’s just very particular about who its friends are.*″
+ — Unknown
