@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Q: How different are C and C++?A: 1. Because C — C++ = 1.*″
+> ″*Software undergoes beta testing shortly before it’s released. Beta is Latin for still doesn’t work.*″
  — Unknown
