@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Software undergoes beta testing shortly before it’s released. Beta is Latin for still doesn’t work.*″
- — Unknown
+> ″*Experience is the name everyone gives to their mistakes.*″
+ — Oscar Wilde
