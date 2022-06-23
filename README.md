@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Software and cathedrals are much the same — first we build them, then we pray.*″
- — Unknown
+> ″*Optimism is an occupational hazard of programming: feedback is the treatment.*″
+ — Kent Beck
