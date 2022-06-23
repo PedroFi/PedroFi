@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Experience is the name everyone gives to their mistakes.*″
- — Oscar Wilde
+> ″*Software and cathedrals are much the same — first we build them, then we pray.*″
+ — Unknown
