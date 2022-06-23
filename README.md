@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There are 10 types of people in this world, those who understand binary and those who don't.*″
- — Anonymous
+> ″*The 50-50-90 rule: Anytime you have a 50-50 chance of getting something right, there’s a 90% probability you’ll get it wrong.*″
+ — Andy Rooney
