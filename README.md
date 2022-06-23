@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*It’s not a bug — it’s an undocumented feature.*″
+> ″*Hardware is made to last. Software is made to change. Change is the only thing that lasts. Software wins.*″
  — Unknown
