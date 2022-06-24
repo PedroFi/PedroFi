@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Pascal for real programmers; Delphi for Nerds; C/C++ for people who always wished to do things like reinventing the wheel.*″
- — Rejie Roque (edited.)
+> ″*A user interface should be so simple that a beginner in an emergency can understand it within ten seconds.*″
+ — Ted Nelson
