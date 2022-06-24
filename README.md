@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Cherish your exceptions.*″
- — Anonymous
+> ″*A SQL query goes into a bar, walks up to two tables, and asks, ‘Can I join you?’.*″
+ — Unknown
