@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*If debugging is the process of removing bugs, then programming must be the process of putting them in.*″
- — Unknown
+> ″*Pascal for real programmers; Delphi for Nerds; C/C++ for people who always wished to do things like reinventing the wheel.*″
+ — Rejie Roque (edited.)
