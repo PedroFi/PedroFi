@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Any code of your own that you haven’t looked at for six or more months might as well have been written by someone else.*″
- — (Eagleson’s Law)
+> ″*Code is like humor. When you have to explain it, it’s bad.*″
+ — Cory House
