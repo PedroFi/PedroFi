@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Truth can only be found in one place: the code.*″
- — Robert C. Martin, Clean Code: A Handbook of Agile Software Craftsmanship
+> ″*UNIX is user friendly. It’s just very particular about who its friends are.*″
+ — Unknown
