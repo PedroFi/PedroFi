@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Optimism is an occupational hazard of programming: feedback is the treatment.*″
- — Kent Beck
+> ″*When he really, really likes a girl, he creates a font and names it after her.*″
+ — David Levithan, Every Day
