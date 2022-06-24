@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*How many programmers does it take to change a light bulb? None, that’s a hardware problem.*″
+> ″*.NET is called .NET so that it wouldn’t show up in a UNIX directory listing.*″
  — Unknown
