@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Programming can be fun, and so can cryptography; however, they should not be combined.*″
- — Unknown
+> ″*Don’t repeat yourself. Every piece of knowledge must have a single, unambiguous, authoritative representation within a system.*″
+ — Andy Hunt & Dave Thomas
