@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*The value of a prototype is in the education it gives you, not in the code itself.*″
- — Alan Cooper
+> ″*In the happy land of elegant code and pretty rainbows, there lives a spoil-sport monster called inefficiency.*″
+ — Marijn Haverbeke, Eloquent JavaScript: A Modern Introduction to Programming
