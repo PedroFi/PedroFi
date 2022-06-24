@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When we had no computers, we had no programming problems either.*″
+> ″*How many programmers does it take to change a light bulb? None, that’s a hardware problem.*″
  — Unknown
