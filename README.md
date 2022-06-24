@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*.NET is called .NET so that it wouldn’t show up in a UNIX directory listing.*″
+> ″*Programming can be fun, and so can cryptography; however, they should not be combined.*″
  — Unknown
