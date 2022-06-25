@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Software and cathedrals are much the same — first we build them, then we pray.*″
+> ″*When I wrote this code, only God and I understood what I did. Now only God knows.*″
  — Unknown
