@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.*″
- — John Woods
+> ″*Potential partners are like internet domain names — the ones I like are already taken.*″
+ — Unknown
