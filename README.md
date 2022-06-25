@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Computers are fast; programmers keep it slow.*″
+> ″*Software and cathedrals are much the same — first we build them, then we pray.*″
  — Unknown
