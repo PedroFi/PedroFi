@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When he really, really likes a girl, he creates a font and names it after her.*″
- — David Levithan, Every Day
+> ″*The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.*″
+ — Tom Cargill
