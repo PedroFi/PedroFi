@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Walking on water and developing software from a specification are easy if both are frozen.*″
- — Edward V. Berard
+> ″*UNIX is simple. It just takes a genius to understand its simplicity.*″
+ — Unknown
