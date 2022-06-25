@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Measuring programming progress by lines of code is like measuring aircraft building progress by weight.*″
- — Bill Gates
+> ″*.NET is called .NET so that it wouldn’t show up in a UNIX directory listing.*″
+ — Unknown
