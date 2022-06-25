@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When all else fails... reboot.*″
+> ″*Don’t worry if it doesn’t work right. If everything did, you’d be out of a job.*″
  — Unknown
