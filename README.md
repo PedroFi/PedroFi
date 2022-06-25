@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*.NET is called .NET so that it wouldn’t show up in a UNIX directory listing.*″
- — Unknown
+> ″*Ethereum has taken what was a four-function calculator of a programming language in Bitcoin and turned it into a full-fledged computer.*″
+ — Fred Ehrsam
