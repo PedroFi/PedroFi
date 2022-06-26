@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Hardware is made to last. Software is made to change. Change is the only thing that lasts. Software wins.*″
+> ″*Software and cathedrals are much the same — first we build them, then we pray.*″
  — Unknown
