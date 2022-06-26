@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Low-level programming is good for the programmer’s soul.*″
- — John Carmack
+> ″*Machines take me by surprise with great frequency.*″
+ — Alan Turing
