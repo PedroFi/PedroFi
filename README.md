@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Q: Why did the programmer quit his job? A: Because he didn't get arrays.*″
- — Unknown
+> ″*All problems in computer science can be solved by another level of indirection.*″
+ — David Wheeler
