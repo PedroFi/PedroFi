@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.*″
- — Antoine de Saint-Exupery
+> ″*It’s harder to read code than to write it.*″
+ — Joel Spolsky
