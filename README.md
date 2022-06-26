@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*A user interface should be so simple that a beginner in an emergency can understand it within ten seconds.*″
- — Ted Nelson
+> ″*Syntactic sugar causes cancer of the semicolon.*″
+ — Alan J. Perlis, Structure and Interpretation of Computer Programs
