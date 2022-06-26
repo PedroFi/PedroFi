@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*All problems in computer science can be solved by another level of indirection.*″
- — David Wheeler
+> ″*What’s the object-oriented way to get wealthy? Inheritance.*″
+ — Unknown
