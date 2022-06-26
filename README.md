@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*What’s the object-oriented way to get wealthy? Inheritance.*″
+> ″*UNIX was not designed to stop people from doing stupid things, because that would also stop them from doing clever things.*″
  — Unknown
