@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Code never lies, comments sometimes do.*″
- — Ron Jeffries
+> ″*UNIX was not designed to stop people from doing stupid things, because that would also stop them from doing clever things.*″
+ — Unknown
