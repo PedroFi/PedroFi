@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors.*″
- — Leon Bambrick
+> ″*One: Demonstrations always crash. And two: The probability of them crashing goes up exponentially with the number of people watching.*″
+ — Unknown
