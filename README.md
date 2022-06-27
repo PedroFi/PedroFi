@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*How many programmers does it take to change a light bulb? None, that’s a hardware problem.*″
- — Unknown
+> ″*Programming isn’t about what you know; it’s about what you can figure out.*″
+ — Chris Pine
