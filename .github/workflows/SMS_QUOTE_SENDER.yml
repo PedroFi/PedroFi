@@ -1,5 +1,8 @@
 name: SMS QUOTE SENDER
-on: [workflow_dispatch ]
+on:
+  workflow_dispatch:
+  schedule:
+  - cron:  '30 5 * * *'
 jobs:
   main:
     name: SMS QUOTE SENDER
