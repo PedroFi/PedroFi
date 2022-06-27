@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When we had no computers, we had no programming problems either.*″
- — Unknown
+> ″*There’s no test like production.*″
+ — Anonymous
