@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*What kind of programmer is so divorced from reality that he thinks he'll get complex software right the first time?*″
- — James Alan Gardner, Ascending
+> ″*Programmer’s partner: ‘Are you going to sit and type in front of that thing all day, or are you going out with me?’. Programmer: ‘Yes.’.*″
+ — Unknown
