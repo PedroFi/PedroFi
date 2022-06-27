@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*UNIX was not designed to stop people from doing stupid things, because that would also stop them from doing clever things.*″
+> ″*When we had no computers, we had no programming problems either.*″
  — Unknown
