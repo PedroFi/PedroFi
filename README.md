@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Programming made the impossible possible. You can have a null object and a constant variable.*″
- — Unknown
+> ″*There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors.*″
+ — Leon Bambrick
