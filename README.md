@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*How many programmers does it take to change a light bulb? None, that’s a hardware problem.*″
- — Unknown
+> ″*Code is like humor. When you have to explain it, it’s bad.*″
+ — Cory House
