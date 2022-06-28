@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off.*″
- — Unknown
+> ″*A code is like love, it has created with clear intentions at the beginning, but it can get complicated.*″
+ — Gerry Geek
