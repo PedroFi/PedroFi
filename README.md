@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Programmer’s partner: ‘Are you going to sit and type in front of that thing all day, or are you going out with me?’. Programmer: ‘Yes.’.*″
- — Unknown
+> ″*The definition of Hell is working with dates in Java, JDBC, and Oracle. Every single one of them screw it up.*″
+ — Dick Wall CommunityOne 2007: Lunch with the Java Posse
