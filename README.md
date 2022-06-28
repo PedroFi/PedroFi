@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*If debugging is the process of removing software bugs, then programming must be the process of putting them in.*″
- — Edsger Dijkstra
+> ″*Programmers are not to be measured by their ingenuity and their logic but by the completeness of their case analysis.*″
+ — Alan J. Perlis
