@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Programmers are not to be measured by their ingenuity and their logic but by the completeness of their case analysis.*″
- — Alan J. Perlis
+> ″*How many programmers does it take to change a light bulb? None, that’s a hardware problem.*″
+ — Unknown
