@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When debugging, novices insert corrective code; experts remove defective code.*″
- — Richard Pattis
+> ″*One man’s constant is another man’s variable.*″
+ — Alan J. Perlis
