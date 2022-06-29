@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When he really, really likes a girl, he creates a font and names it after her.*″
- — David Levithan, Every Day
+> ″*One of the main causes of the fall of the Roman Empire was that lacking zero, they had no way to indicate successful termination of their C programs.*″
+ — Unknown
