@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*One man’s constant is another man’s variable.*″
- — Alan J. Perlis
+> ″*I’ve finally learned what upward compatible means. It means we get to keep all our old mistakes.*″
+ — Unknown
