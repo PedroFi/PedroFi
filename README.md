@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*In software, the most beautiful code, the most beautiful functions, and the most beautiful programs are sometimes not there at all.*″
- — Jon Bentley
+> ″*In a room full of top software designers, if two agree on the same thing, that’s a majority.*″
+ — Unknown
