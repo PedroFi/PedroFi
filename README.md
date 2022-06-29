@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*In C we had to code our own bugs. In C++ we can inherit them.*″
+> ″*There are two ways to write error-free programs; only the third works.*″
  — Unknown
