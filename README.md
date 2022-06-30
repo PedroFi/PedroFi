@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Most of you are familiar with the virtues of a programmer. There are three, of course: laziness, impatience, and hubris.*″
- — Unknown
+> ″*In software, the most beautiful code, the most beautiful functions, and the most beautiful programs are sometimes not there at all.*″
+ — Jon Bentley
