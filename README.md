@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*A user interface should be so simple that a beginner in an emergency can understand it within ten seconds.*″
- — Ted Nelson
+> ″*In the happy land of elegant code and pretty rainbows, there lives a spoil-sport monster called inefficiency.*″
+ — Marijn Haverbeke, Eloquent JavaScript: A Modern Introduction to Programming
