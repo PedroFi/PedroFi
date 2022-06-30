@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*A code is like love, it has created with clear intentions at the beginning, but it can get complicated.*″
- — Gerry Geek
+> ″*Any fool can write code that a computer can understand. Good programmers write code that humans can understand.*″
+ — Martin Fowler
