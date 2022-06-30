@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*I’ve finally learned what upward compatible means. It means we get to keep all our old mistakes.*″
- — Unknown
+> ″*What kind of programmer is so divorced from reality that he thinks he'll get complex software right the first time?*″
+ — James Alan Gardner, Ascending
