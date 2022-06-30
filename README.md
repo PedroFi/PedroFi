@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Java: write once, run away!*″
- — Brucee
+> ″*Remember that there is no code faster than no code.*″
+ — Unknown
