@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*What kind of programmer is so divorced from reality that he thinks he'll get complex software right the first time?*″
- — James Alan Gardner, Ascending
+> ″*No one in the brief history of computing has ever written a piece of perfect software. It’s unlikely that you’ll be the first.*″
+ — Andy Hunt
