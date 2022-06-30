@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Make it work, make it right, make it fast.*″
- — Kent Beck
+> ″*That’s the thing about people who think they hate computers. What they really hate is lousy programmers.*″
+ — Larry Niven
