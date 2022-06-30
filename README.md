@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There is an easy way and a hard way. The hard part is finding the easy way.*″
- — Unknown
+> ″*Give a man a program, frustrate him for a day. Teach a man to program, frustrate him for a lifetime.*″
+ — Muhammad Waseem
