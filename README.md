@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Walking on water and developing software from a specification are easy if both are frozen.*″
- — Edward V. Berard
+> ″*Two bytes meet. The first byte asks, ‘Are you ill?’. The second byte replies, ‘No, just feeling a bit off.’.*″
+ — Unknown
