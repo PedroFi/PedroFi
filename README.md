@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When your hammer is C++, everything begins to look like a thumb.*″
- — Unknown
+> ″*Good software, like wine, takes time.*″
+ — Joel Spolsky
