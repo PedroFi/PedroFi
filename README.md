@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Good software, like wine, takes time.*″
- — Joel Spolsky
+> ″*Experience is the name everyone gives to their mistakes.*″
+ — Oscar Wilde
