@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Q: Why did the programmer quit his job? A: Because he didn't get arrays.*″
- — Unknown
+> ″*One of the best programming skills you can have is knowing when to walk away for awhile.*″
+ — Oscar Godson
