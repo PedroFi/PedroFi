@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Optimism is an occupational hazard of programming: feedback is the treatment.*″
- — Kent Beck
+> ″*Algorithm: Word used by programmers when they don’t want to explain what they did.*″
+ — Unknown
