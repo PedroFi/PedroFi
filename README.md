@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*One man’s constant is another man’s variable.*″
- — Alan J. Perlis
+> ″*When your hammer is C++, everything begins to look like a thumb.*″
+ — Unknown
