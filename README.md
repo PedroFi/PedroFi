@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*No one in the brief history of computing has ever written a piece of perfect software. It’s unlikely that you’ll be the first.*″
- — Andy Hunt
+> ″*A program is never less than 90% complete and never more than 95% complete.*″
+ — Unknown
