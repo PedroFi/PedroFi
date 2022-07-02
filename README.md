@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Most of you are familiar with the virtues of a programmer. There are three, of course: laziness, impatience, and hubris.*″
- — Unknown
+> ″*You might not think that programmers are artists, but programming is an extremely creative profession. It’s logic-based creativity.*″
+ — John Romero
