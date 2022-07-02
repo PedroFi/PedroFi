@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*If debugging is the process of removing bugs, then programming must be the process of putting them in.*″
- — Unknown
+> ″*Truth can only be found in one place: the code.*″
+ — Robert C. Martin, Clean Code: A Handbook of Agile Software Craftsmanship
