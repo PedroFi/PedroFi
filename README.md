@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*That’s the thing about people who think they hate computers. What they really hate is lousy programmers.*″
- — Larry Niven
+> ″*No one in the brief history of computing has ever written a piece of perfect software. It’s unlikely that you’ll be the first.*″
+ — Andy Hunt
