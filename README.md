@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Software being 'Done' is like lawn being 'Mowed'.*″
- — Jim Benson
+> ″*When your hammer is C++, everything begins to look like a thumb.*″
+ — Unknown
