@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When your hammer is C++, everything begins to look like a thumb.*″
- — Unknown
+> ″*The 50-50-90 rule: Anytime you have a 50-50 chance of getting something right, there’s a 90% probability you’ll get it wrong.*″
+ — Andy Rooney
