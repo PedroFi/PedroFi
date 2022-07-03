@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Software and cathedrals are much the same — first we build them, then we pray.*″
- — Unknown
+> ″*In software, the most beautiful code, the most beautiful functions, and the most beautiful programs are sometimes not there at all.*″
+ — Jon Bentley
