@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*All problems in computer science can be solved by another level of indirection.*″
- — David Wheeler
+> ″*Algorithm: Word used by programmers when they don’t want to explain what they did.*″
+ — Unknown
