@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*What kind of programmer is so divorced from reality that he thinks he'll get complex software right the first time?*″
- — James Alan Gardner, Ascending
+> ″*Don’t repeat yourself. Every piece of knowledge must have a single, unambiguous, authoritative representation within a system.*″
+ — Andy Hunt & Dave Thomas
