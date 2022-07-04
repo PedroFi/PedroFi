@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*A language that doesn’t affect the way you think about programming is not worth knowing.*″
- — Alan J. Perlis
+> ″*What kind of programmer is so divorced from reality that he thinks he'll get complex software right the first time?*″
+ — James Alan Gardner, Ascending
