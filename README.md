@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Hardware is made to last. Software is made to change. Change is the only thing that lasts. Software wins.*″
+> ″*A system administrator has two problems: 1. Dumb users. 2. Smart users.*″
  — Unknown
