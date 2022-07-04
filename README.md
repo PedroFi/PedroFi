@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Computers are fast; programmers keep it slow.*″
- — Unknown
+> ″*A language that doesn’t affect the way you think about programming is not worth knowing.*″
+ — Alan J. Perlis
