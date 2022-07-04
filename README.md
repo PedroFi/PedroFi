@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Software being 'Done' is like lawn being 'Mowed'.*″
- — Jim Benson
+> ″*Hardware is made to last. Software is made to change. Change is the only thing that lasts. Software wins.*″
+ — Unknown
