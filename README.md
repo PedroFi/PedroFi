@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*If Java had true garbage collection, most programs would delete themselves upon execution.*″
- — Robert Sewell
+> ″*Don’t repeat yourself. Every piece of knowledge must have a single, unambiguous, authoritative representation within a system.*″
+ — Andy Hunt & Dave Thomas
