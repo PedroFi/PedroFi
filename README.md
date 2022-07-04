@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*No code has zero defects.*″
- — Unknown
+> ″*Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.*″
+ — Dan Salomon
