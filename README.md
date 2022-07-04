@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Remember that there is no code faster than no code.*″
- — Unknown
+> ″*Software being 'Done' is like lawn being 'Mowed'.*″
+ — Jim Benson
