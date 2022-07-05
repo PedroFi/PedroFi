@@ -13,7 +13,6 @@ jobs:
       - shell: pwsh
         run: |
           $object = ConvertFrom-Json $(Invoke-WebRequest -Uri "${{ secrets.QUOTE_API_URI }}" -Method Post -DisableKeepAlive).content
-          Write-Output "QUOTE=$(echo $($object.q))"
           echo "QUOTE=$(echo $($object.q))" >> $GITHUB_ENV
           echo "AUTHOR=$(echo $($object.a))" >> $GITHUB_ENV
       - uses: appleboy/discord-action@master
