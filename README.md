@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*If Java had true garbage collection, most programs would delete themselves upon execution.*″
- — Robert Sewell
+> ″*A language that doesn’t affect the way you think about programming is not worth knowing.*″
+ — Alan J. Perlis
