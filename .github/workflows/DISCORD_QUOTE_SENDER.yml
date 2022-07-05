@@ -13,9 +13,9 @@ jobs:
       - shell: pwsh
         run: |
           $object = ConvertFrom-Json $(Invoke-WebRequest -Uri "${{ secrets.QUOTE_API_URI }}" -Method Post -DisableKeepAlive).content
-          export QUOTE=$($object.q)
+          $QUOTE = $($object.q)
           echo "::set-env name=QUOTE::$QUOTE"
-          export AUTHOR=$($object.a)
+          $AUTHOR = $($object.a)
           echo "::set-env name=AUTHOR::$AUTHOR"
       - uses: appleboy/discord-action@master
         with:
