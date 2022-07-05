@@ -26,8 +26,8 @@ jobs:
     steps:
       - name: Step 1
         run: |
-            echo "action_state=yellow" >> $GITHUB_ENV
-            echo "State is: '${{ env.action_state }}'" # No output since same step
+            echo "QUOTE=yellow" >> $GITHUB_ENV
+            echo "State is: '${{ env.QUOTE }}'" # No output since same step
       - name: Step 2
         run: |
-            echo "State is: '${{ env.action_state }}'" # Output works
+            echo "State is: '${{ env.QUOTE }}'" # Output works
