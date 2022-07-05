@@ -10,26 +10,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - shell: pwsh
+      - name: 'GET QUOTE'
+        shell: pwsh
         run: |
           $object = ConvertFrom-Json $(Invoke-WebRequest -Uri "${{ secrets.QUOTE_API_URI }}" -Method Post -DisableKeepAlive).content
           echo "QUOTE=$(echo $($object.q))" >> $GITHUB_ENV
           echo "AUTHOR=$(echo $($object.a))" >> $GITHUB_ENV
-          echo "″${{ env.QUOTE }}″ — ${{ env.AUTHOR }}"
-      - uses: appleboy/discord-action@master
+      - name: 'SEND QUOTE'
+        uses: appleboy/discord-action@master
         with:
           webhook_id: "${{ secrets.WEBHOOK_ID }}"
           webhook_token: "${{ secrets.WEBHOOK_TOKEN }}"
           args: "″${{ env.QUOTE }}″ — ${{ env.AUTHOR }}"
-  second:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Step 1
-        shell: pwsh
-        run: |
-            $object = ConvertFrom-Json $(Invoke-WebRequest -Uri "${{ secrets.QUOTE_API_URI }}" -Method Post -DisableKeepAlive).content
-            echo "QUOTE=$(echo $($object.q))"
-            echo "State is: '${{ env.QUOTE }}'" # No output since same step
-      - name: Step 2
-        run: |
-            echo "State is: '${{ env.QUOTE }}'" # Output works
