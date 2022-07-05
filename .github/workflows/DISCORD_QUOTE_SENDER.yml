@@ -13,9 +13,9 @@ jobs:
         run: |
           $object = ConvertFrom-Json $(Invoke-WebRequest -Uri "${{ secrets.QUOTE_API_URI }}" -Method Post -DisableKeepAlive).content
           echo "full_quote=${{ '″$($object.q)″ — $($object.a)' }}" >> $GITHUB_ENV
-          Write-Output "full_quote=${{ '″$($object.q)″ — $($object.a)' }}"
       - uses: appleboy/discord-action@master
         with:
           webhook_id: "${{ secrets.WEBHOOK_ID }}"
           webhook_token: "${{ secrets.WEBHOOK_TOKEN }}"
           args: "${{ env.full_quote }}"
+      - run: Write-Output "${{ env.full_quote }}"
