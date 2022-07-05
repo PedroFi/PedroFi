@@ -4,9 +4,6 @@ on:
   push:
   schedule:
   - cron:  '0 7 * * *'
-env:
-  QUOTE: null
-  AUTHOR: null
 jobs:
   main:
     name: DISCORD QUOTE SENDER
@@ -16,10 +13,12 @@ jobs:
       - shell: pwsh
         run: |
           $object = ConvertFrom-Json $(Invoke-WebRequest -Uri "${{ secrets.QUOTE_API_URI }}" -Method Post -DisableKeepAlive).content
-          echo "$($object.q)" >> $QUOTE
-          echo "$($object.a)" >> $AUTHOR
+          export QUOTE=$($object.q)
+          echo "::set-env name=QUOTE::$QUOTE"
+          export AUTHOR=$($object.a)
+          echo "::set-env name=AUTHOR::$AUTHOR"
       - uses: appleboy/discord-action@master
         with:
           webhook_id: "${{ secrets.WEBHOOK_ID }}"
           webhook_token: "${{ secrets.WEBHOOK_TOKEN }}"
-          message: "″$QUOTE″ — $AUTHOR"
+          message: "″${{ env.QUOTE }}″ — ${{ env.AUTHOR }}"
