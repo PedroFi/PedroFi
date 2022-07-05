@@ -4,18 +4,21 @@ on:
   push:
   schedule:
   - cron:  '0 7 * * *'
+env:
+  QUOTE: null
+  AUTHOR: null
 jobs:
   main:
     name: DISCORD QUOTE SENDER
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+      - shell: pwsh
+        run: |
+          $object = ConvertFrom-Json $(Invoke-WebRequest -Uri "${{ secrets.QUOTE_API_URI }}" -Method Post -DisableKeepAlive).content
+          echo "$($object.q)" >> $QUOTE
+          echo "$($object.a)" >> $AUTHOR
       - uses: appleboy/discord-action@master
-        shell: pwsh
-        env:
-          OBJECT: ${{ ConvertFrom-Json $(Invoke-WebRequest -Uri "${{ secrets.QUOTE_API_URI }}" -Method Post -DisableKeepAlive).content }}
-          QUOTE: ${{ $($object.q)) }}
-          AUTHOR: ${{ $($object.a)) }}
         with:
           webhook_id: "${{ secrets.WEBHOOK_ID }}"
           webhook_token: "${{ secrets.WEBHOOK_TOKEN }}"
