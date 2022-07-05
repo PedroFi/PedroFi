@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*UNIX is user friendly. It’s just very particular about who its friends are.*″
+> ″*There are two ways to write error-free programs; only the third works.*″
  — Unknown
