@@ -18,4 +18,5 @@ jobs:
           webhook_id: "${{ secrets.WEBHOOK_ID }}"
           webhook_token: "${{ secrets.WEBHOOK_TOKEN }}"
           args: "${{ env.full_quote }}"
-      - run: Write-Output "${{ env.full_quote }}"
+      - shell: pwsh
+        run: Write-Output "${{ env.full_quote }}"
