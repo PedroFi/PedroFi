@@ -18,4 +18,4 @@ jobs:
         with:
           webhook_id: "${{ secrets.WEBHOOK_ID }}"
           webhook_token: "${{ secrets.WEBHOOK_TOKEN }}"
-          args: "″$env:QUOTE″ — $env:AUTHOR"
+          args: "″$($env:QUOTE)″ — $($env:AUTHOR)"
