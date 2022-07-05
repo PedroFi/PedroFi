@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There are two ways to write error-free programs; only the third works.*″
+> ″*C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off.*″
  — Unknown
