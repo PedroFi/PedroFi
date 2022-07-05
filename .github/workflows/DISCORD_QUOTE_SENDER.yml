@@ -21,3 +21,12 @@ jobs:
           webhook_id: "${{ secrets.WEBHOOK_ID }}"
           webhook_token: "${{ secrets.WEBHOOK_TOKEN }}"
           args: "″${{ env.QUOTE }}″ — ${{ env.AUTHOR }}"
+  second:
+    steps:
+      - name: Step 1
+        run: |
+            echo "action_state=yellow" >> $GITHUB_ENV
+            echo "State is: '${{ env.action_state }}'" # No output since same step
+      - name: Step 2
+        run: |
+            echo "State is: '${{ env.action_state }}'" # Output works
