@@ -22,4 +22,4 @@ jobs:
         with:
           webhook_id: "$env:WEBHOOK_ID"
           webhook_token: "$env:WEBHOOK_TOKEN"
-          args: "$env:full_quote"
+          args: ${{ env.full_quote }}
