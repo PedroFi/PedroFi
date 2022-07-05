@@ -11,15 +11,11 @@ jobs:
       - uses: actions/checkout@v3
       - shell: pwsh
         run: |
-          $full_quote = $null
-          while(($($full_quote.Length) -gt 160) -or ([string]::IsNullOrEmpty($full_quote)))
-          {
-              $object = ConvertFrom-Json $(Invoke-WebRequest -Uri "${{ secrets.QUOTE_API_URI }}" -Method Post -DisableKeepAlive).content
-              $full_quote = "$($object.q) ($($object.a))"
-          }
-          Write-Output $full_quote
-        uses: appleboy/discord-action@master
+          $object = ConvertFrom-Json $(Invoke-WebRequest -Uri "${{ secrets.QUOTE_API_URI }}" -Method Post -DisableKeepAlive).content
+          echo "{full_quote}={″$($object.q)″ — $($object.a)}" >> $GITHUB_ENV
+          Write-Output "${{ env.full_quote }}"
+      - uses: appleboy/discord-action@master
         with:
           webhook_id: ${{ secrets.WEBHOOK_ID }}
           webhook_token: ${{ secrets.WEBHOOK_TOKEN }}
-          message: $full_quote
+          message: "${{ env.full_quote }}"
