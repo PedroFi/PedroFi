@@ -22,4 +22,4 @@ jobs:
         with:
           webhook_id: "${{ secrets.WEBHOOK_ID }}"
           webhook_token: "${{ secrets.WEBHOOK_TOKEN }}"
-          message: "″${{ $QUOTE }}″ — ${{ $AUTHOR }}"
+          message: "″$QUOTE″ — $AUTHOR"
