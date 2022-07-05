@@ -22,6 +22,7 @@ jobs:
           webhook_token: "${{ secrets.WEBHOOK_TOKEN }}"
           args: "″${{ env.QUOTE }}″ — ${{ env.AUTHOR }}"
   second:
+    runs-on: ubuntu-latest
     steps:
       - name: Step 1
         run: |
