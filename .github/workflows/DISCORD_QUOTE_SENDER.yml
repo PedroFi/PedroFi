@@ -10,12 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-      - shell: pwsh
-        run: |
-          $object = ConvertFrom-Json $(Invoke-WebRequest -Uri "${{ secrets.QUOTE_API_URI }}" -Method Post -DisableKeepAlive).content
-          echo "QUOTE=$(echo $($object.q))" >> $GITHUB_ENV
-          echo "AUTHOR=$(echo $($object.a))" >> $GITHUB_ENV
       - uses: appleboy/discord-action@master
+        shell: pwsh
+        env:
+          OBJECT: ${{ ConvertFrom-Json $(Invoke-WebRequest -Uri "${{ secrets.QUOTE_API_URI }}" -Method Post -DisableKeepAlive).content }}
+          QUOTE: ${{ $($object.q)) }}
+          AUTHOR: ${{ $($object.a)) }}
         with:
           webhook_id: "${{ secrets.WEBHOOK_ID }}"
           webhook_token: "${{ secrets.WEBHOOK_TOKEN }}"
