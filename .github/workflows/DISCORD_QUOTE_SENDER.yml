@@ -28,7 +28,7 @@ jobs:
         shell: pwsh
         run: |
             $object = ConvertFrom-Json $(Invoke-WebRequest -Uri "${{ secrets.QUOTE_API_URI }}" -Method Post -DisableKeepAlive).content
-            echo "QUOTE=$(echo $($object.q))" >> $GITHUB_ENV
+            echo "QUOTE=$(echo $($object.q))"
             echo "State is: '${{ env.QUOTE }}'" # No output since same step
       - name: Step 2
         run: |
