@@ -15,9 +15,9 @@ jobs:
           $object = ConvertFrom-Json $(Invoke-WebRequest -Uri "${{ secrets.QUOTE_API_URI }}" -Method Post -DisableKeepAlive).content
           echo "QUOTE=$(echo $($object.q))" >> $GITHUB_ENV
           echo "AUTHOR=$(echo $($object.a))" >> $GITHUB_ENV
-          echo "{QUOTE}={yellow}" >> $GITHUB_ENV
+          echo "″${{ env.QUOTE }}″ — ${{ env.AUTHOR }}"
       - uses: appleboy/discord-action@master
         with:
           webhook_id: "${{ secrets.WEBHOOK_ID }}"
           webhook_token: "${{ secrets.WEBHOOK_TOKEN }}"
-          message: "″${{ env.QUOTE }}″ — ${{ env.AUTHOR }}"
+          args: "″${{ env.QUOTE }}″ — ${{ env.AUTHOR }}"
