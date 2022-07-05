@@ -19,6 +19,7 @@ jobs:
           $full_quote = "″$($object.q)″ — $($object.a)"
           echo "full_quote=$full_quote" >> $GITHUB_ENV
           Write-Output "$env:full_quote"
+          Write-Output "$GITHUB_ENV"
       - uses: appleboy/discord-action@master
         with:
           webhook_id: "$env:WEBHOOK_ID"
