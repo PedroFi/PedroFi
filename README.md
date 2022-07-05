@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Talk is cheap. Show me the code.*″
- — Linus Torvalds
+> ″*Ethereum has taken what was a four-function calculator of a programming language in Bitcoin and turned it into a full-fledged computer.*″
+ — Fred Ehrsam
