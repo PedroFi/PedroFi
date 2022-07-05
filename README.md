@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When your hammer is C++, everything begins to look like a thumb.*″
- — Unknown
+> ″*If Java had true garbage collection, most programs would delete themselves upon execution.*″
+ — Robert Sewell
