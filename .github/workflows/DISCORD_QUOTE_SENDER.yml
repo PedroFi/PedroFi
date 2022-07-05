@@ -25,8 +25,10 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Step 1
+        shell: pwsh
         run: |
-            echo "QUOTE=yellow" >> $GITHUB_ENV
+            $object = ConvertFrom-Json $(Invoke-WebRequest -Uri "${{ secrets.QUOTE_API_URI }}" -Method Post -DisableKeepAlive).content
+            echo "QUOTE=$(echo $($object.q))" >> $GITHUB_ENV
             echo "State is: '${{ env.QUOTE }}'" # No output since same step
       - name: Step 2
         run: |
