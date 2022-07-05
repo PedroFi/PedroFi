@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Software is a great combination between artistry and engineering.*″
- — Bill Gates
+> ″*A system administrator has two problems: 1. Dumb users. 2. Smart users.*″
+ — Unknown
