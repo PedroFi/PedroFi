@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There’s no test like production.*″
- — Anonymous
+> ″*Java: write once, run away!*″
+ — Brucee
