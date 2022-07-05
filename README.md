@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Ethereum has taken what was a four-function calculator of a programming language in Bitcoin and turned it into a full-fledged computer.*″
- — Fred Ehrsam
+> ″*A son asked his father (a programmer) why the sun rises in the east, and sets in the west. His response? It works, don’t touch!*″
+ — Unknown
