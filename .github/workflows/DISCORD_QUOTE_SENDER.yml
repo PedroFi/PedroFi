@@ -10,16 +10,11 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - shell: pwsh
-        env:
-          QUOTE_API_URI: ${{ secrets.QUOTE_API_URI }}
         run: |
-          $object = ConvertFrom-Json $(Invoke-WebRequest -Uri "$env:QUOTE_API_URI" -Method Post -DisableKeepAlive).content
+          $object = ConvertFrom-Json $(Invoke-WebRequest -Uri "${{ secrets.QUOTE_API_URI }}" -Method Post -DisableKeepAlive).content
           echo "full_quote=″$($object.q)″ — $($object.a)" >> $GITHUB_ENV
       - uses: appleboy/discord-action@master
-        env:
-          WEBHOOK_ID: ${{ secrets.WEBHOOK_ID }}
-          WEBHOOK_TOKEN: ${{ secrets.WEBHOOK_TOKEN }}
         with:
-          webhook_id: "$env:WEBHOOK_ID"
-          webhook_token: "$env:WEBHOOK_TOKEN"
-          args: ${{ env.full_quote }}
+          webhook_id: "${{ secrets.WEBHOOK_ID }}"
+          webhook_token: "${{ secrets.WEBHOOK_TOKEN }}"
+          args: "${{ env.full_quote }}"
