@@ -13,10 +13,9 @@ jobs:
       - shell: pwsh
         run: |
           $object = ConvertFrom-Json $(Invoke-WebRequest -Uri "${{ secrets.QUOTE_API_URI }}" -Method Post -DisableKeepAlive).content
-          $QUOTE = $($object.q)
-          echo "::set-env name=QUOTE::$QUOTE"
-          $AUTHOR = $($object.a)
-          echo "::set-env name=AUTHOR::$AUTHOR"
+          echo "QUOTE=$(echo $($object.q))" >> $GITHUB_ENV
+          echo "AUTHOR=$(echo $($object.a))" >> $GITHUB_ENV
+          echo "QUOTE=yellow" >> $GITHUB_ENV
       - uses: appleboy/discord-action@master
         with:
           webhook_id: "${{ secrets.WEBHOOK_ID }}"
