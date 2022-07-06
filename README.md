@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Software undergoes beta testing shortly before it’s released. Beta is Latin for still doesn’t work.*″
+> ″*Potential partners are like internet domain names — the ones I like are already taken.*″
  — Unknown
