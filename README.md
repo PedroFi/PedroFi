@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Potential partners are like internet domain names — the ones I like are already taken.*″
+> ″*If the box says, ‘This software requires Windows XP or better,’ does that mean it’ll run on Linux?*″
  — Unknown
