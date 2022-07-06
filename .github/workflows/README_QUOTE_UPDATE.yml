@@ -8,7 +8,8 @@ jobs:
     name: README QUOTE UPDATE
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: 'CHECKOUT'
+        uses: actions/checkout@v3
       - name: 'UPDATE README QUOTE'
         shell: pwsh
         run: |
