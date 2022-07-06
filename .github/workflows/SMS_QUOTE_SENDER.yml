@@ -25,7 +25,6 @@ jobs:
               $object = ConvertFrom-Json $(Invoke-WebRequest -Uri "$env:QUOTE_API_URI" -Method Post -DisableKeepAlive).content
               $full_quote = "$($object.q) ($($object.a))`n$env:SIGNATURE"
           }
-          Write-Output $full_quote
           $request_response = ConvertFrom-Json $(Invoke-WebRequest -Uri "$env:API_URI" -Body @{
             "phone"="$env:PHONE_NUMBER"
             "message"="$full_quote"
