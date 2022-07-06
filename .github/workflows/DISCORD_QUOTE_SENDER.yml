@@ -14,8 +14,8 @@ jobs:
         shell: pwsh
         run: |
           $object = ConvertFrom-Json $(Invoke-WebRequest -Uri "${{ secrets.QUOTE_API_URI }}" -Method Post -DisableKeepAlive).content
-          echo "QUOTE=$($object.q)" >> $GITHUB_ENV
-          echo "AUTHOR=$($object.a)" | $GITHUB_ENV
+          Write-Output "QUOTE=$($object.q)" >> $GITHUB_ENV
+          Write-Ouput "AUTHOR=$($object.a)" >> $GITHUB_ENV
       - name: 'SEND QUOTE'
         uses: appleboy/discord-action@master
         with:
