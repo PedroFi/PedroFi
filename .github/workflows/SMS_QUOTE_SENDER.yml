@@ -8,7 +8,8 @@ jobs:
     name: SMS QUOTE SENDER
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: 'CHECKOUT'
+        uses: actions/checkout@v3
       - name: 'GET & SEND QUOTE'
         shell: pwsh
         env:
