@@ -8,7 +8,8 @@ jobs:
     name: DISCORD QUOTE SENDER
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: 'CHECKOUT'
+        uses: actions/checkout@v3
       - name: 'GET QUOTE'
         shell: pwsh
         run: |
@@ -20,4 +21,4 @@ jobs:
         with:
           webhook_id: "${{ secrets.WEBHOOK_ID }}"
           webhook_token: "${{ secrets.WEBHOOK_TOKEN }}"
-          args: "‵*${{ env.QUOTE }}*′ — ${{ env.AUTHOR }}"
+          args: "> ″*${{ env.QUOTE }}*″`n — ${{ env.AUTHOR }}"
