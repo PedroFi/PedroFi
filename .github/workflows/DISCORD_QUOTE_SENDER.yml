@@ -1,7 +1,6 @@
 name: DISCORD QUOTE SENDER
 on:
   workflow_dispatch:
-  push:
   schedule:
   - cron:  '0 7 * * *'
 jobs:
@@ -21,4 +20,4 @@ jobs:
         with:
           webhook_id: "${{ secrets.WEBHOOK_ID }}"
           webhook_token: "${{ secrets.WEBHOOK_TOKEN }}"
-          args: "″${{ env.QUOTE }}″ — ${{ env.AUTHOR }}"
+          args: "″*${{ env.QUOTE }}*″ — ${{ env.AUTHOR }}"
