@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Machines take me by surprise with great frequency.*″
- — Alan Turing
+> ″*Progress is possible only if we train ourselves to think about programs without thinking of them as pieces of executable code.*″
+ — Edsger W. Dijkstra
