@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Documentation is like sex: When it is bad, it is better than nothing. When it is good, it is really, really good.*″
- — Unknown
+> ″*The best thing about a boolean is even if you are wrong, you are only off by a bit.*″
+ — Bryan
