@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Perl – The only language that looks the same before and after RSA encryption.*″
- — Keith Bostic
+> ″*When I wrote this code, only God and I understood what I did. Now only God knows.*″
+ — Unknown
