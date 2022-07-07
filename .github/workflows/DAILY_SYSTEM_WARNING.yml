@@ -15,4 +15,5 @@ jobs:
         with:
           webhook_id: "${{ secrets.DAILY_WEBHOOK_ID }}"
           webhook_token: "${{ secrets.DAILY_WEBHOOK_TOKEN }}"
+          color: "#90EE90"
           args: "${{ secrets.DAILY_WARNING }}"
