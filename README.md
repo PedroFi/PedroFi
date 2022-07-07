@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Make it work, make it right, make it fast.*″
- — Kent Beck
+> ″*If debugging is the process of removing software bugs, then programming must be the process of putting them in.*″
+ — Edsger Dijkstra
