@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Don’t worry if it doesn’t work right. If everything did, you’d be out of a job.*″
+> ″*How many programmers does it take to change a light bulb? None, that’s a hardware problem.*″
  — Unknown
