@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*.NET is called .NET so that it wouldn’t show up in a UNIX directory listing.*″
- — Unknown
+> ″*Make it work, make it right, make it fast.*″
+ — Kent Beck
