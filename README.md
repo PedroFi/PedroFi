@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There are only two hard things in computer science: cache invalidation and naming things.*″
- — Phil Karlton
+> ″*Documentation is like sex: When it is bad, it is better than nothing. When it is good, it is really, really good.*″
+ — Unknown
