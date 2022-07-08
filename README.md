@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*It’s harder to read code than to write it.*″
- — Joel Spolsky
+> ″*C++: An octopus made by nailing extra legs onto a dog.*″
+ — Unknown
