@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Documentation is like sex: When it is bad, it is better than nothing. When it is good, it is really, really good.*″
- — Unknown
+> ″*Pascal for real programmers; Delphi for Nerds; C/C++ for people who always wished to do things like reinventing the wheel.*″
+ — Rejie Roque (edited.)
