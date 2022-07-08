@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Indeed one of the best ways to deflect attacks is to make it look like they’re succeeding. It’s the software equivalent of playing dead.*″
- — Joel Spolsky
+> ″*If a machine ever gains awareness, it will be not due to our careful programming, but due to an unforeseeable anomaly.*″
+ — Abhijit Naskar, The Gospel of Technology
