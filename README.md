@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Programming can be fun, and so can cryptography; however, they should not be combined.*″
+> ″*How many programmers does it take to change a light bulb? None, that’s a hardware problem.*″
  — Unknown
