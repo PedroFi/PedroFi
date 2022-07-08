@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*In software, the most beautiful code, the most beautiful functions, and the most beautiful programs are sometimes not there at all.*″
- — Jon Bentley
+> ″*Programming isn’t about what you know; it’s about what you can figure out.*″
+ — Chris Pine
