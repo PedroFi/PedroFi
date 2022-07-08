@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*What’s the object-oriented way to get wealthy? Inheritance.*″
- — Unknown
+> ″*You might not think that programmers are artists, but programming is an extremely creative profession. It’s logic-based creativity.*″
+ — John Romero
