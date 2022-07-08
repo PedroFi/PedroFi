@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*One of the best programming skills you can have is knowing when to walk away for awhile.*″
- — Oscar Godson
+> ″*When he really, really likes a girl, he creates a font and names it after her.*″
+ — David Levithan, Every Day
