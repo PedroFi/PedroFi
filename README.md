@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Programming isn’t about what you know; it’s about what you can figure out.*″
- — Chris Pine
+> ″*Programmers are not to be measured by their ingenuity and their logic but by the completeness of their case analysis.*″
+ — Alan J. Perlis
