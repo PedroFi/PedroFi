@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Programmer’s partner: ‘Are you going to sit and type in front of that thing all day, or are you going out with me?’. Programmer: ‘Yes.’.*″
- — Unknown
+> ″*Indeed one of the best ways to deflect attacks is to make it look like they’re succeeding. It’s the software equivalent of playing dead.*″
+ — Joel Spolsky
