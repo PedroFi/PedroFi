@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Documentation is like sex: When it is bad, it is better than nothing. When it is good, it is really, really good.*″
- — Unknown
+> ″*Don’t repeat yourself. Every piece of knowledge must have a single, unambiguous, authoritative representation within a system.*″
+ — Andy Hunt & Dave Thomas
