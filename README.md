@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*One of the best programming skills you can have is knowing when to walk away for awhile.*″
- — Oscar Godson
+> ″*What’s the object-oriented way to get wealthy? Inheritance.*″
+ — Unknown
