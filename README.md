@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*I’m not a great programmer; I’m just a good programmer with great habits.*″
- — Kent Beck
+> ″*Pascal for real programmers; Delphi for Nerds; C/C++ for people who always wished to do things like reinventing the wheel.*″
+ — Rejie Roque (edited.)
