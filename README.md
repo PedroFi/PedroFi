@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Bad programmers worry about the code. Good programmers worry about data structures and their relationships.*″
- — Linus Torvalds
+> ″*There is an easy way and a hard way. The hard part is finding the easy way.*″
+ — Unknown
