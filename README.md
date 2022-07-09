@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Any code of your own that you haven’t looked at for six or more months might as well have been written by someone else.*″
- — (Eagleson’s Law)
+> ″*A long descriptive name is better than a short enigmatic name. A long descriptive name is better than a long descriptive comment.*″
+ — Robert C. Martin, Clean Code: A Handbook of Agile Software Craftsmanship
