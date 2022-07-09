@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When we had no computers, we had no programming problems either.*″
- — Unknown
+> ″*Indeed one of the best ways to deflect attacks is to make it look like they’re succeeding. It’s the software equivalent of playing dead.*″
+ — Joel Spolsky
