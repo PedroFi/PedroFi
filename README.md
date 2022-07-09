@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*In C we had to code our own bugs. In C++ we can inherit them.*″
- — Unknown
+> ″*I’m not a great programmer; I’m just a good programmer with great habits.*″
+ — Kent Beck
