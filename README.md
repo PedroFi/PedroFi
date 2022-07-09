@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Indeed one of the best ways to deflect attacks is to make it look like they’re succeeding. It’s the software equivalent of playing dead.*″
- — Joel Spolsky
+> ″*Bad programmers worry about the code. Good programmers worry about data structures and their relationships.*″
+ — Linus Torvalds
