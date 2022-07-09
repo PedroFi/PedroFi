@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Pascal for real programmers; Delphi for Nerds; C/C++ for people who always wished to do things like reinventing the wheel.*″
- — Rejie Roque (edited.)
+> ″*In C we had to code our own bugs. In C++ we can inherit them.*″
+ — Unknown
