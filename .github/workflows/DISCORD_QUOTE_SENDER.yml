@@ -2,7 +2,7 @@ name: DISCORD QUOTE SENDER
 on:
   workflow_dispatch:
   schedule:
-  - cron:  '0 7 * * *'
+  - cron:  '0 23 * * *'
 jobs:
   main:
     name: DISCORD QUOTE SENDER
