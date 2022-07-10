@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*In C we had to code our own bugs. In C++ we can inherit them.*″
+> ″*What’s the object-oriented way to get wealthy? Inheritance.*″
  — Unknown
