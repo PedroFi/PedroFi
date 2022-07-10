@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Programming can be fun, and so can cryptography; however, they should not be combined.*″
- — Unknown
+> ″*A language that doesn’t affect the way you think about programming is not worth knowing.*″
+ — Alan J. Perlis
