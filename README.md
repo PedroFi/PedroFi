@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Code never lies, comments sometimes do.*″
- — Ron Jeffries
+> ″*Q: Why did the programmer quit his job? A: Because he didn't get arrays.*″
+ — Unknown
