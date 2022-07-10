@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*What’s the object-oriented way to get wealthy? Inheritance.*″
+> ″*Hardware is made to last. Software is made to change. Change is the only thing that lasts. Software wins.*″
  — Unknown
