@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Code never lies, comments sometimes do.*″
- — Ron Jeffries
+> ″*Ethereum has taken what was a four-function calculator of a programming language in Bitcoin and turned it into a full-fledged computer.*″
+ — Fred Ehrsam
