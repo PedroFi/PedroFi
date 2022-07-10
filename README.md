@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Hardware is made to last. Software is made to change. Change is the only thing that lasts. Software wins.*″
- — Unknown
+> ″*Code is like humor. When you have to explain it, it’s bad.*″
+ — Cory House
