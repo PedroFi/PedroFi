@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Most of you are familiar with the virtues of a programmer. There are three, of course: laziness, impatience, and hubris.*″
+> ″*One: Demonstrations always crash. And two: The probability of them crashing goes up exponentially with the number of people watching.*″
  — Unknown
