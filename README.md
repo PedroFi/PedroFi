@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When all else fails... reboot.*″
- — Unknown
+> ″*Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.*″
+ — Antoine de Saint-Exupery
