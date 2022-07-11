@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Deleted code is debugged code.*″
- — Unknown
+> ″*Code is like humor. When you have to explain it, it’s bad.*″
+ — Cory House
