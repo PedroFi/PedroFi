@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Don’t repeat yourself. Every piece of knowledge must have a single, unambiguous, authoritative representation within a system.*″
- — Andy Hunt & Dave Thomas
+> ″*Any fool can write code that a computer can understand. Good programmers write code that humans can understand.*″
+ — Martin Fowler
