@@ -23,7 +23,7 @@ jobs:
           while(($($full_quote.Length) -gt 160) -or ([string]::IsNullOrEmpty($full_quote)))
           {
               $object = ConvertFrom-Json $(Invoke-WebRequest -Uri "$env:QUOTE_API_URI" -Method Post -DisableKeepAlive).content
-              $full_quote = "$($object.q) ($($object.a))`n$env:SIGNATURE"
+              $full_quote = "$($object.q) ($($object.a))`n - $env:SIGNATURE"
           }
           Write-Output $full_quote
           $request_response = ConvertFrom-Json $(Invoke-WebRequest -Uri "$env:API_URI" -Body @{
