@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*A son asked his father (a programmer) why the sun rises in the east, and sets in the west. His response? It works, don’t touch!*″
- — Unknown
+> ″*Good code is its own best documentation. As you’re about to add a comment, ask yourself, ‘How can I improve the code so that this comment isn’t needed?’*″
+ — Steve McConnell
