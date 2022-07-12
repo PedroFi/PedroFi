@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When I wrote this code, only God and I understood what I did. Now only God knows.*″
- — Unknown
+> ″*Progress is possible only if we train ourselves to think about programs without thinking of them as pieces of executable code.*″
+ — Edsger W. Dijkstra
