@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Experience is the name everyone gives to their mistakes.*″
- — Oscar Wilde
+> ″*There are only two kinds of languages: the ones people complain about and the ones nobody uses.*″
+ — Bjarne Stroustrup
