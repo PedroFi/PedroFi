@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When he really, really likes a girl, he creates a font and names it after her.*″
- — David Levithan, Every Day
+> ″*The best thing about a boolean is even if you are wrong, you are only off by a bit.*″
+ — Bryan
