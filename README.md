@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Copy and paste is a design error.*″
- — David Parnas
+> ″*Why do Java programmers have to wear glasses? Because they don’t C#.*″
+ — Unknown
