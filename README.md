@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There are two ways to write error-free programs; only the third works.*″
- — Unknown
+> ″*Low-level programming is good for the programmer’s soul.*″
+ — John Carmack
