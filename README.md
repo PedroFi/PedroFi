@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*I’m not a great programmer; I’m just a good programmer with great habits.*″
- — Kent Beck
+> ″*Ethereum has taken what was a four-function calculator of a programming language in Bitcoin and turned it into a full-fledged computer.*″
+ — Fred Ehrsam
