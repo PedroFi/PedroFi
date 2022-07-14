@@ -18,7 +18,7 @@ jobs:
           $full_quote = "> ″*$($index.quote)*″`n — $($index.author)"
           Set-Content .\README.md "$(Get-Content -Path .\README.md -TotalCount 1)`n$full_quote"
       - name: 'UPLOAD README'
-        uses: actions/upload-artifact@v3
+        uses: actions/download-artifact@v3
         with:
           name: README
           path: ${{ github.workspace }}
