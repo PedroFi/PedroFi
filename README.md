@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*What kind of programmer is so divorced from reality that he thinks he'll get complex software right the first time?*″
- — James Alan Gardner, Ascending
+> ″*Give a man a program, frustrate him for a day. Teach a man to program, frustrate him for a lifetime.*″
+ — Muhammad Waseem
