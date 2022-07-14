@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Java: write once, run away!*″
- — Brucee
+> ″*Two years from now, spam will be solved.*″
+ — Bill Gates, 2004
