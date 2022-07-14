@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Machines take me by surprise with great frequency.*″
- — Alan Turing
+> ″*When we had no computers, we had no programming problems either.*″
+ — Unknown
