@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When we had no computers, we had no programming problems either.*″
- — Unknown
+> ″*When he really, really likes a girl, he creates a font and names it after her.*″
+ — David Levithan, Every Day
