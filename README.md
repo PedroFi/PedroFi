@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Bad programmers worry about the code. Good programmers worry about data structures and their relationships.*″
- — Linus Torvalds
+> ″*If we wish to count lines of code, we should not regard them as ‘lines produced’ but as ‘lines spent.'*″
+ — Edsger Dijkstra
