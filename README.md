@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Two years from now, spam will be solved.*″
- — Bill Gates, 2004
+> ″*In C we had to code our own bugs. In C++ we can inherit them.*″
+ — Unknown
