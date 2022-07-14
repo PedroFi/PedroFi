@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*No code has zero defects.*″
- — Unknown
+> ″*One man’s constant is another man’s variable.*″
+ — Alan J. Perlis
