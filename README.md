@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*In a room full of top software designers, if two agree on the same thing, that’s a majority.*″
- — Unknown
+> ″*Bad programmers worry about the code. Good programmers worry about data structures and their relationships.*″
+ — Linus Torvalds
