@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*If you automate a mess, you get an automated mess.*″
- — Rod Michael
+> ″*The best way to get accurate information on Usenet is to post something wrong and wait for corrections.*″
+ — Matthew Austern
