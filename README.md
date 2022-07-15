@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*UNIX is simple. It just takes a genius to understand its simplicity.*″
- — Unknown
+> ″*Programming isn’t about what you know; it’s about what you can figure out.*″
+ — Chris Pine
