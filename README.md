@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*It’s not a bug — it’s an undocumented feature.*″
- — Unknown
+> ″*The data speaks for itself. That’s the easiest measure of success.*″
+ — Caitlin Smallwood
