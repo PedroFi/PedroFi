@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Data levels all arguments.*″
- — Anthony W. Richardson
+> ″*A SQL query goes into a bar, walks up to two tables, and asks, ‘Can I join you?’.*″
+ — Unknown
