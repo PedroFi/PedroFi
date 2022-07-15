@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*One of the main causes of the fall of the Roman Empire was that lacking zero, they had no way to indicate successful termination of their C programs.*″
- — Unknown
+> ″*A computer once beat me at chess, but it was no match for me at kick boxing.*″
+ — Emo Philips
