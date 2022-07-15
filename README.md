@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Software being 'Done' is like lawn being 'Mowed'.*″
- — Jim Benson
+> ″*UNIX is simple. It just takes a genius to understand its simplicity.*″
+ — Unknown
