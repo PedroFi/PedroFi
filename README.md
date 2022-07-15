@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*I’ve finally learned what upward compatible means. It means we get to keep all our old mistakes.*″
+> ″*A program is never less than 90% complete and never more than 95% complete.*″
  — Unknown
