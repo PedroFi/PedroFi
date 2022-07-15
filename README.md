@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Programmer: A machine that turns coffee into code.*″
- — Unknown
+> ″*It was a joke, okay?If we thought it would actually be used, we wouldn’t have written it!*″
+ — Mark Andreesen
