@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases.*″
- — Norman Augustine
+> ″*Code is there to explain the comments to the computer.*″
+ — Andy Harris
