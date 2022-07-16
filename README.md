@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When your hammer is C++, everything begins to look like a thumb.*″
- — Unknown
+> ″*The great thing about predictions is that you can be wrong.*″
+ — Chris Wiggins
