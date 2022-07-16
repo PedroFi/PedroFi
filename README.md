@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Cherish your exceptions.*″
- — Anonymous
+> ″*Before software should be reusable, it should be usable.*″
+ — Ralph Johnson
