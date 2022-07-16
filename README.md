@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*In an information economy, the most valuable company assets drive themselves home every night.If they are not treated well, they do not return the next morning.*″
- — Peter Chang
+> ″*In Data Science if you want to help individuals, be empathetic and ask questions; that way, you can begin to understand their journey, too.*″
+ — Damian Duffy Mingle
