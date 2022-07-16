@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Before software should be reusable, it should be usable.*″
- — Ralph Johnson
+> ″*Some people when confronted with a problem think: ‘I know, I’ll use regular expressions.’. Now they have two problems.*″
+ — Unknown
