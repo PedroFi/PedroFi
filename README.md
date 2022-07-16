@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*The problem of viruses is temporary and will be solved in two years.*″
- — John McAfee, 1988
+> ″*Software is like entropy: It is difficult to grasp, weighs nothing, and obeys the Second Law of Thermodynamics; i.e., it always increases.*″
+ — Norman Augustine
