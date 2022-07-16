@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Computer Science is no more about computers than astronomy is about telescopes.*″
- — Edsger W. Dijkstra
+> ″*If debugging is the process of removing bugs, then programming must be the process of putting them in.*″
+ — Unknown
