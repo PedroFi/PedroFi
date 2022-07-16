@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Programs must be written for people to read, and only incidentally for machines to execute.*″
- — Abelson and Sussman
+> ″*It is easier to change the specification to fit the program than vice versa.*″
+ — Alan Perlis
