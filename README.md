@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Maybe stories are just data with a soul.*″
- — Brené Brown
+> ″*Programmer: A machine that turns coffee into code.*″
+ — Unknown
