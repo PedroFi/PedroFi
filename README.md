@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There are two ways to write error-free programs; only the third works.*″
- — Unknown
+> ″*Program testing can be a very effective way to show the presence of bugs, but is hopelessly inadequate for showing their absence.*″
+ — Edsger Dijkstra
