@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*If you think your users are idiots, only idiots will use it.*″
- — Linus Torvalds
+> ″*When he really, really likes a girl, he creates a font and names it after her.*″
+ — David Levithan, Every Day
