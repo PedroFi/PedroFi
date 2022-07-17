@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*A code is like love, it has created with clear intentions at the beginning, but it can get complicated.*″
- — Gerry Geek
+> ″*I’m not one of those who think Bill Gates is the devil.I simply suspect that if Microsoft ever met up with the devil, it wouldn’t need an interpreter.*″
+ — Nicholas Petreley
