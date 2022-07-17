@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*A computer once beat me at chess, but it was no match for me at kick boxing.*″
- — Emo Philips
+> ″*Some people when confronted with a problem think: ‘I know, I’ll use regular expressions.’. Now they have two problems.*″
+ — Unknown
