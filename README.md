@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*If you don’t handle [exceptions], we shut your application down.That dramatically increases the reliability of the system.*″
- — Anders Hejlsberg
+> ″*A computer once beat me at chess, but it was no match for me at kick boxing.*″
+ — Emo Philips
