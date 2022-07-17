@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*The Internet?We are not interested in it.*″
- — Bill Gates, 1993
+> ″*Don’t worry if it doesn’t work right. If everything did, you’d be out of a job.*″
+ — Unknown
