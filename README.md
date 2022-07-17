@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There’s no obfuscated Perl contest because it’s pointless.*″
- — Jeff Polk
+> ″*UNIX is user friendly. It’s just very particular about who its friends are.*″
+ — Unknown
