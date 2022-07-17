@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Commenting your code is like cleaning your bathroom — you never want to do it, but it really does create a more pleasant experience for you and your guests.*″
- — Ryan Campbell
+> ″*A user interface should be so simple that a beginner in an emergency can understand it within ten seconds.*″
+ — Ted Nelson
