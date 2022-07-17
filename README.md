@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.*″
- — Tom Cargill
+> ″*A code is like love, it has created with clear intentions at the beginning, but it can get complicated.*″
+ — Gerry Geek
