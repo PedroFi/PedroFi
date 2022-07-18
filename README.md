@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When all else fails... reboot.*″
- — Unknown
+> ″*Don’t document the problem, fix it.*″
+ — Atli Björgvin Oddsson
