@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*As data scientists, our job is to extract signal from noise.*″
- — Daniel Tunkelang
+> ″*Hardware is made to last. Software is made to change. Change is the only thing that lasts. Software wins.*″
+ — Unknown
