@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*The goal is to turn data into information, and information into insight.*″
- — Carly Fiorina
+> ″*When all else fails... reboot.*″
+ — Unknown
