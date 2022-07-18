@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*No one in the brief history of computing has ever written a piece of perfect software. It’s unlikely that you’ll be the first.*″
- — Andy Hunt
+> ″*Programming without an overall architecture or design in mind is like exploring a cave with only a flashlight: You don’t know where you’ve been, you don’t know where you’re going, and you don’t know quite where you are.*″
+ — Danny Thorpe
