@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There’s no place like 127.0.0.1.*″
- — Unknown
+> ″*If you think your users are idiots, only idiots will use it.*″
+ — Linus Torvalds
