@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Make everything as simple as possible, but not simpler.*″
- — Albert Einstein
+> ″*Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.*″
+ — John Woods
