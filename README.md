@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*If you think your users are idiots, only idiots will use it.*″
- — Linus Torvalds
+> ″*There are 10 types of people in this world, those who understand binary and those who don't.*″
+ — Anonymous
