@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There is an easy way and a hard way. The hard part is finding the easy way.*″
+> ″*C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do, it blows your whole leg off.*″
  — Unknown
