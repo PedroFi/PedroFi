@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*It is easier to change the specification to fit the program than vice versa.*″
- — Alan Perlis
+> ″*The best thing about a boolean is even if you are wrong, you are only off by a bit.*″
+ — Bryan
