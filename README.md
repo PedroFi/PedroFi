@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Optimism is an occupational hazard of programming: feedback is the treatment.*″
- — Kent Beck
+> ″*BASIC is to computer programming as QWERTY is to typing.*″
+ — Seymour Papert
