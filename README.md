@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Most of you are familiar with the virtues of a programmer. There are three, of course: laziness, impatience, and hubris.*″
- — Unknown
+> ″*Programming can be fun, so can cryptography; however they should not be combined.*″
+ — Kreitzberg and Shneiderman
