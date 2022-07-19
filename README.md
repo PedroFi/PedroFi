@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*In 2031, lawyers will be commonly a part of most development teams.*″
- — Grady Booch
+> ″*Most of you are familiar with the virtues of a programmer. There are three, of course: laziness, impatience, and hubris.*″
+ — Unknown
