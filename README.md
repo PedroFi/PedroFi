@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Low-level programming is good for the programmer’s soul.*″
- — John Carmack
+> ″*If people never did silly things, nothing intelligent would ever get done.*″
+ — Ludwig Wittgenstein
