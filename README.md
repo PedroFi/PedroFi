@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Potential partners are like internet domain names — the ones I like are already taken.*″
- — Unknown
+> ″*In 2031, lawyers will be commonly a part of most development teams.*″
+ — Grady Booch
