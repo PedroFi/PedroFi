@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*It’s OK to figure out murder mysteries, but you shouldn’t need to figure out code.You should be able to read it.*″
- — Steve McConnell
+> ″*It is easier to change the specification to fit the program than vice versa.*″
+ — Alan Perlis
