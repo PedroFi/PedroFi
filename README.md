@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Programming can be fun, so can cryptography; however they should not be combined.*″
- — Kreitzberg and Shneiderman
+> ″*Low-level programming is good for the programmer’s soul.*″
+ — John Carmack
