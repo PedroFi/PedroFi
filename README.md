@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*The best thing about a boolean is even if you are wrong, you are only off by a bit.*″
- — Bryan
+> ″*A language that doesn’t affect the way you think about programming is not worth knowing.*″
+ — Alan J. Perlis
