@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*If people never did silly things, nothing intelligent would ever get done.*″
- — Ludwig Wittgenstein
+> ″*Optimism is an occupational hazard of programming: feedback is the treatment.*″
+ — Kent Beck
