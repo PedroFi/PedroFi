@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Low-level programming is good for the programmer’s soul.*″
- — John Carmack
+> ″*There is an easy way and a hard way. The hard part is finding the easy way.*″
+ — Unknown
