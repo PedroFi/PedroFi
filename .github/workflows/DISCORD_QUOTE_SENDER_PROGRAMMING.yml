@@ -1,11 +1,11 @@
-name: DISCORD QUOTE SENDER
+name: DISCORD QUOTE SENDER PROGRAMMING
 on:
   workflow_dispatch:
   schedule:
   - cron:  '0 21 * * *'
 jobs:
   main:
-    name: DISCORD QUOTE SENDER
+    name: DISCORD QUOTE SENDER PROGRAMMING
     runs-on: ubuntu-latest
     steps:
       - name: 'CHECKOUT'
