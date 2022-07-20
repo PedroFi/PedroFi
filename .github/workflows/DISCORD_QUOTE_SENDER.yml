@@ -21,4 +21,4 @@ jobs:
         with:
           webhook_id: "${{ secrets.WEBHOOK_ID }}"
           webhook_token: "${{ secrets.WEBHOOK_TOKEN }}"
-          args: "@here`n> ″*${{ env.QUOTE }}*″`n — ${{ env.AUTHOR }}"
+          args: "@here\n> ″*${{ env.QUOTE }}*″ — ${{ env.AUTHOR }}"
