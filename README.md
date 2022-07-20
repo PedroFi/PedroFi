@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Make it work, make it right, make it fast.*″
- — Kent Beck
+> ″*The problem of viruses is temporary and will be solved in two years.*″
+ — John McAfee, 1988
