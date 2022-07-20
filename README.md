@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*I’ve finally learned what upward compatible means. It means we get to keep all our old mistakes.*″
+> ″*In a room full of top software designers, if two agree on the same thing, that’s a majority.*″
  — Unknown
