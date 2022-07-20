@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.*″
- — Antoine de Saint-Exupery
+> ″*In a room full of top software designers, if two agree on the same thing, that’s a majority.*″
+ — Bill Curtis
