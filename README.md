@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*In a room full of top software designers, if two agree on the same thing, that’s a majority.*″
- — Bill Curtis
+> ″*I’m not one of those who think Bill Gates is the devil.I simply suspect that if Microsoft ever met up with the devil, it wouldn’t need an interpreter.*″
+ — Nicholas Petreley
