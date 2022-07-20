@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Deleted code is debugged code.*″
- — Unknown
+> ″*Yes, we have a dress code. You have to dress.*″
+ — Scott McNealy, Co-Founder of Sun Microsystems
