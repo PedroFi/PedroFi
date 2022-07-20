@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*The problem of viruses is temporary and will be solved in two years.*″
- — John McAfee, 1988
+> ″*Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.*″
+ — Antoine de Saint-Exupery
