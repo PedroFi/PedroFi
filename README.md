@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*If people never did silly things, nothing intelligent would ever get done.*″
- — Ludwig Wittgenstein
+> ″*All problems in computer science can be solved by another level of indirection.*″
+ — David Wheeler
