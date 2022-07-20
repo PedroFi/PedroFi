@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*What’s the object-oriented way to get wealthy? Inheritance.*″
+> ″*I’ve finally learned what upward compatible means. It means we get to keep all our old mistakes.*″
  — Unknown
