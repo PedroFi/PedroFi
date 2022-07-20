@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There’s no place like 127.0.0.1.*″
+> ″*UNIX was not designed to stop people from doing stupid things, because that would also stop them from doing clever things.*″
  — Unknown
