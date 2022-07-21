@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Perl – The only language that looks the same before and after RSA encryption.*″
- — Keith Bostic
+> ″*Hoaxes use weaknesses in human behavior to ensure they are replicated and distributed.In other words, hoaxes prey on the Human Operating System.*″
+ — Stewart Kirkpatrick
