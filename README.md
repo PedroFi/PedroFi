@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Good specifications will always improve programmer productivity far better than any programming tool or technique.*″
- — Milt Bryce
+> ″*Perl – The only language that looks the same before and after RSA encryption.*″
+ — Keith Bostic
