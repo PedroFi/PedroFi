@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There’s no obfuscated Perl contest because it’s pointless.*″
- — Jeff Polk
+> ″*Perl – The only language that looks the same before and after RSA encryption.*″
+ — Keith Bostic
