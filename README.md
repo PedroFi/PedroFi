@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Programming can be fun, and so can cryptography; however, they should not be combined.*″
- — Unknown
+> ″*Two years from now, spam will be solved.*″
+ — Bill Gates, 2004
