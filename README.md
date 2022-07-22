@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Don’t repeat yourself. Every piece of knowledge must have a single, unambiguous, authoritative representation within a system.*″
- — Andy Hunt & Dave Thomas
+> ″*The goal is to turn data into information, and information into insight.*″
+ — Carly Fiorina
