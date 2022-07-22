@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Software is a great combination between artistry and engineering.*″
- — Bill Gates
+> ″*.NET is called .NET so that it wouldn’t show up in a UNIX directory listing.*″
+ — Unknown
