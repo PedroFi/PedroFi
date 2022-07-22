@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code.*″
- — Dan Salomon
+> ″*In a room full of top software designers, if two agree on the same thing, that’s a majority.*″
+ — Unknown
