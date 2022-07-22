@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Good specifications will always improve programmer productivity far better than any programming tool or technique.*″
- — Milt Bryce
+> ″*Code is like humor. When you have to explain it, it’s bad.*″
+ — Cory House
