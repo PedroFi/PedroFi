@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*C programmers never die. They are just cast into void.*″
+> ″*I’ve finally learned what upward compatible means. It means we get to keep all our old mistakes.*″
  — Unknown
