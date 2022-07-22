@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*.NET is called .NET so that it wouldn’t show up in a UNIX directory listing.*″
- — Unknown
+> ″*Everyone by now presumably knows about the danger of premature optimization.I think we should be just as worried about premature design — designing too early what a program should do.*″
+ — Paul Graham
