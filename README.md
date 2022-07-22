@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Tell me and I forget.Teach me and I remember.Involve me and I learn.*″
- — Benjamin Franklin
+> ″*In C we had to code our own bugs. In C++ we can inherit them.*″
+ — Unknown
