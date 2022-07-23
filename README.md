@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Today, most software exists, not to solve a problem, but to interface with other software.*″
- — IO Angell
+> ″*Ethereum has taken what was a four-function calculator of a programming language in Bitcoin and turned it into a full-fledged computer.*″
+ — Fred Ehrsam
