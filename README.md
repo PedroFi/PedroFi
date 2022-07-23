@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Where is the ‘any’ key?*″
- — Homer Simpson, “Press any key”
+> ″*C programmers never die. They are just cast into void.*″
+ — Unknown
