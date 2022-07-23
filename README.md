@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Keyboard Failure. Press F1 to continue.*″
- — Unknown
+> ″*Where is the ‘any’ key?*″
+ — Homer Simpson, “Press any key”
