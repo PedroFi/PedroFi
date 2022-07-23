@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Measuring programming progress by lines of code is like measuring aircraft building progress by weight.*″
- — Bill Gates
+> ″*Ethereum has taken what was a four-function calculator of a programming language in Bitcoin and turned it into a full-fledged computer.*″
+ — Fred Ehrsam
