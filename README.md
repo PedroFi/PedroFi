@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*The goal is to turn data into information, and information into insight.*″
- — Carly Fiorina
+> ″*We need above all to know about changes; no one wants or needs to be reminded 16 hours a day that his shoes are on.*″
+ — David Hubel
