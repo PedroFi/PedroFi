@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Before man reaches the moon, mail will be delivered within hours from New York to California, to Britain, to India or Australia.*″
- — Arthur Summerfield, 1959, United States Post
+> ″*Today, most software exists, not to solve a problem, but to interface with other software.*″
+ — IO Angell
