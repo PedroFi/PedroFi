@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*The goal is to turn data into information, and information into insight.*″
- — Carly Fiorina
+> ″*UNIX is simple. It just takes a genius to understand its simplicity.*″
+ — Unknown
