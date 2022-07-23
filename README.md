@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Computer viruses are an urban legend.*″
- — Peter Norton, 1988
+> ″*The problem of viruses is temporary and will be solved in two years.*″
+ — John McAfee, 1988
