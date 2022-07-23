@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*UNIX is simple. It just takes a genius to understand its simplicity.*″
- — Unknown
+> ″*I see little commercial potential for the Internet for at least ten years.*″
+ — Bill Gates, 1994
