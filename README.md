@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*I see little commercial potential for the Internet for at least ten years.*″
- — Bill Gates, 1994
+> ″*There is only one problem with common sense; it’s not very common.*″
+ — Milt Bryce
