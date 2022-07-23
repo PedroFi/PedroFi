@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There are only two things wrong with C++:The initial concept and the implementation.*″
- — Bertrand Meyer
+> ″*Make everything as simple as possible, but not simpler.*″
+ — Albert Einstein
