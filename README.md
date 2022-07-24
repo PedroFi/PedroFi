@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Your most unhappy customers are your greatest source of learning.*″
- — Bill Gates
+> ″*It’s OK to figure out murder mysteries, but you shouldn’t need to figure out code.You should be able to read it.*″
+ — Steve McConnell
