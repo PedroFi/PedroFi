@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There’s no test like production.*″
- — Anonymous
+> ″*Program testing can be a very effective way to show the presence of bugs, but is hopelessly inadequate for showing their absence.*″
+ — Edsger Dijkstra
