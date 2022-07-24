@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There is only one problem with common sense; it’s not very common.*″
- — Milt Bryce
+> ″*In C we had to code our own bugs. In C++ we can inherit them.*″
+ — Unknown
