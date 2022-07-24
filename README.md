@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Good software, like wine, takes time.*″
- — Joel Spolsky
+> ″*If debugging is the process of removing bugs, then programming must be the process of putting them in.*″
+ — Unknown
