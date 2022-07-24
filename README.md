@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Program testing can be a very effective way to show the presence of bugs, but is hopelessly inadequate for showing their absence.*″
- — Edsger Dijkstra
+> ″*One of the main causes of the fall of the Roman Empire was that lacking zero, they had no way to indicate successful termination of their C programs.*″
+ — Unknown
