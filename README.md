@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Your most unhappy customers are your greatest source of learning.*″
- — Bill Gates
+> ″*The definition of Hell is working with dates in Java, JDBC, and Oracle. Every single one of them screw it up.*″
+ — Dick Wall CommunityOne 2007: Lunch with the Java Posse
