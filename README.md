@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Make it work, make it right, make it fast.*″
- — Kent Beck
+> ″*The only truly secure system is one that is powered off, cast in a block of concrete and sealed in a lead-lined room with armed guards.*″
+ — Gene Spafford
