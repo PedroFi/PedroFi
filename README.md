@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*The world is one big data problem.*″
- — Andrew McAfee
+> ″*When I wrote this code, only God and I understood what I did. Now only God knows.*″
+ — Unknown
