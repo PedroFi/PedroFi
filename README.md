@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Imagination is more important than knowledge.For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution.*″
- — Albert Einstein
+> ″*If you think your users are idiots, only idiots will use it.*″
+ — Linus Torvalds
