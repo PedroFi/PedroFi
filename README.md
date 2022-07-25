@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Why do Java programmers have to wear glasses? Because they don’t C#.*″
- — Unknown
+> ″*There are only two kinds of languages: the ones people complain about and the ones nobody uses.*″
+ — Bjarne Stroustrup
