@@ -10,7 +10,7 @@ jobs:
     steps:
       - name: 'CHECKOUT'
         uses: actions/checkout@v3
-      - name: 'GET'
+      - name: 'GET QUOTE'
         shell: pwsh
         run: |
           $QUOTE_REQUEST = ConvertFrom-Json $(Invoke-WebRequest -Uri "${{ secrets.QUOTE_API_URI }}" -Method Post -DisableKeepAlive).content
