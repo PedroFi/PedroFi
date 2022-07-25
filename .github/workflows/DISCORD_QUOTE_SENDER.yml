@@ -1,0 +1,24 @@
+name: DISCORD QUOTE SENDER
+on:
+  workflow_dispatch:
+  schedule:
+  - cron:  '0 23 * * *'
+jobs:
+  main:
+    name: DISCORD QUOTE SENDER
+    runs-on: ubuntu-latest
+    steps:
+      - name: 'CHECKOUT'
+        uses: actions/checkout@v3
+      - name: 'GET'
+        shell: pwsh
+        run: |
+          $QUOTE_REQUEST = ConvertFrom-Json $(Invoke-WebRequest -Uri "${{ secrets.QUOTE_API_URI }}" -Method Post -DisableKeepAlive).content
+          $FULL_QUOTE = "″*$($QUOTE_REQUEST.q.replace(","," "))*″ — $($QUOTE_REQUEST.a)"
+          Write-Output "FULL_QUOTE=$FULL_QUOTE" >> $env:GITHUB_ENV
+      - name: 'SEND QUOTE'
+        uses: appleboy/discord-action@master
+        with:
+          webhook_id: "${{ secrets.WEBHOOK_ID }}"
+          webhook_token: "${{ secrets.WEBHOOK_TOKEN }}"
+          args: "@here\n> ${{ env.FULL_QUOTE }}"
