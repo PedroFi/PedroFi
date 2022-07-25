@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*If you think you are worth what you know, you are very wrong.Your knowledge today does not have much value beyond a couple of years.Your value is what you can learn and how easily you can adapt to the changes this profession brings so often.*″
- — Jose M. Aguilar
+> ″*The first 90 percent of the code accounts for the first 90 percent of the development time. The remaining 10 percent of the code accounts for the other 90 percent of the development time.*″
+ — Tom Cargill
