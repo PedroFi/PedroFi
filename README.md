@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.*″
- — John Woods
+> ″*A code is like love, it has created with clear intentions at the beginning, but it can get complicated.*″
+ — Gerry Geek
