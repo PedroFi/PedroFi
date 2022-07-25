@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*First, solve the problem. Then, write the code.*″
- — John Johnson
+> ″*Computers are good at following instructions, but not at reading your mind.*″
+ — Donald Knuth
