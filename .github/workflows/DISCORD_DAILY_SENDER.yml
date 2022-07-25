@@ -10,14 +10,19 @@ jobs:
     steps:
       - name: 'CHECKOUT'
         uses: actions/checkout@v3
-      - name: 'GET QUOTE'
+      - name: 'GET'
         shell: pwsh
+        env:
+          QUOTE_API_URI: ${{ secrets.QUOTE_API_URI }}
         run: |
-          $object = ConvertFrom-Json $(Invoke-WebRequest -Uri "${{ secrets.QUOTE_API_URI }}" -Method Post -DisableKeepAlive).content
+          $object = ConvertFrom-Json $(Invoke-WebRequest -Uri "$env:QUOTE_API_URI" -Method Post -DisableKeepAlive).content
           Write-Output "FULL_QUOTE=″*$($object.q.replace(","," "))*″ — $($object.a)" >> $env:GITHUB_ENV
-      - name: 'SEND QUOTE'
+      - name: 'SEND'
         uses: appleboy/discord-action@master
+        env:
+          WEBHOOK_ID: ${{ secrets.WEBHOOK_ID }}
+          WEBHOOK_TOKEN: ${{ secrets.WEBHOOK_TOKEN }}
         with:
-          webhook_id: "${{ secrets.WEBHOOK_ID }}"
-          webhook_token: "${{ secrets.WEBHOOK_TOKEN }}"
+          webhook_id: "$env:WEBHOOK_ID"
+          webhook_token: "$env:WEBHOOK_TOKEN"
           args: "@here\n> ${{ env.FULL_QUOTE }}"
