@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*A good programmer is someone who always looks both ways before crossing a one-way street.*″
- — Unknown
+> ″*Imagination is more important than knowledge.For knowledge is limited, whereas imagination embraces the entire world, stimulating progress, giving birth to evolution.*″
+ — Albert Einstein
