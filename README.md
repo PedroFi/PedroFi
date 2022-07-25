@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*One: Demonstrations always crash. And two: The probability of them crashing goes up exponentially with the number of people watching.*″
- — Unknown
+> ″*From a programmer’s point of view, the user is a peripheral that types when you issue a read request.*″
+ — P. Williams
