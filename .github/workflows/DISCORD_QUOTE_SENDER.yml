@@ -2,7 +2,7 @@ name: DISCORD QUOTE SENDER
 on:
   workflow_dispatch:
   schedule:
-  - cron:  '0 7 * * *'
+  - cron:  '0 23 * * *'
 jobs:
   main:
     name: DISCORD QUOTE SENDER
@@ -14,11 +14,10 @@ jobs:
         shell: pwsh
         run: |
           $object = ConvertFrom-Json $(Invoke-WebRequest -Uri "${{ secrets.QUOTE_API_URI }}" -Method Post -DisableKeepAlive).content
-          Write-Output "QUOTE=$($object.q.replace("`n"," ").replace("`r"," ").replace(","," "))" >> $env:GITHUB_ENV
-          Write-Output "AUTHOR=$($object.a)" >> $env:GITHUB_ENV
+          Write-Output "FULL_QUOTE=$(″*$($object.q.replace("`n"," ").replace("`r"," ").replace(","," "))*″ — $($object.a))" >> $env:GITHUB_ENV
       - name: 'SEND QUOTE'
         uses: appleboy/discord-action@master
         with:
           webhook_id: "${{ secrets.WEBHOOK_ID }}"
           webhook_token: "${{ secrets.WEBHOOK_TOKEN }}"
-          args: "@here\n> ″*${{ env.QUOTE }}*″ — ${{ env.AUTHOR }}"
+          args: "@here\n> ${{ env.FULL_QUOTE }}"
