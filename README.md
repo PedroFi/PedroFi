@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*From a programmer’s point of view, the user is a peripheral that types when you issue a read request.*″
- — P. Williams
+> ″*It’s OK to figure out murder mysteries, but you shouldn’t need to figure out code.You should be able to read it.*″
+ — Steve McConnell
