@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*A long descriptive name is better than a short enigmatic name. A long descriptive name is better than a long descriptive comment.*″
- — Robert C. Martin, Clean Code: A Handbook of Agile Software Craftsmanship
+> ″*The computer was born to solve problems that did not exist before.*″
+ — Bill Gates
