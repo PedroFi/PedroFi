@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Programs must be written for people to read, and only incidentally for machines to execute.*″
- — Abelson and Sussman
+> ″*Hardware is made to last. Software is made to change. Change is the only thing that lasts. Software wins.*″
+ — Unknown
