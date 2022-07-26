@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Programming made the impossible possible. You can have a null object and a constant variable.*″
- — Unknown
+> ″*Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.*″
+ — Jamie Zawinski
