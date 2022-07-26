@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.*″
- — Jamie Zawinski
+> ″*A long descriptive name is better than a short enigmatic name. A long descriptive name is better than a long descriptive comment.*″
+ — Robert C. Martin, Clean Code: A Handbook of Agile Software Craftsmanship
