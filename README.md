@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*If the code and the comments do not match, possibly both are incorrect.*″
- — Norm Schryer
+> ″*The Internet? We are not interested in it.*″
+ — Bill Gates, 1993
