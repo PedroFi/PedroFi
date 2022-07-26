@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Perfection is achieved not when there is nothing more to add, but rather when there is nothing more to take away.*″
- — Antoine de Saint-Exupery
+> ″*Programming made the impossible possible. You can have a null object and a constant variable.*″
+ — Unknown
