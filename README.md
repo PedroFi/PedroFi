@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*The computer was born to solve problems that did not exist before.*″
- — Bill Gates
+> ″*If the code and the comments do not match, possibly both are incorrect.*″
+ — Norm Schryer
