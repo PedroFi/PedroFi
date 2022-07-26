@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*XML is not a language in the sense of a programming language any more than sketches on a napkin are a language.*″
- — Charles Simonyi
+> ″*Your most unhappy customers are your greatest source of learning.*″
+ — Bill Gates
