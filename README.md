@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*If people never did silly things, nothing intelligent would ever get done.*″
- — Ludwig Wittgenstein
+> ″*What kind of programmer is so divorced from reality that he thinks he'll get complex software right the first time?*″
+ — James Alan Gardner, Ascending
