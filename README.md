@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*The world is one big data problem.*″
- — Andrew McAfee
+> ″*When you are stuck in a traffic jam with a Porsche, all you do is burn more gas in idle. Scalability is about building wider roads, not about building faster cars.*″
+ — Steve Swartz
