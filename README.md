@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*In Data Science if you want to help individuals, be empathetic and ask questions; that way, you can begin to understand their journey, too.*″
- — Damian Duffy Mingle
+> ″*Programming without an overall architecture or design in mind is like exploring a cave with only a flashlight: You don’t know where you’ve been, you don’t know where you’re going, and you don’t know quite where you are.*″
+ — Danny Thorpe
