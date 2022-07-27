@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There’s no test like production.*″
- — Anonymous
+> ″*If you think your users are idiots, only idiots will use it.*″
+ — Linus Torvalds
