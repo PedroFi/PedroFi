@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*If you think your users are idiots, only idiots will use it.*″
- — Linus Torvalds
+> ″*In Data Science if you want to help individuals, be empathetic and ask questions; that way, you can begin to understand their journey, too.*″
+ — Damian Duffy Mingle
