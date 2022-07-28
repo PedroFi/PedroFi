@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*UNIX is simple. It just takes a genius to understand its simplicity.*″
- — Dennis Ritchie
+> ″*I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.*″
+ — Alan Perlis
