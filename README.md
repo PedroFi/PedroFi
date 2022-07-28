@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.*″
- — Alan Perlis
+> ″*When he really, really likes a girl, he creates a font and names it after her.*″
+ — David Levithan, Every Day
