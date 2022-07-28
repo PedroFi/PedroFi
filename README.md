@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Computer viruses are an urban legend.*″
- — Peter Norton, 1988
+> ″*UNIX is simple. It just takes a genius to understand its simplicity.*″
+ — Dennis Ritchie
