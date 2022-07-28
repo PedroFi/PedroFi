@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Copy and paste is a design error.*″
- — David Parnas
+> ″*If you think technology can solve your security problems, then you don’t understand the problems and you don’t understand the technology.*″
+ — Bruce Schneier
