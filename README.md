@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*When he really, really likes a girl, he creates a font and names it after her.*″
- — David Levithan, Every Day
+> ″*First, solve the problem. Then, write the code.*″
+ — John Johnson
