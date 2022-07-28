@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*First, solve the problem. Then, write the code.*″
- — John Johnson
+> ″*Programming can be fun, so can cryptography; however they should not be combined.*″
+ — Kreitzberg and Shneiderman
