@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Computers are fast; programmers keep it slow.*″
- — Unknown
+> ″*A computer once beat me at chess, but it was no match for me at kick boxing.*″
+ — Emo Philips
