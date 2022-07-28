@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*If you think technology can solve your security problems, then you don’t understand the problems and you don’t understand the technology.*″
- — Bruce Schneier
+> ″*When you are stuck in a traffic jam with a Porsche, all you do is burn more gas in idle. Scalability is about building wider roads, not about building faster cars.*″
+ — Steve Swartz
