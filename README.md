@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Computer Science is no more about computers than astronomy is about telescopes.*″
- — Edsger W. Dijkstra
+> ″*The Internet? We are not interested in it.*″
+ — Bill Gates, 1993
