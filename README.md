@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Code never lies, comments sometimes do.*″
- — Ron Jeffries
+> ″*There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors.*″
+ — Leon Bambrick
