@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*UNIX is simple. It just takes a genius to understand its simplicity.*″
- — Unknown
+> ″*A user interface should be so simple that a beginner in an emergency can understand it within ten seconds.*″
+ — Ted Nelson
