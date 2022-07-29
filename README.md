@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There’s no obfuscated Perl contest because it’s pointless.*″
- — Jeff Polk
+> ″*The best way to get accurate information on Usenet is to post something wrong and wait for corrections.*″
+ — Matthew Austern
