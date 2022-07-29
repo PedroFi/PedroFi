@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*The best way to get accurate information on Usenet is to post something wrong and wait for corrections.*″
- — Matthew Austern
+> ″*Today, most software exists, not to solve a problem, but to interface with other software.*″
+ — IO Angell
