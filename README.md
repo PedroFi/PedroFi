@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors.*″
- — Leon Bambrick
+> ″*There’s no obfuscated Perl contest because it’s pointless.*″
+ — Jeff Polk
