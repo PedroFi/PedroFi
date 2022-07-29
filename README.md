@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*A SQL query goes into a bar, walks up to two tables, and asks, ‘Can I join you?’.*″
- — Unknown
+> ″*There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors.*″
+ — Leon Bambrick
