@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*If a machine ever gains awareness, it will be not due to our careful programming, but due to an unforeseeable anomaly.*″
- — Abhijit Naskar, The Gospel of Technology
+> ″*In a room full of top software designers, if two agree on the same thing, that’s a majority.*″
+ — Bill Curtis
