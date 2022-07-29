@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There are two hard things in computer science: cache invalidation, naming things, and off-by-one errors.*″
- — Leon Bambrick
+> ″*From a programmer’s point of view, the user is a peripheral that types when you issue a read request.*″
+ — P. Williams
