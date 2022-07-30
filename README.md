@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*The most likely way for the world to be destroyed, most experts agree, is by accident. That’s where we come in; we’re computer professionals. We cause accidents.*″
- — Nathaniel Borenstein
+> ″*Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the Universe trying to produce bigger and better idiots. So far, the Universe is winning.*″
+ — Unknown
