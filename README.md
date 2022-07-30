@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*BASIC is to computer programming as QWERTY is to typing.*″
- — Seymour Papert
+> ″*I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.*″
+ — Alan Perlis
