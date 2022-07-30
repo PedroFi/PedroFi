@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*I think it is inevitable that people program poorly. Training will not substantially help matters. We have to learn to live with it.*″
- — Alan Perlis
+> ″*There are only two things wrong with C++: The initial concept and the implementation.*″
+ — Bertrand Meyer
