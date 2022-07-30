@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*Perl: The only language that looks the same before and after RSA encryption.*″
- — Keith Bostic
+> ″*Companies spend millions of dollars on firewalls, encryption and secure access devices, and it’s money wasted, because none of these measures address the weakest link in the security chain.*″
+ — Kevin Mitnick
