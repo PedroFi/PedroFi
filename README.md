@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*C++: An octopus made by nailing extra legs onto a dog.*″
- — Unknown
+> ″*The most likely way for the world to be destroyed, most experts agree, is by accident. That’s where we come in; we’re computer professionals. We cause accidents.*″
+ — Nathaniel Borenstein
