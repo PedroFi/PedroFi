@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There are only two things wrong with C++: The initial concept and the implementation.*″
- — Bertrand Meyer
+> ″*Perl: The only language that looks the same before and after RSA encryption.*″
+ — Keith Bostic
