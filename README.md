@@ -1,3 +1,3 @@
 ### *Hello, there! I'm Pedro.*
-> ″*There are only two things wrong with C++: The initial concept and the implementation.*″
- — Bertrand Meyer
+> ″*When I wrote this code, only God and I understood what I did. Now only God knows.*″
+ — Unknown
